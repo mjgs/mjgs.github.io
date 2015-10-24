@@ -11,3 +11,4 @@ github_username:  mjgs
 
 # Build settings
 markdown: kramdown
+timezone: Asia/Bangkok
