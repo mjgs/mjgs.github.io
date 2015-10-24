@@ -107,6 +107,10 @@
     margin-left: 0;
 }
 
+.rss-subscribe {
+  margin: 0;
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -131,6 +135,7 @@
 }
 
 .footer-col-3 {
+    padding-left: 120px;
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
