@@ -19,4 +19,4 @@ For details of the modifications I made to the vanilla install have a look throu
 
 ![Jekyll new install git commits]({{site.baseurl}}/assets/images/github-jekyll-new-install-commits.png)
 
-I'm using Prose.io [Prose.io](http://prose.io/) to edit posts in my web browser. Prose knows about Jekyll so you can create drafts and publish posts, it's also [open source](https://github.com/prose/prose).
+I'm using [Prose.io](http://prose.io/) to edit posts in my web browser. Prose knows about Jekyll so you can create drafts and publish posts, it's also [open source](https://github.com/prose/prose).
