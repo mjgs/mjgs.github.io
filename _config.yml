@@ -15,3 +15,4 @@ timezone: Asia/Bangkok
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
