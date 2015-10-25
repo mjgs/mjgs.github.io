@@ -8,7 +8,7 @@ categories: jekyll
 
 
 
-This initial post is to document how to configure the base Jekyll installation so that it's ready for blogging, with posts displaying on the main page, an archives page that lists all the posts, an about page for a personal description and social media info in the footer.
+This initial post is to document how to configure the base [Jekyll](http://jekyllrb.com/) installation so that it's ready for blogging, with posts displaying on the main page, an archives page that lists all the posts, an about page for a personal description and social media info in the footer.
 
 ![Jekyll customized for blogging]({{site.baseurl}}/assets/images/customized-jekyll-for-blogging.png)
 
