@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Minimal Setup for Blogging with Jekyll
 date: 2015-10-25T11:40:00.000Z
-categories: jekyll
+tags: [blogging with jekyll]
 ---
 
 
