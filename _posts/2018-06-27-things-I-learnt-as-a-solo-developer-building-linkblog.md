@@ -10,7 +10,7 @@ Building a web application as a solo developer ain't easy. There are an insane a
 
 I wanted to take a few minutes to reflect on some of the things that I've learnt along the way:
 
-{:refdef: style="margin-bottom: 14px;"}
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - selecting the right technologies
 - setting up consistent development environment
 - using unix/linux tools effectively
