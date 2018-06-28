@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Things I learnt as a solo developer while building Linkblog.io
+title: Things I learnt as a solo developer building Linkblog.io
 date: 2018-06-26T06:08:17.000Z
 tags: [linkblog] 
 ---
