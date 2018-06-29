@@ -20,6 +20,7 @@ I wanted to take a few minutes to reflect on some of the things that I've learnt
 - testing, linting, logging, debugging
 - securing components
 - scripting and automation
+- setting up server side and client side analytics
 {: refdef}
 
 If you are a solo developer / small team just starting out on your building journey, feel free to [get in touch]({{site.baseurl}}/about/) tell me a bit about yourself. All these things are very fresh in my mind right now, and I am available for consulting gigs! Investing a bit of time and money now might save you weeks if not months of headaches later down the line.
