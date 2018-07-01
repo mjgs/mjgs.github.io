@@ -12,4 +12,4 @@ Check my [LinkedIn](https://www.linkedin.com/in/markjgsmith) profile for more de
 
 Check the [pricing page]({{ site.baseurl }}/pricing) if you are interested in my small team and entrepreneur freelance rates.
 
-Feel free to get in touch with me via email markjgsmith @ gmail.com.
+Feel free to get in touch with me via email markjgsmith@gmail.com.
