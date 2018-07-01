@@ -27,7 +27,7 @@ permalink: /pricing/
         {% endfor %}
       </td>
     </tr>
-  </tobdy>
   {% endfor %}
+  </tbody>
 </table>
 
