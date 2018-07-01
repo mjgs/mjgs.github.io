@@ -4,7 +4,7 @@ title: Pricing
 permalink: /pricing/
 ---
 
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed;">
   <thead>
     <tr style="font-size:18px">
       <th>Services</th>
@@ -12,7 +12,7 @@ permalink: /pricing/
       <th>Standard</th> 
       <th>Premium</th>
     </tr>
-  </tbody>
+  </thead>
   <tbody>
   {% for service in site.data.services %}
     <tr>
