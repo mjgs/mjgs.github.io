@@ -19,9 +19,9 @@ permalink: /pricing/
       <td>{{ service.name }}</td>
         {% for package in service.packages %}  
         <td>
-          <ul style="list-style-type:none;">
+          <ul style="list-style-type:none; text-align:center;">
             <li>{{ package.description }}</li>
-            <li>@ ${{ package.price }}</li>
+            <li>${{ package.price }}</li>
           </ul>
         </td>
         {% endfor %}
