@@ -1,0 +1,55 @@
+- name: consultancy
+  packages:
+    - name: basic
+      description: 30 mins
+      price: 30
+    - name: standard
+      description: 60 mins
+      price: 50
+    - name: premium
+      description: 90 mins
+      price: 70
+- name: infrastructure
+  packages:
+    - name: basic
+      description: 1 server
+      price: 50 
+    - name: standard
+      description: 1 load balancer, 2 servers
+      price: 200 
+    - name: premium
+      description: 1 load balancer, 2 servers, 1 datastore
+      price: 500 
+- name: maintenance
+  packages:
+    - name: basic
+      description: 1 d/w
+      price: 400 
+    - name: standard
+      description: 2 d/w
+      price: 720 
+    - name: premium
+      description: 3 d/w
+      price: 960 
+- name: development
+  packages: 
+    - name: basic
+      description: 1 d/w
+      price: 400 
+    - name: standard 
+      description: 2 d/w
+      price: 720 
+    - name: premium
+      description: 3 d/w
+      price: 960
+- name: writing 
+  packages:
+    - name: basic
+      description: 1 article
+      price: 200
+    - name: standard
+      description: 2 articles
+      price:  375
+    - name: premium
+      description: 3 articles
+      price: 550
