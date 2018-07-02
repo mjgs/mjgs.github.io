@@ -1,9 +1,10 @@
 ---
+title: How I use my linkblog - posting a link to my latest blog post
 published: true
 layout: post
-title: How I use my linkblog - posting a link to my latest blog post
-date: 2018-06-30T12:52:00.000Z
-tags: [linkblog hiuml] 
+date: '2018-06-30 19:52:00 +0700'
+tags:
+- linkblog hiuml
 ---
 
 ## Situation:
@@ -18,7 +19,7 @@ I open the post in my web browser, load the blog post I just wrote and click the
 ![Linkblog popup bookmarklet]({{site.baseurl}}/assets/images/linkblog-link-to-blog-post-01.png)
 {: refdef}
 
-The popup window appears and I add the text "New Blog Post:" to the start of the message text. When I am linking to a blog post I wrote, I always add this prefix so that I can easily search for them later, and it also draws a bit of attention to the link for people that might read my linkblog.
+The popup window appears and I add the text "New Post:" to the start of the message text. When I am linking to a blog post I wrote, I always add this prefix so that I can easily search for them later, and it also draws a bit of attention to the link for people that might read my linkblog.
 
 {:refdef: style="text-align: center;"}
 ![Linkblog popup bookmarklet edit message text]({{site.baseurl}}/assets/images/linkblog-link-to-blog-post-02.png)
@@ -31,6 +32,3 @@ I jump back to the main tab and click the "Post Message" button. The window disa
 {:refdef: style="text-align: center;"}
 ![Linkblog popup bookmarklet add tags]({{site.baseurl}}/assets/images/linkblog-link-to-blog-post-03.png)
 {: refdef}
-
-
-
