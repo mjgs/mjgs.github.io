@@ -1,12 +1,11 @@
 ---
+title: How to get an old jekyll blog active again
 published: true
 layout: post
-title: How to get an old jekyll blog active again
-date: 2018-06-10T10:27:00.000Z
-tags: [blogging jekyll] 
+date: '2018-06-10 17:27:00 +0700'
+tags:
+- blogging jekyll
 ---
-
-
 
 It was actually pretty straight forward. Check that the git remote is still configured, install the jekyll software, follow the instructions in the error messages. I had the dev version of the site back up within a few minutes.
 

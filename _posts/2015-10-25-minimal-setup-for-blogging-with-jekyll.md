@@ -1,17 +1,15 @@
 ---
+title: Minimal Setup for Blogging with Jekyll
 published: true
 layout: post
-title: Minimal Setup for Blogging with Jekyll
-date: 2015-10-25T11:40:00.000Z
-tags: [blogging with jekyll]
+date: '2015-10-25 18:40:00 +0700'
+tags:
+- blogging with jekyll
 ---
-
-
 
 This initial post is to document how to configure the base [Jekyll](http://jekyllrb.com/) installation so that it's ready for blogging, with posts displaying on the main page, an archives page that lists all the posts, an about page for a personal description and social media info in the footer.
 
 ![Jekyll customized for blogging]({{site.baseurl}}/assets/images/customized-jekyll-for-blogging.png)
-
 
 The actual Jekyll installation is covered in the [docs](http://jekyllrb.com/docs/quickstart/). It's pretty straight forward. Setting up free hosting with Github is covered [here](https://help.github.com/articles/using-jekyll-with-pages/).
 

@@ -1,13 +1,11 @@
 ---
+title: Launch on Indie Hackers
 published: true
 layout: post
-title: Launch on Indie Hackers
-date: 2018-06-26T06:08:17.000Z
-tags: [linkblog launch] 
+date: '2018-06-26 13:08:17 +0700'
+tags:
+- linkblog launch
 ---
-
-
-
 
 I unnoficially launched Linkblog.io yesterday on [Indie Hackers](https://www.indiehackers.com/forum/show-ih-linkblog-io-the-minimalist-link-curation-tool-ed12bec825). It's been a long road with a seemingly endless onslaught of showstoppers, but the site is up and running and it's built with a strong architecture, and running on a stable infrastructure with the possibility to scale if necessary.
 
@@ -21,4 +19,4 @@ There was modest amount of hits from around the globe and I even got a comment, 
 
 So today I setup some new views and filters using custom dimensions to show each type of data. Things are looking much better now. :)
 
-If you're intersted in signing up, there is a promo code on the [indie hackers post](https://www.indiehackers.com/forum/show-ih-linkblog-io-the-minimalist-link-curation-tool-ed12bec825), your entire first year for the price of a few cups of coffee. 
+If you're intersted in signing up, there is a promo code on the [indie hackers post](https://www.indiehackers.com/forum/show-ih-linkblog-io-the-minimalist-link-curation-tool-ed12bec825), your entire first year for the price of a few cups of coffee.
