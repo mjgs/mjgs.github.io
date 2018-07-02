@@ -1,9 +1,10 @@
 ---
+title: How I use my linkblog - finding a git tutorial I watched last year
 published: true
 layout: post
-title: How I use my linkblog - finding a git tutorial I watched last year
-date: 2018-06-30T11:17:17.000Z
-tags: [linkblog hiuml search tags] 
+date: '2018-06-30 18:17:17 +0700'
+tags:
+- linkblog hiuml search tags
 ---
 
 ## Situation:
@@ -20,7 +21,7 @@ So I open up my linkblog on the search page. I search for: git patch "youtube.co
 ![Linkblog search]({{site.baseurl}}/assets/images/linkblog-search-01.png)
 {: refdef}
 
-Adding the url in quotes returns exact matches for the url. I hit the search button and receive a load of resuslts. I use the browser in page search by doing ctr-f and type 'patch' in the browser search box window that opens in the top right of the browser. I hit enter and all occurrances of patch are highlighted in yellow. Hitting enter a few more times and the focus jumps down the page and BAM there is the tutorial: "Intro to git patch mode tutorial". As an added bonus I notice that there is another video I posted about git patch right above it. Cool!
+Adding the url in quotes returns exact matches for the url. I hit the search button and receive a load of results. I use the browser in page search by doing ctr-f and type 'patch' in the browser search box window that opens in the top right of the browser. I hit enter and all occurrances of patch are highlighted in yellow. Hitting enter a few more times and the focus jumps down the page and BAM there is the tutorial: "Intro to git patch mode tutorial". As an added bonus I notice that there is another video I posted about git patch right above it. Cool!
 
 {:refdef: style="text-align: center;"}
 ![Linkblog search results]({{site.baseurl}}/assets/images/linkblog-search-02.png)
@@ -29,4 +30,3 @@ Adding the url in quotes returns exact matches for the url. I hit the search but
 I click the cmd-click the domain at the end of the line and a new browser window tab opens up loading the youtube video. Oh so THAT's how to git patch!
 
 Here is a link to that day in my [linkblog timeline](https://linkblog.io/users/mark/?date=28May2017). The video was by a chap named John Karey. Thanks for the video John.
-
