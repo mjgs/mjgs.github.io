@@ -13,6 +13,6 @@ github_username:  mjgs
 markdown: kramdown
 timezone: Asia/Bangkok
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
