@@ -30,6 +30,9 @@ permalink: "/pricing/"
   </tbody>
 </table>
 
+
+For a description of each service check out the this [blog post]({{site.baseurl}}/2018/07/04/decription-of-my-freelance-software-services.html).
+
 Please contact me via email markgsmith@gmail.com for enquiries.
 
 To purchase some software services visit  the [payments page](https://markjgsmith.com/payments/selection);
