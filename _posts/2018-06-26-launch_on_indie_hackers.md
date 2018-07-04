@@ -4,7 +4,8 @@ published: true
 layout: post
 date: '2018-06-26 13:08:17 +0700'
 tags:
-- linkblog launch
+- linkblog
+- launch
 ---
 
 I unnoficially launched Linkblog.io yesterday on [Indie Hackers](https://www.indiehackers.com/forum/show-ih-linkblog-io-the-minimalist-link-curation-tool-ed12bec825). It's been a long road with a seemingly endless onslaught of showstoppers, but the site is up and running and it's built with a strong architecture, and running on a stable infrastructure with the possibility to scale if necessary.

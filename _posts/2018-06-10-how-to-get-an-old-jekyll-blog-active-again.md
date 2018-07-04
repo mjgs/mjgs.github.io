@@ -4,7 +4,8 @@ published: true
 layout: post
 date: '2018-06-10 17:27:00 +0700'
 tags:
-- blogging jekyll
+- blogging
+- jekyll
 ---
 
 It was actually pretty straight forward. Check that the git remote is still configured, install the jekyll software, follow the instructions in the error messages. I had the dev version of the site back up within a few minutes.
