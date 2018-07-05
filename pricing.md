@@ -35,7 +35,7 @@ For a description of each service check out this [blog post]({{site.baseurl}}/20
 
 Please contact me via email markgsmith@gmail.com for enquiries.
 
-To purchase some software services visit  the [payments page](https://markjgsmith.com/payments/selection);
+To purchase some software services visit  the [payments page](https://markjgsmith.com/payments/selection).
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/nodejs-web-development-technologies.png)
