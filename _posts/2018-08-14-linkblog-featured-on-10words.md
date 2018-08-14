@@ -21,4 +21,4 @@ A good example of a linkblog is [my linkblog](https://linkblog.io/users/mark) wh
 
 Some other examples of use are [posting links to blog posts]({{site.baseurl}}/2018/06/30/how-I-use-my-linkblog-posting-a-link-to-my-latest-blog-post.html) and [finding a video you watched last year]({{site.baseurl}}/2018/06/30/how-I-use-my-linkblog-searching-for-a-git-video-tutorial-i-watched-last-year.html) and the latest feature addition is the [navbar globe icon]({{site.baseurl}}/2018/08/09/new-linkblog-feature-navbar-globe-icon.html). Running a linkblog is a great way to build some context around what you are doing. 
 
-This blog post wouldn't be complete without a coupon code. If you've read this far then you're at least curious, if you use 10DAYS at [check out](https://linkblog.io) get 30% discount on your first year, and it's a 30 day money back guaranty.
+This blog post wouldn't be complete without a coupon code. If you've read this far then you're at least curious, if you use 10WORDS at [check out](https://linkblog.io) get 30% discount on your first year, and it's a 30 day money back guaranty.
