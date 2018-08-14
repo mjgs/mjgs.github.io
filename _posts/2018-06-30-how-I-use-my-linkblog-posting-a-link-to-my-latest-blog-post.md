@@ -26,7 +26,7 @@ The popup window appears and I add the text "New Post:" to the start of the mess
 ![Linkblog popup bookmarklet edit message text]({{site.baseurl}}/assets/images/linkblog-link-to-blog-post-02.png)
 {: refdef}
 
-I click on the 'Meta' tab and add some tags. Whie typing the tags, a drop down appears under the tag box to suggest tags that I have previously used in posts. I click the tag in the drop down and it autocompletes the tag in the tag boz or just continue typing and hit enter when I am done typing the tag. Tags can have spaces in them but no underscores.
+I click on the 'Meta' tab and add some tags. While typing the tags, a drop down appears under the tag box to suggest tags that I have previously used in posts. I click the tag in the drop down and it autocompletes the tag in the tag boz or just continue typing and hit enter when I am done typing the tag. Tags can have spaces in them but no underscores.
 
 I jump back to the main tab and click the "Post Message" button. The window disappears as if it was never there. I open my linkblog and find that a new item has been posted linking to the blog post.
 
