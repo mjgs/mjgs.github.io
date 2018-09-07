@@ -16,3 +16,6 @@ timezone: Asia/Bangkok
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+
+minima:
+  date_format: "%B %-d, %Y"
