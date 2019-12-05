@@ -14,16 +14,23 @@ The redesign was actually done and released several months ago, but there were q
 
 Part of what I learnt from the [launch on Indie Hackers]({{site.baseurl}}/2018/06/26/launch_on_indie_hackers.html) was that people really wanted a way to try out the software before committing to a subscription. So as part of the redesign I also updated the signup process so that the initial signup creates a 14 day free trial (no credit card required).
 
+{:refdef: style="text-align: center;"}
 ![Linkblog Redesign - Landing page 1]({{site.baseurl}}/assets/images/redesign2018-landing-page1.png)
+{: refdef}
 
+{:refdef: style="text-align: center;"}
 ![Linkblog Redesign - Landing page 2]({{site.baseurl}}/assets/images/redesign2018-landing-page2.png)
+{: refdef}
 
+{:refdef: style="text-align: center;"}
 ![Linkblog Redesign - Landing page 3]({{site.baseurl}}/assets/images/redesign2018-landing-page3.png)
-
+{: refdef}
 
 The redesign itself is based on one of the free bootstrap themes from [Themes For App](https://themesfor.app), I customised one of the themes to create the main landing page, signup and signin pages.
 
+{:refdef: style="text-align: center;"}
 ![Linkblog Redesign - Main page]({{site.baseurl}}/assets/images/redesign2018-main-page.png)
+{: refdef}
 
 The rest of the site needed a bit of a refurbish so I decided it was a good time to upgrade the style framework I use called [Bootstrap](https://getbootstrap.com) from v3 to the latest v4. I was able to get rid of some rather crufty old frontend code and replace it with new bootstrap components that use solid and modern CSS. Visually the site is a lot cleaner, the most obvious change is the toolbar along the top of the page which has changed from solid black to a lighter grey, which I think along with the other improvements in the latest Bootstrap results in a site that is nice to use and keeps with the minimalist ethos.
 
