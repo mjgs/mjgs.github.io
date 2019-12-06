@@ -2,7 +2,7 @@
 title: Building the foundations for the future of linkblog
 published: true
 layout: post
-date: '2019-12-05 11:50:00 +0700'
+date: '2019-12-06 11:50:00 +0700'
 tags:
 - linkblog
 - development
