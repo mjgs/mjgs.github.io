@@ -1,5 +1,5 @@
 ---
-title: 'Steady and stable progress'
+title: Steady and stable progress
 published: true
 layout: post
 date: '2019-12-07 14:40:00 +0700'
@@ -8,7 +8,7 @@ tags:
 - development
 ---
 
-Along with the linkblog [site redesign]({{site.baseurl}}/2019/12/04/linkblog-new-look.html) and more recent [foundations building]({{site.baseurl}}/2019/12/05/foundations-laid.html), I’ve made steady progress with other items too, including:
+Along with the linkblog [site redesign]({{site.baseurl}}/2019/12/04/linkblog-new-look.html) and more recent [foundations building]({{site.baseurl}}/2019/12/06/building-the-foundations-for-the-future-of-linkblog.html), I’ve made steady progress with other items too, including:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Improved useability during signup, activation and onboarding
