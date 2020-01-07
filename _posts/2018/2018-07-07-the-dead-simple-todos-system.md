@@ -4,7 +4,7 @@ published: true
 layout: post
 date: '2018-07-07 20:51:06 +0700'
 tags:
-- todos 
+- todos
 - scripting
 - shell
 - bash

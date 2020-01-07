@@ -32,5 +32,3 @@ Because of previous work done to build a staging environment and load balance th
 Here is the [status page](https://status.linkblog.io) for the previous month:
 
 ![Linkblog status page - November 2019]({{site.baseurl}}/assets/images/linkblog-status-page-2019-november.png)
-
-*For project development enquiries feel free to [contact me via email]({{site.baseurl}}/about).*

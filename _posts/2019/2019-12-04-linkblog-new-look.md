@@ -39,5 +39,3 @@ One big issue was that the latest Bootstrap broke the site content security poli
 Little did I know that the redesign was only the beginning of a long voyage of discovery, though there wasn't a whole lot of actual movement so it's more a voyage of the mind and keyboard. I'll be following up this post with a summary of the recent major changes in the linkblog foundations.
 
 I hope you like the new look!
-
-*For project development enquiries feel free to [contact me via email]({{site.baseurl}}/about).*

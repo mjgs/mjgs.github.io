@@ -33,5 +33,3 @@ So a webhook arrives, is recorded in the database, and scheduled jobs run and ad
 The cool thing about queues is that they can be used for lots of tasks that don't need to be part of handling website requests. I’m hoping to migrate a bunch of tasks like data exports and generating custom domain certificates to use the queuing system in the near future. Being able to off-load tasks to the queues will keep the site performing well.
 
 The new billing system, the scheduler and queues are 3 core components that are fundamental going forward.
-
-*For project development enquiries feel free to [contact me via email]({{site.baseurl}}/about).*

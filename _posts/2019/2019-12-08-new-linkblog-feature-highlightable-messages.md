@@ -29,5 +29,3 @@ Each message in the search page results has a highlightable message url as the h
 {: refdef}
 
 I hope you enjoy the new feature!
- 
- *For project development enquiries feel free to [contact me via email]({{site.baseurl}}/about).*
