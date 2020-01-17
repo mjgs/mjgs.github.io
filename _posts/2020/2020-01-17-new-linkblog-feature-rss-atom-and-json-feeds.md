@@ -36,7 +36,7 @@ The most common type of feed is RSS so that's what is used in your navbar. Atom 
 
 A very typically thing people do with feeds is add them to their feed reader, which makes it possible to read many sites from 1 place rather than have to remember to visit all the sites individually. Seen like this, feeds are very similar to the follow feature seen in many social media sites, they have the advantage of working across many sites, though they are a bit more complicated.
 
-Feeds also make it possible to do things automatically with your posts, like posting them to sites like Twitter or Facebook. For example I have setup my lnkblog so days are posted to my twitter account [@markjgsmith](https://twitter.com/markjgsmith). There are lots of 3rd party online sites that offer rss-to-[insert favorite social media site] type services.
+Feeds also make it possible to do things automatically with your posts, like posting them to sites like Twitter or Facebook. For example I have setup my lnkblog so days are posted to my Twitter account [@markjgsmith](https://twitter.com/markjgsmith). There are lots of 3rd party online sites that offer rss-to-[insert favorite social media site] type services.
 
 For a more detailed decription about feeds check out the [You Need Feeds](https://www.youneedfeeds.com) site. Also useful is this [list of rss feeds for social media sites](https://www.labnol.org/internet/rss-feeds-directory/21242/) which might give you some ideas about what is possible.
 
