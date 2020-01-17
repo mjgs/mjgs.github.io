@@ -40,3 +40,4 @@ Feeds also make it possible to do things automatically with your posts, like pos
 
 For a more detailed decription about feeds check out the [You Need Feeds](https://www.youneedfeeds.com) site. Also useful is this [list of rss feeds for social media sites](https://www.labnol.org/internet/rss-feeds-directory/21242/) which might give you some ideas about what is possible.
 
+If you want to try out running a linkblog then signup for the 14 day [free trial](https://linkblog.io/signup), after the trial it's just a few dollars per year.
