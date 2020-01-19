@@ -32,6 +32,8 @@ As far as the contract google search 'standard exchange of services contract' or
 - Hourly rate applicable for maintenance after contract finishes, should be arranged as a seperate engagment
 {: refdef}
 
+Also worth checking out is this article that has [lots of details about freelance contracts](https://www.codementor.io/blog/freelance-web-developer-contract-2uncidz6la).
+
 ### Marketing
 
 Some way to promote your services, this doesn't need to be too envolved initially. 
