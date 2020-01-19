@@ -46,3 +46,9 @@ A basic website with a logo, contact details, short description of the services 
 General advice is to deliver a working website using new accounts for hosting and give these to customer as a deliverable. Hosting your customers website is not advised.
 
 Now you have the basic infrastructure to make proposals, draft contracts, and receive payments.
+
+*Related posts*:
+
+[List of freelance web development websites and marketplaces]({{site.baseurl}}/2020/01/19/list-of-freelance-web-development-websites-and-marketplaces.html)
+
+[List of remote friendly web development job board websites]({{site.baseurl}}/2020/01/19/list-of-remote-friendly-web-development-job-board-websites.html)
