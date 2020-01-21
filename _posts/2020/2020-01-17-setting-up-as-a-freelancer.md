@@ -39,7 +39,6 @@ Also worth checking out is this article that has [lots of details about freelanc
 Some way to promote your services, this doesn't need to be too envolved initially. 
 
 A basic website with a logo, contact details, short description of the services offered. Something you can add to the footer of your emails, it will be useful for referals too, a way for other to point people towards you. You might want to setup a blog at some stage, but initially a basic 1 page website should be enough.
-{: refdef}
 
 ### How to deliver
 
