@@ -10,6 +10,8 @@ tags:
 
 Just a quick test to see if it's possible to write a blog post directly in Github.
 
-Usually when you push to Github using git, it triggers Jekyll to rebuild the static site, but I don't know if that happens if you save the file directly to the repo without a push. Based on this [stack overflow post](https://stackoverflow.com/questions/24098792/how-to-force-github-pages-build) looks like it probably isn't but figured I would test it out just in case.
+Usually when you push to Github using git, it triggers Jekyll to rebuild the static site, but I don't know if that happens if you save the file directly to the repo without a push. Based on this [stack overflow post](https://stackoverflow.com/questions/24098792/how-to-force-github-pages-build) looks like it probably doesn't but figured I would test it out just in case.
 
-Update: It worked! My first attempt didn't work because I forgot the .md file extension, once I got the file name right, the build was automatically triggered. Saving the file now should result in another build which will add this update.
+Update 1: It worked! My first attempt didn't work because I forgot the .md file extension, once I got the file name right, the build was automatically triggered. Saving the file now should result in another build which will add this update.
+
+Update 2: The update resulted in a site build too :)
