@@ -15,3 +15,5 @@ Usually when you push to Github using git, it triggers Jekyll to rebuild the sta
 Update 1: It worked! My first attempt didn't work because I forgot the .md file extension, once I got the file name right, the build was automatically triggered. Saving the file now should result in another build which will add this update.
 
 Update 2: The update resulted in a site build too :)
+
+Update 3: However I now see that though there is an edit button for files that already exist, there is no "create new file" button in the mobile version of guthub.com :(
