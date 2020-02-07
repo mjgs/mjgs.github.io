@@ -25,6 +25,13 @@ Here is a list of websites for finding freelancing opportunities:
 - [And.co freelance Jobs](https://www.and.co/freelance-jobs)
 - [Gigster](https://gigster.com)
 - [MoonlightWork](https://www.moonlightwork.com) - Has a Stripe integration
+- [Authentic Jobs](https://authenticjobs.com)
+- [Indeed](https://www.indeed.com)
+- [Guru](https://www.guru.com)
+- [People Per Hour](https://www.peopleperhour.com)
+- [Craiglist](https://www.craigslist.org/about/sites)
+- [Github](https://jobs.github.com/positions)
+- [Find Bacon](https://jobs.github.com/positions)
 {: refdef}
 
 Also worth checking out is this article that has lots of [details about freelance contracts](https://www.codementor.io/blog/freelance-web-developer-contract-2uncidz6la).
