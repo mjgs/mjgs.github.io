@@ -33,6 +33,8 @@ permalink: "/pricing/"
 
 For a description of each service check out this [blog post]({{site.baseurl}}/2018/07/04/decription-of-my-freelance-nodejs-software-services.html).
 
+I'm open to other pricing structures, discounts might be possible, let's have a conversation.
+
 Please contact me via email markgsmith@gmail.com for enquiries.
 
 To purchase some software services visit  the [payments page](https://markjgsmith.com/payments/selection).
