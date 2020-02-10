@@ -37,7 +37,7 @@ I'm open to other pricing structures, discounts might be possible, let's have a 
 
 Please contact me via email markgsmith@gmail.com for enquiries.
 
-To purchase some software services visit  the [payments page](https://markjgsmith.com/payments/selection).
+To purchase some software services visit the [services selection page](https://markjgsmith.com/selection).
 
 Full code for this website is viewable on [github](https://github.com/mjgs/markjgsmith.com).
 
