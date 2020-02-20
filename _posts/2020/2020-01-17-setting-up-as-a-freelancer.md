@@ -18,6 +18,8 @@ Freelancers need a way to receive payments. There are a lot of online services t
 
 Another possibility here is to use a partly self hosted solution. You will need some web development skills, but you could use the [Freelancer](https://github.com/mjgs/freelancer) project (One of my projects) to host a payment site that uses [Stripe](https://stripe.com) as the backend payment provider. You can host the code on a public Github repo, so customers can inspect the code if they want.
 
+Joan from Toptal contacted me after reading this post to inform me that they have just released a [freelance calculator](https://www.toptal.com/developers/hourly-rate) tool that could be useful to easily figure out your hourly rate and yearly income. Thanks Joan!
+
 ### Contracts
 
 You will need some basic freelancer contracts that will clearly set out the project goals and responsibilities, and a way to send these contracts back and forth securly. [Docusign](https://www.docusign.com) has been recommended a lot, but there are other similar services available online, easily findable via Google search.
