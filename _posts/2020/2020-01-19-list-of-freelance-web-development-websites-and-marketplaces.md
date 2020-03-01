@@ -14,7 +14,7 @@ When looking for remote web development opportunities there are broadly two cate
 Here is a list of websites for finding freelancing opportunities:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- [YCombinator](https://news.ycombinator.com) - Look for monthly ["Freelancer? Seeking Freelancer?"](https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Freelancer%3F%20Seeking%20Freelancer%3F&sort=byDate&type=story) posts
+- [YCombinator](https://news.ycombinator.com) - Look for monthly ["Freelancer? Seeking Freelancer?"](https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=Ask%20HN%3A%20Freelancer%3F%20Seeking%20Freelancer%3F&sort=byDate&type=story) posts
 - [Upwork](https://upwork.com)
 - [Freelancer](https://freelancer.com)
 - [Toptal](https://www.toptal.com)

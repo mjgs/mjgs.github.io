@@ -29,6 +29,7 @@ Here is a list of websites for finding remote position opportunities:
 - [Remoteok.io](https://remoteok.io)
 - [Stack Overflow Remote Developer Jobs](https://stackoverflow.com/jobs/remote-developer-jobs)
 - [Nodesk.co](https://nodesk.co/remote-jobs)
+- [YCombinator](https://news.ycombinator.com/news) - Look for monthly ["Who's hiring?"](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story) posts
 {: refdef}
 
 List of remote friendly companies:
