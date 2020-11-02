@@ -9,7 +9,7 @@ tags:
 - agile
 - nodejs
 ---
-A short while ago I was wanting to have a self-hosted tool to manage sets if of tasks in an efficient way, so that tasks actually get done. I wanted it to be simple enough not to require much maintenance, with minimal chances of something breaking because of software upgrades. 
+A short while ago I was wanting to have a self-hosted tool to manage sets of tasks in an efficient way, so that tasks actually get done. I wanted it to be simple enough not to require much maintenance, with minimal chances of something breaking because of software upgrades. 
 
 I built a simple statically generated web based tool that is based on the agile software development methodology, which uses a “backlog” of “stories” that you complete during time periods called “sprints” (usually 2 weeks long).
 
@@ -17,9 +17,7 @@ Another key idea is that writing things down is a great way to focus on the task
 
 It uses the [eleventy](https://www.11ty.dev) static site generator to render all the pages. 
 
-Here is the Github repo:
-
-https://github.com/mjgs/eleventy-agile-blog
+Here is the [Github repo](https://github.com/mjgs/eleventy-agile-blog).
 
 How does it work? 
 
