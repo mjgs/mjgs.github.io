@@ -23,25 +23,25 @@
 - name: maintenance
   packages:
     - name: basic
-      description: 1 d/w
+      description: per day
       price: 400 
     - name: standard
-      description: 2 d/w
-      price: 720 
+      description: per day
+      price: 400
     - name: premium
-      description: 3 d/w
-      price: 960 
+      description: per day
+      price: 400
 - name: development
   packages: 
     - name: basic
-      description: 1 d/w
+      description: per day
       price: 400 
     - name: standard 
-      description: 2 d/w
-      price: 720 
+      description: per day
+      price: 400 
     - name: premium
-      description: 3 d/w
-      price: 960
+      description: per day
+      price: 400
 - name: writing 
   packages:
     - name: basic
