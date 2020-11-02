@@ -1,6 +1,6 @@
 ---
 title: Tags
-layout: page
+layout: default
 permalink: "/tags/"
 ---
 {% comment %}
