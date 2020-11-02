@@ -31,11 +31,13 @@ From the repo docs:
 
 Benefits:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Self hosted - run it in the cloud or just locally on you machine
 - Everything is a file, versioned using git
 - Create items written in [markdown](https://www.markdownguide.org/basic-syntax)
 - Easily backup your repo using one of the many git hosting providers
 - Never have a migration problem, it’s all just text files
 - Works offline
+{: refdef}
 
 This is aimed at personal use rather than for large projects. I think for big projects, especially where you are collaborating with others, it’s probably better to use more comprehensive tools.
