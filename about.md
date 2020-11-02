@@ -10,7 +10,7 @@ I am currently available for hire to work on web development & automation projec
 
 Check my [LinkedIn](https://www.linkedin.com/in/markjgsmith) profile for more details about me.
 
-I'm also on Github where you'll find mire details about me on my [main page profile](https://github.com/mjgs).
+I'm also on Github where you'll find more details about me on my [main page profile](https://github.com/mjgs).
 
 You can find links to my online social media pages on the [homepage](https://markjgsmith.com).
 
