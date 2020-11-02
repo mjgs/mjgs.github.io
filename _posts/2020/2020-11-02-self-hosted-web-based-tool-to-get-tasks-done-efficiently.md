@@ -17,7 +17,7 @@ Another key idea is that writing things down is a great way to focus on the task
 
 It uses the [Eleventy](https://www.11ty.dev) static site generator to render all the pages. 
 
-Here is the [Github repo](https://github.com/mjgs/eleventy-agile-blog).
+Here is the [Github repo](https://github.com/mjgs/eleventy-agile-blog) and there is a [demo site](https://festive-haibt-b7ead0.netlify.app) with a bit of example data.
 
 How does it work? 
 
