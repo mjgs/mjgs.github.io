@@ -11,7 +11,7 @@ tags:
 ---
 A short while ago I was wanting to have a self-hosted tool to manage sets of tasks in an efficient way, so that tasks actually get done. I wanted it to be simple enough not to require much maintenance, with minimal chances of something breaking because of software upgrades. 
 
-I built a simple statically generated web based tool that is based on the agile software development methodology, which uses a “backlog” of “stories” that you complete during time periods called “sprints” (usually 2 weeks long).
+I built a simple statically generated web based tool that is based on the [agile software development](https://www.atlassian.com/agile) methodology, which uses a “backlog” of “stories” that you complete during time periods called “sprints” (usually 2 weeks long).
 
 Another key idea is that writing things down is a great way to focus on the task at hand and a way to drive your way as you forge your path.
 
