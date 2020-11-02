@@ -9,6 +9,7 @@ tags:
 - content
 - linkblog
 - nodejs
+- jamstack
 ---
 I’ve spent the past few weeks making some updates to the build system of the latest incarnation of my long running [linkblog](https://links.markjgsmith.com), now a statically generated website, and in doing so had my first chance to try out [GitHub Actions](https://github.com/features/actions). What I’ve discovered is how versatile Github Actions is, making it possible to create a very wide variety of developer workflows, but following the recent trend of building static websites (a.k.a [jamstack](https://jamstack.org) sites), GitHub Actions also opens up all sorts of possibilities for creating custom content workflows, which content creators could find very interesting. In this post I’m going to describe what’s possible but without a lot of the complicated jargon.
 
