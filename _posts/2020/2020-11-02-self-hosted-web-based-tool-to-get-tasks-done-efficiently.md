@@ -15,7 +15,7 @@ I built a simple statically generated web based tool that is based on the [agile
 
 Another key idea is that writing things down is a great way to focus on the task at hand and a way to drive your way as you forge your path.
 
-It uses the [eleventy](https://www.11ty.dev) static site generator to render all the pages. 
+It uses the [Eleventy](https://www.11ty.dev) static site generator to render all the pages. 
 
 Here is the [Github repo](https://github.com/mjgs/eleventy-agile-blog).
 
