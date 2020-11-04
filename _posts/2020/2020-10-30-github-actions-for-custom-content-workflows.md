@@ -13,7 +13,7 @@ tags:
 ---
 I’ve spent the past few weeks making some updates to the build system of the latest incarnation of my long running [linkblog](https://links.markjgsmith.com), now a statically generated website. In doing so I had my first chance to try out [GitHub Actions](https://github.com/features/actions) and what I discovered is an extremely versatile tool that makes it possible to create a very wide variety of software developer workflows, centering predominantly around coding activities.
 
-I believe another area where Github Actions might be very effective is in modern collaborative workflows for content creators. And this is happening now, because of the recent resurgence of building static websites in a way refered to as the [jamstack](https://jamstack.org). 
+I believe another area where Github Actions might be very effective is in modern collaborative workflows for content creators. And this is happening now because of the recent resurgence of building static websites in a way refered to as the [Jamstack](https://jamstack.org). 
 
 In this post I’m going to describe the pieces of the puzzle, and the types of workflows that are possible, but without a lot of the complicated jargon.
 
