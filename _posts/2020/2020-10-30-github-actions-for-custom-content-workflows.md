@@ -37,7 +37,7 @@ One of the major benefits of creating a content workflow that uses git, is that 
 
 As an example, for my linkblog I have some HTML forms built using [serverless](https://css-tricks.com/serverless) cloud functions, that I use to easily add new content to a Github repo throughout the day. I have a scheduled workflow that runs at the end of every day and merges in the new content in a safe way using what is called a ‘Pull Request’, often referred to as a PR. This makes it easy to revert the merge if that’s ever necessary. There is then another workflow that detects newly merged content and triggers a site re-build, and then a deploy to the website hosting provider, and the site is live with the new content.
 
-It’s also possible to use some of the other tools that Github offers as part of the workflow, for example the Issues page, to create places where you can discuss new additions with collaborators, as well as setup notifications, and to only publish content that has been approved by a certain number of reviewers.
+It’s also possible to use some of the other tools that Github provides as part of the workflow, for example the Issues and Pull-Request pages, to create places where you can discuss new additions with collaborators, as well as setup notifications, and to only publish content that has been approved by a certain number of reviewers.
 
 It’s not strictly text based content either, as part of my updates I added a [podcast](https://podcasts.markjgsmith.com) to my website. The files are hosted outside of Github, but the GitHub action renders all the podcast pages and creates the RSS feed. 
 
