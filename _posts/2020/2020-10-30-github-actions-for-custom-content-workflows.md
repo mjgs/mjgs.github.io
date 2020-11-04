@@ -17,7 +17,7 @@ I believe another area where Github Actions might be very effective is in modern
 
 In this post I’m going to describe the pieces of the puzzle, and the types of workflows that are possible, but without a lot of the complicated jargon.
 
-[Github](https://github.com) is most well known for hosting repositories, places where developers can collaborate on code. It’s really a web interface for the git command line tool, which can be used completely separately, but their interface has become very popular over the past few years, and they are a big reason why there has been a renaissance in open source software.
+[Github](https://github.com) is most well known for hosting repositories, places where developers can collaborate on code. It’s really a web interface for the open source git command line tool, which can be used completely separately, but their interface has become very popular over the past few years, and they are a big reason why there has been a renaissance in open source software.
 
 Github Actions is their workflow automation tool, and it has a focus on automating tasks in and around repositories. It makes it possible to trigger custom actions when various repository events happen, such as adding new content, or when users have reviewed content, or when discussions mention a certain keyword, and lots more. It’s really very versatile.
 
