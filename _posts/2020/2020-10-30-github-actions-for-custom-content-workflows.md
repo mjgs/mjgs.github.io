@@ -21,7 +21,7 @@ In this post I’m going to describe the pieces of the puzzle, and the types of 
 
 Github Actions is their workflow automation tool, and it has a focus on automating tasks in and around repositories. It makes it possible to trigger custom actions when various repository events happen, such as adding new content, or when users have reviewed content, or when discussions mention a certain keyword, and lots more. It’s really very versatile.
 
-The Jamstack movement is a way to build websites that has become popular recently. It focusses on pre-rendering all the pages of a website so that they are static files, rather than have a server running an application that dunamically renders the pages when they are requested. There is a lot of variations and nuance to what it encompasses but that’s the general idea. A lot of the technology isn’t actually new but it’s the first time this way of thinking about and building sites has had a name, and it’s resulted in some very interesting forward motion in how websites are built.
+The Jamstack movement is a way to build websites that has become popular recently. It focusses on pre-rendering all the pages of a website so that they are static files, rather than have a server running an application that dynamically renders the pages when they are requested. There is a lot of variations and nuance to what it encompasses but that’s the general idea. A lot of the technology isn’t actually new but it’s the first time this way of thinking about and building sites has had a name, and it’s resulted in some very interesting forward motion in how websites are built.
 
 There are a lot of benefits to Jamstack sites including:
 
