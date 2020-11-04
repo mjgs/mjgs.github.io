@@ -21,9 +21,15 @@ In this post I’m going to describe the pieces of the puzzle, and the types of 
 
 Github Actions is their workflow automation tool, and it has a focus on automating tasks in and around repositories. It makes it possible to trigger custom actions when various repository events happen, such as adding new content, or when users have reviewed content, or when discussions mention a certain keyword, and lots more. It’s really very versatile.
 
-The Jamstack movement is a way to build website that has become popular recently. It focusses on statically pre-rendering all the pages of a website rather than have a server running an application that renders the pages when they are requested. There is a lot of variations and nuance to what it encompasses but that’s the general idea. A lot of the technology isn’t actually new but it’s the first time this way of thinking about and building sites has had a name, and it’s resulted in some very interesting forward motion in how websites are built.
+The Jamstack movement is a way to build websites that has become popular recently. It focusses on pre-rendering all the pages of a website so that they are static files, rather than have a server running an application that dunamically renders the pages when they are requested. There is a lot of variations and nuance to what it encompasses but that’s the general idea. A lot of the technology isn’t actually new but it’s the first time this way of thinking about and building sites has had a name, and it’s resulted in some very interesting forward motion in how websites are built.
 
-There are a lot of benefits to Jamstack sites including security because there’s no server to hack, speed because all the pages are pre-rendered, but also because this way if working is naturally a good fit for automation and so opens up new possibilites for collaborating.
+There are a lot of benefits to Jamstack sites including:
+
+- Security because there’s no server to hack
+- Speed because all the pages are pre-rendered 
+- Being a naturally a good fit for automation 
+
+And it's this last point that opens up new possibilites for collaborating.
 
 I’ve been running my [linkblog](https://links.markjgsmith.com) for close to 10 years, there is a lot of content, but it’s possible to render out all the site pages in just a few seconds. I’ve built my own static site generator (SSG) tool in NodeJS because I’ve been able to optimise for that use case specifically, but there are many open source [SSG](https://jamstack.org/generators) tools out there.
 
