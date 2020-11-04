@@ -11,11 +11,11 @@ tags:
 - nodejs
 - jamstack
 ---
-I’ve spent the past few weeks making some updates to the build system of the latest incarnation of my long running [linkblog](https://links.markjgsmith.com), now a statically generated website. In doing so I had my first chance to try out [GitHub Actions](https://github.com/features/actions) and what I discovered was an extremely versatile tool that makes it possible to create a very wide variety of developer workflows, which tend to center around coding activities.
+I’ve spent the past few weeks making some updates to the build system of the latest incarnation of my long running [linkblog](https://links.markjgsmith.com), now a statically generated website. In doing so I had my first chance to try out [GitHub Actions](https://github.com/features/actions) and what I discovered is an extremely versatile tool that makes it possible to create a very wide variety of software developer workflows, centering predominantly around coding activities.
 
-I believe another area where actions might be very effective is in content workflows, driven by the recent resurgence of building static websites (a.k.a the [jamstack](https://jamstack.org)), and content creators might find these new ways of working very interesting. 
+I believe another area where Github Actions might be very effective is in modern collaborative workflows for content creators. And this is happening now, because in-part of the recent resurgence of building static websites in a way refered to as the [jamstack](https://jamstack.org)). 
 
-In this post I’m going to describe what’s possible but without a lot of the complicated jargon.
+In this post I’m going to describe the pieces of the puzzle, and the types of workflows that are possible, but without a lot of the complicated jargon.
 
 [Github](https://github.com) is most well known for hosting repositories, places where developers can collaborate on code. It’s really a web interface for the git command line tool, which can be used completely separately, but their interface has become very popular over the past few years, and they are a big reason why there has been a renaissance in open source software.
 
