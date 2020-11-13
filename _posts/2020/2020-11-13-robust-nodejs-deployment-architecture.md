@@ -13,6 +13,10 @@ tags:
 
 The aim of this post is to succinctly describe an effective and robust architecture for self hosting your NodeJS web applications. I’m going to stay relatively high level, describing the technologies, and components, so by the end of it you will have a good idea of what such a system looks like. There is a focus on standard well tested pieces rather than the latest shiny cloud / containerisation offerings. It is well suited for running small to medium size applications.
 
+{:refdef: style="text-align:center;margin-top:50px;"}
+![Node.js web development technologies]({{site.baseurl}}/assets/images/nodejs-web-development-technologies.png)
+{: refdef}
+
 ## Features:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
