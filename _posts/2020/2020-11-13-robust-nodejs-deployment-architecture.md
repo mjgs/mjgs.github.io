@@ -124,11 +124,11 @@ Consider backing up:
 - Configurations for every 3rd party application you are using
 {: refdef}
 
-It’s a good idea to use storage from big cloud providers, they are low cost and have good scripting tools. Be careful about security, only give the minimum of access rights necessary to perform a given task.
+It’s a good idea to use storage from big cloud providers, they are low cost and have good scripting tools.
 
 ## Security
 
-It’s important to configure your machines securely, set firewalls (local and cloud) appropriately. Always use TLS/SSL for inter machine communication. Follow the security advice from the various pieces of software you install, for example creating different users for specific purposes e.g. application access vs access for backups.
+It’s important to configure your machines securely, set firewalls (local and cloud) appropriately. Always use TLS/SSL for inter machine communication. Follow the security advice from the various pieces of software you install, for example creating different users for specific purposes e.g. application access vs access for backups. Only give the minimum of access rights necessary to perform a given task.
 
 ## Staging and production environments
 
