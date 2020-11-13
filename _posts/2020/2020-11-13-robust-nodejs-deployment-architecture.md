@@ -11,7 +11,7 @@ tags:
 ---
 ## Introduction
 
-The aim of this post is to succinctly describe an effective and robust architecture for self hosting your NodeJS web applications. I’m going to stay relatively high level, describing the technologies, and components, so by the end of it you will have a good idea of what such a system looks like. There is a focus on standard well tested pieces rather than the latest shiny cloud / containerisation offerings. It is well suited for running small to medium size applications.
+The aim of this post is to succinctly describe an effective and robust architecture for self hosting your NodeJS web applications. I’m going to stay relatively high level, describing the technologies, and components, by the end of it you will have a good idea of what such a system looks like. There is a focus on standard well tested pieces rather than the latest shiny cloud / containerisation offerings. It is well suited for running small to medium size applications.
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/nodejs-web-development-technologies.png)
@@ -29,7 +29,7 @@ The aim of this post is to succinctly describe an effective and robust architect
 - Backed up, easy to restore
 - Easy machine provisioning
 - Easy deploy code
-- Support multiple database
+- Support multiple databases
 {: refdef}
 
 ## 3 main components
@@ -48,7 +48,7 @@ Having a load balancer ensures that you can have several application servers run
 
 As for the application servers, you can separate out web servers from API servers, but for ease of maintenance you can also just run both on the same machine on different ports, with a reverse proxy on the machine directing the requests to the right application. In this way you have one discrete unit which makes it much easier to add capacity. In the vaste majority of cases this setup is good enough, though could be optimised later.
 
-Having a shared datastore is key to being able to run the application servers in parallel. This is a single machine that has a large storage volume mounted. It runs all the databases which write their data to the storage volume. The datastore can also run on a clustered set of machines fir high availability, though this adds quite a lot of complexity, so initially it’s probably best to run one machine with good backups, so if anything goes wrong you can be back up and running with a minimum of downtime.
+Having a shared datastore is key to being able to run the application servers in parallel. This is a single machine that has a large storage volume mounted. It runs all the databases which write their data to the storage volume. The datastore can also run on a clustered set of machines for high availability, though this adds quite a lot of complexity, so initially it’s probably best to run one machine with good backups, so if anything goes wrong you can be restored and running with a minimum of downtime.
 
 ## Technologies
 
@@ -78,9 +78,9 @@ You can keep things quite simple in this regard, using a [Bash](https://en.m.wik
 These are some of the important Linux items you would need to know about:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- [sshd](https://en.m.wikipedia.org/wiki/OpenSSH) server for ssh connections
+- [sshd](https://en.m.wikipedia.org/wiki/OpenSSH) - server for ssh connections
 - [stunnel](https://www.stunnel.org) - creates secure connections, used on datastore for application without built in SSL - e.g. Redis
-- [ufw](https://en.m.wikipedia.org/wiki/Uncomplicated_Firewall) / i[ptables](https://en.m.wikipedia.org/wiki/Iptables) - firewalls
+- [ufw](https://en.m.wikipedia.org/wiki/Uncomplicated_Firewall) / [iptables](https://en.m.wikipedia.org/wiki/Iptables) - firewalls
 - [PKI](https://smallstep.com/blog/everything-pki.html) and creating self-signed certificates
 - [logrotate](https://www.tecmint.com/install-logrotate-to-manage-log-rotation-in-linux/) - manage rotating and backing up application log files
 - [cron](https://en.m.wikipedia.org/wiki/Cron) - schedule the running of maintenance scripts like backups
@@ -88,9 +88,9 @@ These are some of the important Linux items you would need to know about:
 - [rsync](https://en.m.wikipedia.org/wiki/Rsync) - securely synchronize files between machines
 {: refdef}
 
-It’s likely that your [VPS](https://en.m.wikipedia.org/wiki/Virtual_private_server) hosting provider has an API and / or command line tools, making it possible create a provisioning script that creates a VPS server, rsyncs the bash install script to the machine and runs it. So with a minimum of fuss you can provision fresh servers by running a script, so it’s completely repeatable.
+It’s likely that your [VPS](https://en.m.wikipedia.org/wiki/Virtual_private_server) hosting provider has an API and / or command line tools, making it possible to create a provisioning script that creates a VPS server, rsyncs the bash install script to the machine and runs it. So with a minimum of fuss you can provision fresh servers by running a script, so it’s completely repeatable.
 
-It’s worth noting that there are modern tools that use containerisation like Kubernetes, which are very powerful but can get quite complex.
+It’s worth noting that there are modern tools that use containerisation like [Kubernetes](https://en.m.wikipedia.org/wiki/Kubernetes), which are very powerful but can get quite complex.
 
 ## Deploying code
 
@@ -128,7 +128,7 @@ It’s a good idea to use storage from big cloud providers, they are low cost an
 
 ## Security
 
-It’s important to configure your machines securely, set firewalls (local and cloud) appropriately. Always use TLS/SSL fir inter machine communication. Follow the security advice from the various pieces of software you install, for example creating different users for specific purposes e.g. application access vs access for backups etc.
+It’s important to configure your machines securely, set firewalls (local and cloud) appropriately. Always use TLS/SSL for inter machine communication. Follow the security advice from the various pieces of software you install, for example creating different users for specific purposes e.g. application access vs access for backups.
 
 ## Staging and production environments
 
