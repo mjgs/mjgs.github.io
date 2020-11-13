@@ -17,7 +17,7 @@ The aim of this post is to succinctly describe an effective and robust architect
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/nodejs-web-development-technologies.png)
 {: refdef}
 
-## Features:
+## Features
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Standard VPS machines
@@ -32,7 +32,7 @@ The aim of this post is to succinctly describe an effective and robust architect
 - Support multiple database
 {: refdef}
 
-## 3 main components:
+## 3 main components
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Load balancer
@@ -50,7 +50,7 @@ As for the application servers, you can separate out web servers from API server
 
 Having a shared datastore is key to being able to run the application servers in parallel. This is a single machine that has a large storage volume mounted. It runs all the databases which write their data to the storage volume. The datastore can also run on a clustered set of machines fir high availability, though this adds quite a lot of complexity, so initially it’s probably best to run one machine with good backups, so if anything goes wrong you can be back up and running with a minimum of downtime.
 
-## Technologies:
+## Technologies
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - [Nginx](https://www.nginx.com) - Load balancer and reverse proxy
