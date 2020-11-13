@@ -20,15 +20,15 @@ The aim of this post is to succinctly describe an effective and robust architect
 ## Features
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- Standard VPS machines
+- Runs on standard VPS hosts 
 - Possibility to scale
 - Secure
 - Easy to maintain
 - Fault tolerant
 - Low cost
-- Backed up, easy to restore
+- Backed up and easy to restore
 - Easy machine provisioning
-- Easy deploy code
+- Easy to deploy code
 - Support multiple databases
 {: refdef}
 
@@ -40,7 +40,7 @@ The aim of this post is to succinctly describe an effective and robust architect
 - Datastore
 {: refdef}
 
-During it’s life cycle, a client web request travels over the internet and eventually arrives at the load balancer where any SSL/TLS connections are terminated, then re-encrypted using self-signed certs and sent to an available application server. That application server performs the tasks it needs to do, persisting information on the shared datastore. Responses are sent directly from the application servers to the client.
+During it’s life cycle, a client web request travels over the internet and eventually arrives at the load balancer where any SSL/TLS connections are terminated, then re-encrypted using self-signed certs and sent to an available application server. That application server performs the tasks it needs to do, persisting information on a shared datastore. Responses are sent directly from the application servers to the client.
 
 The SSL/TLS termination happens on the load balancer because it makes managing the certificates much easier, with only a single place to renew, create, update and backup certificates.
 
@@ -79,7 +79,7 @@ These are some of the important Linux items you would need to know about:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - [sshd](https://en.m.wikipedia.org/wiki/OpenSSH) - server for ssh connections
-- [stunnel](https://www.stunnel.org) - creates secure connections, used on datastore for application without built in SSL - e.g. Redis
+- [stunnel](https://www.stunnel.org) - creates secure connections, used on datastore for applications without built in SSL - e.g. Redis
 - [ufw](https://en.m.wikipedia.org/wiki/Uncomplicated_Firewall) / [iptables](https://en.m.wikipedia.org/wiki/Iptables) - firewalls
 - [PKI](https://smallstep.com/blog/everything-pki.html) and creating self-signed certificates
 - [logrotate](https://www.tecmint.com/install-logrotate-to-manage-log-rotation-in-linux/) - manage rotating and backing up application log files
@@ -144,6 +144,6 @@ The infrastructure side of running applications can get quite complex, but there
 - Be able to deploy anywhere
 {: refdef}
 
-It’s also worth experimenting with integrating [serverless](https://serverless.css-tricks.com/about/ ) technologies for aspects that are very high load, the low cost and high performance might be worth the portability trade-off, but be aware that a move might require rewriting parts of your application.
+It’s also worth experimenting with integrating [serverless](https://serverless.css-tricks.com/about/ ) technologies for aspects that are very high load, the low cost and high performance might be worth the portability trade-off, but be aware that a move might require rewriting parts of your application should you need to change providers.
 
 If you are building such a system or similar, check out my [web development and automation services](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html), consider hiring [me](https://github.com/mjgs) :)
