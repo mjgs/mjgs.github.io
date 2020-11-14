@@ -58,7 +58,8 @@ Having a shared datastore is key to being able to run the application servers in
 - [Letsencrypt](https://letsencrypt.org/getting-started/ ) certbot - for generating and maintaining certificates
 - [Linux Ubuntu](https://ubuntu.com) - Operating system for all 3 components
 - [Pm2](https://pm2.keymetrics.io) - NodeJS process manager, runs the applications, handles logging and a variety of other runtime activities
-- Queuing - Very important for fault tolerant backend systems, several popular solutions including RabbitMQ, but also several mongodb backed libraries
+- [RabbitMQ](https://www.rabbitmq.com) - Message queue software very important for fault tolerant backend systems, 
+- [Mongodb-queue](https://github.com/chilts/mongodb-queue) - Message queue implemented via a NodeJS library backed by MongoDB
 {: refdef}
 
 ## Provisioning infrastructure
