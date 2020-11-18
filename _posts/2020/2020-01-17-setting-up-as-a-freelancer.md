@@ -4,7 +4,7 @@ published: true
 layout: post
 date: '2020-01-17 18::48:00 +0700'
 tags:
-- freelancing
+- freelance
 - web development
 ---
 
