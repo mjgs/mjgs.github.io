@@ -5,7 +5,6 @@ layout: post
 date: '2018-06-30 19:52:00 +0700'
 tags:
 - linkblog
-- hiuml
 ---
 
 ## Situation:
