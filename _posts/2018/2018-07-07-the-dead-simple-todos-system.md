@@ -6,9 +6,9 @@ date: '2018-07-07 20:51:06 +0700'
 tags:
 - productivity
 - scripting
-- shell
 - bash
 - tools
+- linux
 ---
 
 Over the years I've tried a variety of sofware solutions to todo lists but I always find that eventually I end up just opening a empty file and typing a text list. It's just so straight forward. Almost as if writing a list in a notebook, which of course is the ultimate todo list solution.
