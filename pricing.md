@@ -33,13 +33,11 @@ permalink: "/pricing/"
 
 For a description of each service check out this [blog post]({{site.baseurl}}/2018/07/04/decription-of-my-freelance-nodejs-software-services.html).
 
-I'm open to other pricing structures, discounts might be possible, let's have a conversation.
+I'm open to other pricing structures, including retainer arrangements, discounts might be possible, let's have a conversation.
 
 Please contact me via email markgsmith@gmail.com for enquiries.
 
-To purchase some software services visit the [services selection page](https://markjgsmith.com/selection).
-
-Full code for this website is viewable on [github](https://github.com/mjgs/markjgsmith.com).
+To purchase some software services and / or products visit the [payments page](https://payments.markjgsmith.com).
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/nodejs-web-development-technologies.png)

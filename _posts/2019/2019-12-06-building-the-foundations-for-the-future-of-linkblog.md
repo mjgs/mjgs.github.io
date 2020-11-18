@@ -5,7 +5,7 @@ layout: post
 date: '2019-12-06 11:50:00 +0700'
 tags:
 - linkblog
-- development
+- programming
 ---
 
 Earlier in the year I did a [pretty big redesign]({{site.baseurl}}/2019/12/04/linkblog-new-look.html) of the site which lead to upgrading the style framework which ended up being rather a lot of work, but the site looks great now and still minimalist. The redesign resulted in me building and introducing 3 new core components:

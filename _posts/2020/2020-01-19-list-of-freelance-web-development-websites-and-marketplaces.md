@@ -4,9 +4,9 @@ published: true
 layout: post
 date: 2020-01-19 19:51:00:00 +0700
 tags:
-- freelancing
+- freelance
 - web development
-- job boards
+- jobs
 ---
 
 When looking for remote web development opportunities there are broadly two categories - freelancing and remote positions.
