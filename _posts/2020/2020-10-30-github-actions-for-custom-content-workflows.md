@@ -6,6 +6,7 @@ date: 2020-10-30 19:24:00:00 +0700
 tags:
 - github
 - workflows
+- automation
 - content
 - linkblog
 - nodejs
