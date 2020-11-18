@@ -6,11 +6,7 @@ date: '2020-01-17 15:21:00 +0000'
 tags:
 - linkblog
 - feature
-- rss
-- atom
-- json
-- feeds
-- syndication
+- protocols
 ---
 
 The latest linkblog feature is feeds. These are a versions of your linkblog that are easily readable by a computer. This makes it easier for people to read your linkblog but also enables you to do neat things like auto post your links to social media such as Twitter and Facebook. Each time a day finishes where you posted links, the hash link of that day gets added to your feed.
