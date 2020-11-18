@@ -5,8 +5,8 @@ layout: post
 date: '2018-07-05 18:03:58 +0700'
 tags:
 - ruby 
-- rbenv 
-- install 
+- tools
+- programming
 ---
 
 I was able to upgrade ruby versions. These are the commands I had to run. I will spare you the error messages and detours.
