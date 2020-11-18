@@ -5,7 +5,7 @@ layout: post
 date: '2018-07-07 20:51:06 +0700'
 tags:
 - productivity
-- scripting
+- programming
 - bash
 - tools
 - linux
