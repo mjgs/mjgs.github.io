@@ -10,6 +10,7 @@ tags:
 - web development
 - automation
 - workflows
+- programming
 ---
 
 The **consultancy service** is very straight forward, it covers any aspect of building cloud web applications and is delivered via Skype call. It is customizable to the clients needs but generally covers architecture, building and deployment as well as things like efficient setup of developer environments.
