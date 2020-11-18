@@ -11,6 +11,7 @@ tags:
 - linkblog
 - nodejs
 - jamstack
+- programming
 ---
 I’ve spent the past few weeks making some updates to the build system of the latest incarnation of my long running [linkblog](https://links.markjgsmith.com), now a statically generated website. In doing so I had my first chance to try out [GitHub Actions](https://github.com/features/actions) and what I discovered is an extremely versatile tool that makes it possible to create a very wide variety of software developer workflows, centering predominantly around coding activities.
 
