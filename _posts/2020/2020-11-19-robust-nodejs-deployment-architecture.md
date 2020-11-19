@@ -14,12 +14,14 @@ Earlier in the year [MDN Web Docs turned 15 years old](https://hacks.mozilla.org
 
 But how big are they? 
 
-Let’s look at a few stats :
+Let’s look at a few stats:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - 15 million views per month
 - 3,000 new articles in the last 3 years, 260,000 article edits
 - Grown in double-digit percentages, year over year, every year since 2015
 - Serving more than 15 million web developers on a monthly basis
+{: refdef}
 
 They are big! 
 
@@ -45,10 +47,12 @@ And the key takeway:
 
 In the piece they list many reasons including:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Making it much easier to add new features to the platform
 - Better contribution workflow, moving a Wiki model to a pull request (PR) model
 - Better community building by adding discussion, feedback, review and approve steps
 - Simplified frontend architecture improving accessibility
+{: refdef}
 
 And they go on to describe the planned architecture in a lot of detail with some illustrative diagrams. [Jamstack](https://jamstack.org) website architectures are officially where new [custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html ) are being built. 
 
