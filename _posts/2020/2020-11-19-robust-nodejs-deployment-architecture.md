@@ -23,9 +23,9 @@ Let’s look at a few stats :
 
 They are big! 
 
-They’re also doing a phenomenal job of organising the web’s developer documentation, adding new sites features to make learning easier, while building a vibrant community.
+They’re also doing a phenomenal job of organising the web’s developer documentation, adding new site features to make learning easier, while building a vibrant community.
 
-So it’s big new when they decide to re-architect their platform, especially when it happens just after they announced 250 layoffs (1/4 of its workforce).
+So it’s big new when they decide to re-architect their platform, especially when it happens just after they announced 250 layoffs (1/4 of it's workforce).
 
 I posted [on my linkblog](https://links.markjgsmith.com/archives/html/2020/11/#2November2020 ) a few weeks ago:
 
@@ -50,6 +50,4 @@ In the piece they list many reasons including:
 - Better community building by adding discussion, feedback, review and approve steps
 - Simplified frontend architecture improving accessibility
 
-And they go on to describe the planned architecture in a lot of detail with some illustrative diagrams. [Jamstack](https://jamstack.org) website architectures are officially where new [custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html ) are being built.
-
-It’s an exiting time in web development where some of the architectures that have powered the web for the past 10 years are being rewritten to enable new ways of collaborating together to make digital media.
+And they go on to describe the planned architecture in a lot of detail with some illustrative diagrams. [Jamstack](https://jamstack.org) website architectures are officially where new [custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html ) are being built. The architectures that have powered the web for the past 10 years are being rewritten enabling new ways of collaborating together to make digital media.
