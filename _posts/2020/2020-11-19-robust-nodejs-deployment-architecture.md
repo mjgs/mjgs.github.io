@@ -49,8 +49,8 @@ In the piece they list many reasons including:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Making it much easier to add new features to the platform
-- Better contribution workflow, moving a Wiki model to a pull request (PR) model
-- Better community building by adding discussion, feedback, review and approve steps
+- Better contribution workflow, moving from a Wiki model to a pull request (PR) model
+- Better community building by adding discussions, feedback, review and approve steps
 - Simplified frontend architecture improving accessibility
 {: refdef}
 
