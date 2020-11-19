@@ -50,4 +50,6 @@ In the piece they list many reasons including:
 - Better community building by adding discussion, feedback, review and approve steps
 - Simplified frontend architecture improving accessibility
 
-And they go on to describe the planned architecture in a lot of detail with some illustrative diagrams. [Jamstack](https://jamstack.org) website architectures are officially where new [custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html ) are being built. The architectures that have powered the web for the past 10 years are being rewritten enabling new ways of collaborating together to make digital media.
+And they go on to describe the planned architecture in a lot of detail with some illustrative diagrams. [Jamstack](https://jamstack.org) website architectures are officially where new [custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html ) are being built. 
+
+I think this is perhaps a sign that there are some big shifts happening in web development where the architectures that have powered the web for the past 10 years are being rewritten enabling new ways of collaborating together to make digital media. I wonder which other large websites will make similar moves.
