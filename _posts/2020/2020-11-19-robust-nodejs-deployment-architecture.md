@@ -27,7 +27,7 @@ They are big!
 
 They’re also doing a phenomenal job of organising the web’s developer documentation, adding new site features to make learning easier, while building a vibrant community.
 
-So it’s big new when they decide to re-architect their platform, especially when it happens just after they announced 250 layoffs (1/4 of it's workforce).
+So it’s big news when they decide to re-architect their platform, especially when it happens just after they announced 250 layoffs (1/4 of it's workforce).
 
 I posted [on my linkblog](https://links.markjgsmith.com/archives/html/2020/11/#2November2020 ) a few weeks ago:
 
