@@ -27,4 +27,4 @@ What I suggest to clients that want to work with me live is to start with a 1-3 
 
 I am open to long term arrangements and would be happy to transition to a more permanent role, but I could also continue on as a freelancer, whichever suits your needs best.
 
-Check out the [services description](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html) and [price list](https://blog.markjgsmith.com/pricing) for more details.
+Check out the [service package descriptions](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html) and [price list](https://blog.markjgsmith.com/pricing) for more details.
