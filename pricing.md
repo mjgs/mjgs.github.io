@@ -33,7 +33,7 @@ permalink: "/pricing/"
 
 For a description of each service check out this [blog post]({{site.baseurl}}/2018/07/04/decription-of-my-freelance-nodejs-software-services.html).
 
-I'm open to other pricing structures, including retainer arrangements, discounts might be possible, let's have a conversation.
+I'm open to other pricing structures, including retainer arrangements, discounts might be possible, transitioning to a more permanent role might be possible, let's have a conversation.
 
 Kindly check out [my policy on job interviews](https://blog.markjgsmith.com/2020/11/20/my-policy-on-job-interviews.html).
 
