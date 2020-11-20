@@ -19,7 +19,7 @@ For new accounts I have 1 short call to meet and get a high level overview of th
 
 My policy then is quite simple. My hands don’t touch the keyboard until I am getting paid. Also if you want consulting services, it’s possible, but again you need to pay me for that.
 
-For clients that want extended discussions, I suggest the consulting package which is delivered via video chat. We can verbally discuss code in any way you would like. 
+For clients that want extended discussions, I suggest the consultancy package which is delivered via video chat. We can verbally discuss code in any way you would like. 
 
 You can send me short code samples to read in advance if you’d like so we have something concrete to discuss.
 
