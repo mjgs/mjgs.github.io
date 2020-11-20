@@ -23,4 +23,4 @@ The **development service** covers the development of NodeJS based web applicati
 
 The **writing service** is aimed at internet publications that wish to create content for their websites. It could cover any aspects of web development, and might be in the form of a tutorial or perhaps an essay expressing an opinion on a particular aspect of modern technology. The details could be fleshed out via a short consultancy service.
 
-The [pricing page]({{site.baseurl}}/pricing) has the full list of the packages for each service.If you would like to purchase some software services visit the [payments page](https://markjgsmith.com/payments/selection).
+The [pricing page]({{site.baseurl}}/pricing) has the full list of the packages for each service. If you would like to purchase some software services or products visit the [payments page](https://payments.markjgsmith.com).
