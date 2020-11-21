@@ -1,5 +1,5 @@
 ---
-title: I've started a Newsletter
+title: I've started a Newsletter!
 published: true
 layout: post
 date: 2020-11-21 10:59:00:00 +0700
