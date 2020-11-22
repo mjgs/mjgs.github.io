@@ -26,6 +26,6 @@ If this truely is happening, it makes no sense whatsoever.
 
 Why would a website owner that makes money from people viewing their website risk that by blocking users from viewing their website even when they are not legally required to do so?
 
-Are they living in a strange parallel universe where money doesn’t affect them?
+Are they living in a strange parallel universe where money doesn’t affect them? (serious question btw)
 
 There’s must be some crucial bit of missing information here, because it really makes no sense.
