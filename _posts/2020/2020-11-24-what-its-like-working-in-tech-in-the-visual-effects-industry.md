@@ -15,12 +15,14 @@ I’ve built and supported many workflows for visual effects productions on big 
 
 Movies such as
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - [Mirrormask](https://m.imdb.com/title/tt0366780/?ref_=fn_al_tt_0)
 - [Are we there yet?](https://m.imdb.com/title/tt0368578/?ref_=fn_al_tt_0)
 - [Charlie and the Chocolate Factory](https://m.imdb.com/title/tt0367594/?ref_=fn_al_tt_0)
 - [Children of Men](https://m.imdb.com/title/tt0206634/?ref_=fn_al_tt_0)
 - [Harry Potter and the Goblet of Fire](https://m.imdb.com/title/tt0330373/?ref_=m_ttls_tt_4)
 - [The Golden Compass](https://m.imdb.com/title/tt0385752/?ref_=fn_al_tt_1)
+{: refdef}
 
 And hundreds more like those, working alongside digital artists and producers to build novel ways of collaborating. It’s been a few years now, I’ve since moved into enterprise software and now web development, but I thought it would be interesting to write a piece about my experiences in the visual effects (vfx) industry.
 
