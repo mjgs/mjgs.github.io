@@ -19,7 +19,7 @@ Though the site was a tremendous success in terms of meeting my personal learnin
 
 **I’m still linkblogging!**
 
-I’ve been experimenting with [Jamstack](https://jamstack.org), [Serverless](https://en.m.wikipedia.org/wiki/Serverless_computing) and [GitHub Actions](https://github.com/features/actions) and have built a prototype linkblog static site generator that I’m using every day.  It’s totally serverless. It’s pretty sweet.
+I’ve been experimenting with [Jamstack](https://jamstack.org), [Serverless](https://en.m.wikipedia.org/wiki/Serverless_computing) and [GitHub Actions](https://github.com/features/actions) and have built a prototype linkblog static site generator that I’m using every day. It builds [10 years of content](https://links.markjgsmith.com/archives/html) in just a few seconds. It’s totally serverless. It’s pretty sweet.
 
 I’ve been blown away with the possibilities that the jamstack opens up for [creating custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html). 
 
