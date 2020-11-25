@@ -23,7 +23,7 @@ I’ve been experimenting with [Jamstack](https://jamstack.org), [Serverless](ht
 
 I’ve been blown away with the possibilities that the jamstack opens up for [creating custom content workflows](https://blog.markjgsmith.com/2020/10/30/github-actions-for-custom-content-workflows.html). 
 
-I’ve also started a *weekly newsletter* where I share the best posts from the linkblog.
+I’ve also started a **weekly newsletter** where I share the best posts from the linkblog.
 
 The general theme is javascript / tech / web development, but I also blend in some other topics from time to time.
 
