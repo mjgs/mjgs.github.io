@@ -17,7 +17,7 @@ Linkblog.io the minimalist link curation tool, the Saas I spent 3 years building
 
 Though the site was a tremendous success in terms of meeting my personal learning and development goals, building a robust SaaS from soup to nuts, ultimately I didn’t get the traction as far as user base that I had hoped for. Continuing to maintain the site didn’t make sense because it wasn’t generating any income.
 
-**I’m still linkblogging!**
+**[I’m still linkblogging!](https://links.markjgsmith.com)**
 
 I’ve been experimenting with [Jamstack](https://jamstack.org), [Serverless](https://en.m.wikipedia.org/wiki/Serverless_computing) and [GitHub Actions](https://github.com/features/actions) and have built a prototype linkblog static site generator that I’m using every day. It builds [10 years of content](https://links.markjgsmith.com/archives/html) in just a few seconds. It’s totally serverless. It’s pretty sweet.
 
