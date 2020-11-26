@@ -62,10 +62,60 @@ Though the UI is quite minimalist and mostly text based, there was quite a lot g
 
 Finally here are some screenshots of the UI:
 
-{:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page - Header]({{site.baseurl}}/assets/images/linkblog/01_landing-page_header.png)
-{: refdef}
 
 Landing Page - Header
+
+![Landing Page - Description]({{site.baseurl}}/assets/images/linkblog/02_landing-page_description.png)
+
+Landing Page - Description
+
+![Landing Page - Features]({{site.baseurl}}/assets/images/linkblog/03_landing-page_features.png)
+
+Landing Page - Features
+
+![Landing Page Latest News]({{site.baseurl}}/assets/images/linkblog/04_landing-page_latest-news.png)
+
+Landing Page Latest News
+
+![User Linkblog Page]({{site.baseurl}}/assets/images/linkblog/05_user-linkblog-page.png)
+
+User Linkblog Page
+
+![User Post Message Page]({{site.baseurl}}/assets/images/linkblog/06_user-post-message-page.png)
+
+User Post Message Page
+
+![User Archives Page]({{site.baseurl}}/assets/images/linkblog/07_user-archives-page.png)
+
+User Archives Page
+
+![User Search Page]({{site.baseurl}}/assets/images/linkblog/08_user-search-page.png)
+
+User Search Page
+
+![User Edit Mode Page]({{site.baseurl}}/assets/images/linkblog/09_user_edit_mode_page.png)
+
+User Edit Mode Page
+
+![FAQ Page]({{site.baseurl}}/assets/images/linkblog/10_faq_page.png)
+
+FAQ Page
+
+![User Billing Page - Fresh Load]({{site.baseurl}}/assets/images/linkblog/11_user-billing-page_fresh-load.png)
+
+User Billing Page - Fresh Load
+
+![User Billing Page - Add or Update Card Extended]({{site.baseurl}}/assets/images/linkblog/12_user-billing-page_add-or-update-card-extended.png)
+
+User Billing Page - Add or Update Card Extended
+
+![User Profile Page]({{site.baseurl}}/assets/images/linkblog/13_user-profile-page.png)
+
+User Profile Page
+
+![User RSS Feed]({{site.baseurl}}/assets/images/linkblog/14_user-rss-feed.png)
+
+User RSS Feed
 
 That was linkblog.io!
