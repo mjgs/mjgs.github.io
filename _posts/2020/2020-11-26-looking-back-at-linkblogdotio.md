@@ -62,4 +62,9 @@ Though the UI is quite minimalist and mostly text based, there was quite a lot g
 
 Finally here are some screenshots of the UI:
 
+{:refdef: style="text-align:center;margin-top:50px;"}
+![Landing Page - Header]({{site.baseurl}}/assets/images/linkblog/01_landing-page_header.png)
+Landing Page - Header
+{: refdef}
+
 That was linkblog.io!
