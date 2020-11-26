@@ -18,12 +18,14 @@ I’ve been running a linkblog for close to 10 years. In a lot of ways all the l
 
 These were the high level goals of the system that emerged over time:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - A robust tool that did what it was designed to do and do it well
 - Have a minimalist user interface, emphasis on text content
 - Easily scalable to handle growth
 - Deployable to standard VPS hosting
 - Fault tolerant and able to have zero downtime deploys
 - Resilient so that any component could be easily rebuilt from backups where necessary 
+{: refdef}
 
 From a technical standpoint I achieved all of these goals.
 
@@ -31,6 +33,7 @@ I wrote about [Robust NodeJS Architectures](https://blog.markjgsmith.com/2020/11
 
 Some other application level features and capabilities that are worth mentioning:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - MongoDB sessions support
 - Redis sessions support
 - Rate limiting using Redis
@@ -41,14 +44,17 @@ Some other application level features and capabilities that are worth mentioning
 - Custom domains
 - SCA compliant billing system (Stripe + webhooks)
 - Production and staging environments
+{: refdef}
 
 Implemented using bash scripts:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Repeatable server provisioning system
 - Application build and deploy system
 - Backup and restore of certificates and databases
 - Log file backup and cleanup
 - Certificate renewal
+{: refdef}
 
 Though the UI is quite minimalist and mostly text based, there was quite a lot going on underneath. I had envisaged that the system could have been quite easily and safely extended.
 
