@@ -86,19 +86,19 @@ User Linkblog Page
 
 User Post Message Page
 
-![User Archives Page]({{site.baseurl}}/assets/images/linkblog/07_user-archives-page.png)
+![User Archives Page]({{site.baseurl}}/assets/images/linkblog/07_user_archives_page.png)
 
 User Archives Page
 
-![User Search Page]({{site.baseurl}}/assets/images/linkblog/08_user-search-page.png)
+![User Search Page]({{site.baseurl}}/assets/images/linkblog/08_user_search_page.png)
 
 User Search Page
 
-![User Edit Mode Page]({{site.baseurl}}/assets/images/linkblog/09_user_edit_mode_page.png)
+![User Edit Mode Page]({{site.baseurl}}/assets/images/linkblog/09_user-edit-mode-page.png)
 
 User Edit Mode Page
 
-![FAQ Page]({{site.baseurl}}/assets/images/linkblog/10_faq_page.png)
+![FAQ Page]({{site.baseurl}}/assets/images/linkblog/10_faq-page.png)
 
 FAQ Page
 
@@ -106,7 +106,7 @@ FAQ Page
 
 User Billing Page - Fresh Load
 
-![User Billing Page - Add or Update Card Extended]({{site.baseurl}}/assets/images/linkblog/12_user-billing-page_add-or-update-card-extended.png)
+![User Billing Page - Add or Update Card Extended]({{site.baseurl}}/assets/images/linkblog/12_user_billing-page_addorupdate-card-extended.png)
 
 User Billing Page - Add or Update Card Extended
 
