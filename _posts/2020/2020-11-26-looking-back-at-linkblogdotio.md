@@ -25,7 +25,7 @@ These were the high level goals of the system that emerged over time:
 - Deployable to standard VPS hosting
 - Fault tolerant and able to have zero downtime deploys
 - Resilient so that any server could be easily rebuilt from scratch using backups where necessary 
-{: refdef}
+{:refdef}
 
 From a technical standpoint I achieved all of these goals.
 
@@ -44,7 +44,7 @@ Some other application level features and capabilities that are worth mentioning
 - Custom domains
 - SCA compliant billing system (Stripe + webhooks)
 - Production and staging environments
-{: refdef}
+{:refdef}
 
 Implemented using bash scripts:
 
@@ -54,7 +54,7 @@ Implemented using bash scripts:
 - Backup and restore of certificates and databases
 - Log file backup and cleanup
 - Certificate renewal
-{: refdef}
+{:refdef}
 
 Most of these features were added as a necessity in response to real world events that happened during development.
 
@@ -65,71 +65,71 @@ Finally here are some screenshots of the UI:
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page - Header]({{site.baseurl}}/assets/images/linkblog/01_landing-page_header.png)
 Landing Page - Header
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page - Description]({{site.baseurl}}/assets/images/linkblog/02_landing-page_description.png)
 Landing Page - Description
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page - Features]({{site.baseurl}}/assets/images/linkblog/03_landing-page_features.png)
 Landing Page - Features
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page Latest News]({{site.baseurl}}/assets/images/linkblog/04_landing-page_latest-news.png)
 Landing Page Latest News
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Linkblog Page]({{site.baseurl}}/assets/images/linkblog/05_user-linkblog-page.png)
 User Linkblog Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Post Message Page]({{site.baseurl}}/assets/images/linkblog/06_user-post-message-page.png)
 User Post Message Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Archives Page]({{site.baseurl}}/assets/images/linkblog/07_user-archives-page.png)
 User Archives Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Search Page]({{site.baseurl}}/assets/images/linkblog/08_user-search-page.png)
 User Search Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Edit Mode Page]({{site.baseurl}}/assets/images/linkblog/09_user_edit_mode_page.png)
 User Edit Mode Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![FAQ Page]({{site.baseurl}}/assets/images/linkblog/10_faq_page.png)
 FAQ Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Billing Page - Fresh Load]({{site.baseurl}}/assets/images/linkblog/11_user-billing-page_fresh-load.png)
 User Billing Page - Fresh Load
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Billing Page - Add or Update Card Extended]({{site.baseurl}}/assets/images/linkblog/12_user-billing-page_add-or-update-card-extended.png)
 User Billing Page - Add or Update Card Extended
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User Profile Page]({{site.baseurl}}/assets/images/linkblog/13_user-profile-page.png)
 User Profile Page
-{: refdef}
+{:refdef}
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![User RSS Feed]({{site.baseurl}}/assets/images/linkblog/14_user-rss-feed.png)
 User RSS Feed
-{: refdef}
+{:refdef}
 
 That was linkblog.io!
