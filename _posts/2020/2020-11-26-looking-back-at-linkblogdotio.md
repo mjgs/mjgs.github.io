@@ -19,12 +19,12 @@ I’ve been running a linkblog for close to 10 years. In a lot of ways all the l
 These were the high level goals of the system that emerged over time:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- A robust tool that did what it was designed to do and do it well
+- Robust implemenation that does what it was designed to do and does it well
 - Have a minimalist user interface, emphasis on text content
 - Easily scalable to handle growth
 - Deployable to standard VPS hosting
 - Fault tolerant and able to have zero downtime deploys
-- Resilient so that any component could be easily rebuilt from backups where necessary 
+- Resilient so that any server could be easily rebuilt from scratch using backups where necessary 
 {: refdef}
 
 From a technical standpoint I achieved all of these goals.
@@ -56,7 +56,9 @@ Implemented using bash scripts:
 - Certificate renewal
 {: refdef}
 
-Though the UI is quite minimalist and mostly text based, there was quite a lot going on underneath. I had envisaged that the system could have been quite easily and safely extended.
+Most of these features were added as a necessity in response to real world events that happened during development.
+
+Though the UI is quite minimalist and mostly text based, there was quite a lot going on underneath. The system could have been quite easily and safely extended.
 
 Finally here are some screenshots of the UI:
 
