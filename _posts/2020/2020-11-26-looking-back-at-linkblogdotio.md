@@ -64,7 +64,8 @@ Finally here are some screenshots of the UI:
 
 {:refdef: style="text-align:center;margin-top:50px;"}
 ![Landing Page - Header]({{site.baseurl}}/assets/images/linkblog/01_landing-page_header.png)
-Landing Page - Header
 {: refdef}
+
+Landing Page - Header
 
 That was linkblog.io!
