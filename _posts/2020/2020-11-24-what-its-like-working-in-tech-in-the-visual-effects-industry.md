@@ -78,4 +78,4 @@ The other thing that was happening at the time I was there, on top of the genera
 
 Was it cool? Yeah it was pretty cool. 
 
-I gained a solid foundation in using cool technologies, building infrastructure and workflows, in figuring out new ways of collaborating and streamlining existing processes using both off-the-shelf / open source tools, and writing our own when necessary.
+I gained a solid foundation in using cool technologies, in building infrastructure and workflows, in figuring out new ways of collaborating and in streamlining existing processes using both off-the-shelf / open source tools, and writing our own when necessary.
