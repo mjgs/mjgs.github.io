@@ -46,13 +46,13 @@
   packages: 
     - name: basic
       description: custom + expenses
-      price: custom + expenses
+      price:  custom
     - name: standard 
       description: custom + expenses
-      price: custom
+      price:  custom
     - name: premium
       description: custom + expenses
-      price: custom + expenses
+      price:  custom
 - name: writing 
   packages:
     - name: basic
