@@ -21,7 +21,7 @@ The **maintenance service** is aimed at maintenance and support of a web applica
 
 The **development service** covers the development of NodeJS based web applications and could cover any type of application. It also covers the development of software based automation and workflows. I recommend doing some consultancy services sessions first to determine the application specifics before starting a development services engagement.
 
-The **custom training service** covers the creation and delivery of custom training on web development and automation/workflow design and implementation. These can be made to suit customer needs, could involve a systems discovery and consulting phase, and delivered either onsite or remotely via video conferencing tools. Other training topics might be possible.
+The **custom training service** covers the creation and delivery of custom training on web development and automation/workflow design and implementation. These can be made according to customer needs, could involve a systems discovery and consulting phase, and delivered either onsite or remotely via video conferencing tools. Other training topics might be possible.
 
 The **writing service** is aimed at internet publications that wish to create content for their websites. It could cover any aspects of web development, and might be in the form of a tutorial or perhaps an essay expressing an opinion on a particular aspect of modern technology. The details could be fleshed out via a short consultancy service.
 
