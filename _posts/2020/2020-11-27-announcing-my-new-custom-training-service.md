@@ -8,6 +8,7 @@ tags:
 - nodejs
 - web development
 - automation
+- services
 ---
 I’m adding a new package to my professional services called the **Custom Training Service**.
 
