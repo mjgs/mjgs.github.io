@@ -42,7 +42,7 @@
     - name: premium
       description: per day
       price: 400
-name: custom training
+- name: custom training
   packages: 
     - name: basic
       description: custom + expenses
