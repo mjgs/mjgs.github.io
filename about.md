@@ -6,7 +6,7 @@ permalink: "/about/"
 
 Hi I'm Mark, a freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Javascript Web Developer, Consultant and Automation Engineer. 
 
-I've [worked in feature film visual effects](https://blog.markjgsmith.com/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), a startup in the enterprise software space, and I've [built my own SaaS](https://blog.markjgsmith.com/2020/11/26/looking-back-at-linkblogdotio.html).
+I've worked in [feature film visual effects companies](https://blog.markjgsmith.com/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), a startup in the enterprise software space, and I've [built my own SaaS](https://blog.markjgsmith.com/2020/11/26/looking-back-at-linkblogdotio.html).
 
 I am currently available for hire.
 
