@@ -42,6 +42,17 @@
     - name: premium
       description: per day
       price: 400
+name: custom training
+  packages: 
+    - name: basic
+      description: custom + expenses
+      price: custom + expenses
+    - name: standard 
+      description: custom + expenses
+      price: custom
+    - name: premium
+      description: custom + expenses
+      price: custom + expenses
 - name: writing 
   packages:
     - name: basic
