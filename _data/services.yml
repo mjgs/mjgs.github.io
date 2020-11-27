@@ -45,14 +45,14 @@
 - name: custom training
   packages: 
     - name: basic
-      description: custom + expenses
-      price:  custom
+      description: custom price + expenses
+      price:  ?
     - name: standard 
-      description: custom + expenses
-      price:  custom
+      description: custom price + expenses
+      price:  ?
     - name: premium
-      description: custom + expenses
-      price:  custom
+      description: custom price + expenses
+      price:  ?
 - name: writing 
   packages:
     - name: basic
