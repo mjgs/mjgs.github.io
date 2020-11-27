@@ -17,10 +17,12 @@ Here’s the description from the [services description page](https://blog.markj
 
 I have previous experience developing custom training programs for 
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Onboarding artists at vfx companies
 - Rapidly documenting feature film custom workflows using video interviews
 - Training users on enterprise software products
 - Training users on workflow and automation integrations
+{: refdef}
 
 My specialities are NodeJS web development and automation/workflows, but I could also create custom training programs on other topics.
 
