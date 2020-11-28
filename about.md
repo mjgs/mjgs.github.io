@@ -12,6 +12,6 @@ More details about me on [LinkedIn](https://www.linkedin.com/in/markjgsmith), [G
 
 **I am currently available for hire.**
 
-I offer a variety of [freelance services] charged according to the [price list]({{ site.baseurl }}/pricing).
+I offer a variety of [freelance services](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html) charged according to the [price list]({{ site.baseurl }}/pricing).
 
 Feel free to get in touch with me via email markjgsmith@gmail.com.
