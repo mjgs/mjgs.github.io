@@ -13,10 +13,10 @@
   packages:
     - name: basic
       description: 1 server
-      price: 50 
+      price: 100
     - name: standard
       description: 1 load balancer, 2 servers
-      price: 200 
+      price: 300
     - name: premium
       description: 1 load balancer, 2 servers, 1 datastore
       price: 500 
