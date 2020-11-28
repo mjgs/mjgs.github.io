@@ -12,7 +12,7 @@ tags:
 ---
 I’m adding a new package to my professional services called the **Custom Training Service**.
 
-Here’s the description from the [services description page](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html):
+Here’s the description from the [services description page](https://blog.markjgsmith.com/services):
 
 > The custom training service covers the creation and delivery of custom training on web development and automation/workflow design and implementation. These can be made to according to customer needs and delivered either onsite or remotely via video conferencing tools. Other training topics might be possible.
 
