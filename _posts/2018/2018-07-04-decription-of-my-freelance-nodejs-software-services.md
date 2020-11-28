@@ -13,7 +13,7 @@ tags:
 - programming
 ---
 
-Update - This is the blog post that constituted the original services description, it is no longer being updated and has been replaced by the [services page]({{site.baseurl}}/pricing).
+Update - This is the blog post that constituted the original services description, it is no longer being updated and has been replaced by the [services page]({{site.baseurl}}/services).
 
 The **consultancy service** is very straight forward, it covers any aspect of building cloud web applications and is delivered via Skype call. It is customizable to the clients needs but generally covers architecture, building and deployment as well as things like efficient setup of developer environments.
 
