@@ -12,6 +12,8 @@ I've worked in [feature film visual effects companies](https://blog.markjgsmith.
 
 I offer a variety of [freelance services](https://blog.markjgsmith.com/2018/07/04/decription-of-my-freelance-nodejs-software-services.html) charged according to the [price list]({{ site.baseurl }}/pricing).
 
+I'm also open to considering more permanent / full-time roles.
+
 Contact me anytime via email: markjgsmith@gmail.com
 
 More details about me on [LinkedIn](https://www.linkedin.com/in/markjgsmith), [Github](https://github.com/mjgs) and the [Homepage](https://markjgsmith.com).
