@@ -8,7 +8,15 @@ Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Ja
 
 I've worked for [feature film visual effects companies](https://blog.markjgsmith.com/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software](https://www.signiant.com/company) startup, and I've [built my own SaaS](https://blog.markjgsmith.com/2020/11/26/looking-back-at-linkblogdotio.html).
 
-My specialities include backend website development, API development, integrating off-the-shelf and open source software, automating workflows and creating environments for digital collaboration.
+My specialities include:
+
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- NodeJS backend website development
+- NodeJS API development
+- Integrations with 3rd party applications
+- Automation/workflow systems development
+- Creating environments for digital collaboration
+{: refdef}
 
 **I am currently available for hire.**
 
