@@ -1,0 +1,63 @@
+name: Backup to Internet Archive
+on:
+  schedule:
+    # Run at 1700 daily
+    - cron: '30 17 * * *'
+  workflow_dispatch:
+env:
+  web_archive_url: https://web.archive.org/save
+  domain_to_save: https://blog.markjgsmith.com
+jobs:
+  save-main-page:
+    name: Save main page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save main page
+        run: |
+          echo saving: $domain_to_save
+          curl -X GET $web_archive_url/$domain_to_save
+  save-about-page:
+    name: Save about page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save about page
+        run: |
+          url=$domain_to_save/about
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-archives-page:
+    name: Save archives page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save archives page
+        run: |
+          url=$domain_to_save/archives
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-tags-page:
+    name: Save tags page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save tags page
+        run: |
+          url=$domain_to_save/tags
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-services-page:
+    name: Save services page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save services page
+        run: |
+          url=$domain_to_save/services
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-pricing-page:
+    name: Save pricing page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save pricing page
+        run: |
+          url=$domain_to_save/pricing
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
