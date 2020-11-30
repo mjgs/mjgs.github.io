@@ -41,7 +41,7 @@ As the EMEA region customer base grew, there was a lot more post-sales integrati
 
 I wrote custom components in Perl that connected our software to existing systems using APIs or hot folder + XML file integrations. I then used these and pre-existing components in the product's workflow engine to build multi step workflows to automate the processing of inbound and outbound files, sending them to 3rd party tools or to operators and digital artists for manual steps. Sometimes replacing old manual workflows, other times creating entirely new workflows that had never existed or been possible before. I would then install the software and custom workflows, test everything was working, get the customer to sign-off on the deployment and train the users on how to use the system.
 
-These were some of the workflows I built designed and/or built:
+These were some of the workflows I designed and/or built:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - ProsiebenSat – Ingest via Mx/Agent/Smartjog/Ftp, automated validation then manual validation, checking into MAM, export via Mx/Agent/Smartjog/Ftp
