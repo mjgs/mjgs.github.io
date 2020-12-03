@@ -31,7 +31,7 @@ permalink: "/pricing/"
 </table>
 
 
-For a description of each service check out this [blog post]({{site.baseurl}}/2018/07/04/decription-of-my-freelance-nodejs-software-services.html).
+For a description of each service check out the [services description page]({{site.baseurl}}/services).
 
 I'm open to other pricing structures, including retainer arrangements, discounts might be possible, transitioning to a more permanent role might be possible, let's have a conversation.
 
