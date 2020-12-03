@@ -14,7 +14,7 @@ It’s now possible to become an official sponsor of the linkblog!
 
 I’ve spent time working for [feature film visual effects companies](https://blog.markjgsmith.com/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html) and an [enterprise software startup](https://blog.markjgsmith.com/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html), and I’ve been running the linkblog for [close to 10 years](https://links.markjgsmith.com/archives/html). The readership is very tech and developer focussed, lots of smart people working for big tech related companies. 
 
-*What do you get as a sponsor?*
+**What do you get as a sponsor?**
 
 Your logo displayed on each linkblog day that you sponsor.
 
