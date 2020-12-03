@@ -18,19 +18,16 @@ The readership is very tech and developer focussed, lots of smart people working
 
 **What do you get as a sponsor?**
 
-Your logo displayed on each linkblog day that you sponsor.
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- Your logo displayed on each linkblog day that you sponsor
+- A special blog post at the end of the week thanking you and linking to your website (for 7 day sponsorships)
+- A special mention in the newsletter that gets sent out on Saturday (for 7 day sponsorships)
+{: refdef}
 
 It will appear on the main linkblog page which displays the most recent 50 days. It will also live on in the day and month archive pages.
 
-If you sponsor an entire week (7 days):
-
-{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- A special blog post at the end of the week thanking you and linking to your website
-- A special mention in the newsletter that gets sent out on Saturday
-{: refdef}
+Here’s an example of what it would look like for the [month](https://links.markjgsmith.com/archives/html/2020/12) and [day](https://links.markjgsmith.com/archives/html/2020/12/03) archive pages. It will look very similar on the [main linkblog page](https://links.markjgsmith.com)
 
 The logo is right under all the links for the day grouped with the patreon button.
-
-Here’s an example of what it would look like for the [month](https://links.markjgsmith.com/archives/html/2020/12) and [day](https://links.markjgsmith.com/archives/html/2020/12/03) archive pages. It will look very similar on the [main linkblog page](https://links.markjgsmith.com)
 
 If you’d like to become a sponsor then get in touch with me [via email](mailto:markjgsmith@gmail.com).
