@@ -10,7 +10,7 @@ tags:
 - promotion
 - services
 ---
-There are a lot of programming languages to choose from when it comes to writing server-side code.  What makes NodeJS a good choice for this task? Whether you are embarking on a new project or  extending an existing one, it’s a very relevant question. In this post I’m going to cover the main reasons for choosing NodeJS for your backend application.
+There are a lot of programming languages to choose from when it comes to writing server-side code.  What makes [NodeJS](https://nodejs.org/en) a good choice for this task? Whether you are embarking on a new project or  extending an existing one, it’s a very relevant question. In this post I’m going to cover the main reasons for choosing NodeJS for your backend application.
 
 Javascript the programming language runs in two main environments:
 
