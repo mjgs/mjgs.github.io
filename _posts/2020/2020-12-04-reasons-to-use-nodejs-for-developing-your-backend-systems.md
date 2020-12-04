@@ -35,7 +35,7 @@ Here is a summary:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Runtime environment is particularly well suited and optimised to network applications, the event loop architecture makes it possible for single threaded code to execute in a non-blocking way, resulting in a high capacity for handling concurrent requests and realtime data
-- The NodeJS foundation is particularly well organised with a very regular release cycle, including long term support (LTS) releases
+- The NodeJS foundation is particularly well organised with a very regular release cycle, including long term support (LTS) releases that have a [published schedule](https://nodejs.org/en/about/releases)
 - Npm hosts a vast collection of community built modules, with mostly open source licenses, greatly speeding up development
 - Of all the interpreted languages it is one of the fastest. It uses v8, the javascript engine written in C++ by Google also used in the Chrome web browser, very regularly updated, always being improved
 - There are a huge number of javascript developers worldwide since javascript also runs in the browser. This means finding developers is easier
