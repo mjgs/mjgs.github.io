@@ -21,13 +21,13 @@ Javascript the programming language runs in two main environments:
 
 When programmers talk about server-side javascript they call it NodeJS, and when they write a NodeJS application they are actually writing javascript code. NodeJS is more than just the language though, it’s a whole environment  (called a runtime) that, among other things, can execute javascript code., but it also provides a way for the code to access hardware like the storage and the network adapters. 
 
-The NodeJS runtime achieves using an architecture that is optimised for creating network applications. This architecture is called the event loop. 
+The NodeJS runtime achieves this using an architecture that is optimised for creating network applications. This architecture is called the event loop. 
 
 The event loop looks very much like a collection of queues. As the code runs, anytime something has to happen asynchronously, i.e. that will take a while to complete, the code to be run on completion, called a callback, is placed in a queue, so that the remaining code to be run can continue executing without blocking.
 
-Asynchronous tasks would be for example writing to storage or making an API call across the internet. This architecture makes it possible for the NodeJS runtime to be single threaded, and we say it’s event driven because the data input/output (I/O) from the hardware doesn’t block the code. Instead of blocking, events are triggered once the result of the I/O operation is ready.
+Asynchronous tasks would be for example writing to storage or making an API call across the internet. The event loop architecture makes it possible for the NodeJS runtime to be single threaded, and we say it’s event driven because the data input/output (I/O) from the hardware doesn’t block the code. Instead of blocking, events are triggered once the result of the I/O operation is ready.
 
-The event loop architecture means that NodeJS is particularly good for applications that operate over a network, because it can handle many simultaneous requests very easily.
+This means that NodeJS is particularly good for applications that operate over a network, because it can handle many simultaneous requests very easily.
 
 That’s the big architectural advantage that NodeJS offers, but there are quite a few other reasons to build your backend using NodeJS. 
 
@@ -35,7 +35,7 @@ Here is a summary:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Runtime environment is particularly well suited and optimised to network applications, the event loop architecture makes it possible for single threaded code to execute in a non-blocking way, resulting in a high capacity for handling concurrent requests and realtime data
-- The NodeJS foundation is particularly well organised with a very regular release cycle, with LTS releases
+- The NodeJS foundation is particularly well organised with a very regular release cycle, including long term support (LTS) releases
 - Npm hosts a vast collection of community built modules, with mostly open source licenses, greatly speeding up development
 - Of all the interpreted languages it is one of the fastest. It uses v8, the javascript engine written in C++ by Google also used in the Chrome web browser, very regularly updated, always being improved
 - There are a huge number of javascript developers worldwide since javascript also runs in the browser. This means finding developers is easier
