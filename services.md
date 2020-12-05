@@ -7,6 +7,8 @@ The [pricing page]({{site.baseurl}}/pricing) has the full list of the packages f
 
 If you would like to purchase some services or products visit the [payments page](https://payments.markjgsmith.com).
 
+If you are considering using NodeJS for the first time you might find it useful to read about the [reasons to choose NodeJS]({{site.baseurl}}/2020/12/04/reasons-to-use-nodejs-for-developing-your-backend-systems.html) for creating your backend systems.
+
 ## Description of my freelance services:
 
 The **consultancy service** is very straight forward, it covers discussions about web applications and automation/workflow systems, and is delivered via video conferencing. It is customizable to the clients needs but generally covers architecture, building and deployment as well as things like efficient setup of developer environments.
