@@ -53,4 +53,4 @@ Companies such as Netflix, PayPal, Trellio, LinkedIn, Uber, eBay, Groupon, NASA,
 
 NodeJS makes it possible to build extremely robust network applications quickly and at low cost, that are then easier and cheaper to refactor, extend and maintain.
 
-I offer [NodeJS development services]({{site.baseurl}}/services), if you'd like to work together on a project contact me [via email](mailto:markjgsmith@gmail.com).
+I offer [NodeJS development services]({{site.baseurl}}/services), more about me [here]({{site.baseurl}}/about), if you'd like to work together on a project contact me [via email](mailto:markjgsmith@gmail.com).
