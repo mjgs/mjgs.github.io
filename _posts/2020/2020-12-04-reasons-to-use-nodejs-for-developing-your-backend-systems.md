@@ -42,7 +42,7 @@ Here is a summary:
 - It’s possible to use javascript throughout the entire application stack, from the client-side code that runs in the browser, to the code running on the server, and also with NoSQL databases many of which use javascript as the query language. The elimination of context switching results in massive boost in developer productivity
 - There is a vibrant tooling ecosystem with developers around the world continuously building and sharing the best development tools
 - NodeJS is cross platform, running on Windows, Mac and Linux
-- Using libraries like Electron it’s possible to write mobile and desktop apps using NodeJS so you can have a single code base across mobile, desktop and web applications
+- Using libraries like [Electron](https://www.electronjs.org) and [Cordova](https://cordova.apache.org) it’s possible to write desktop and mobile apps using NodeJS so you can have a single code base across mobile, desktop and web applications
 - Typically promotes fast development, robust testing and code refactoring
 - All serverless hosting providers have NodeJS implementations, microservices are very often written in NodeJS
 {: refdef}
