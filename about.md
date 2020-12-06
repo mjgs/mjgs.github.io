@@ -11,8 +11,8 @@ I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11
 My specialities include:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- NodeJS backend website development
-- NodeJS API development
+- NodeJS web server and backend website development
+- NodeJS API server development
 - Integrations with 3rd party applications
 - Automation/workflow systems development
 - Creating environments for digital collaboration
