@@ -29,3 +29,5 @@ Contact me anytime via email: markjgsmith@gmail.com
 More details about me on [LinkedIn](https://www.linkedin.com/in/markjgsmith), [Github](https://github.com/mjgs) and the [Homepage](https://markjgsmith.com).
 
 I write longform on the [Blog](https://blog.markjgsmith.com) and shortform on the [Linkblog](https://links.markjgsmith.com) and [Twitter](https://twitter.com/markjgsmith).
+
+I also publish a [newsletter](https://markjgsmith.substack.com) where I roundup the best links I’ve posted to the linkblog over the week.
