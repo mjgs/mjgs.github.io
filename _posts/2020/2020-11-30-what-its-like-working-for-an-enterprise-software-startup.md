@@ -8,7 +8,7 @@ tags:
 - programming
 - training
 - automation
-- workflow 
+- workflows
 - services
 - jobs
 - travel
