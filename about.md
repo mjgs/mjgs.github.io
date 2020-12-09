@@ -24,7 +24,7 @@ I offer a variety of [freelance services](https://blog.markjgsmith.com/services)
 
 I'm also open to considering more permanent / full-time roles.
 
-Contact me anytime via email: markjgsmith@gmail.com
+**Contact me anytime via email: markjgsmith@gmail.com**
 
 More details about me on [LinkedIn](https://www.linkedin.com/in/markjgsmith), [Github](https://github.com/mjgs) and the [Homepage](https://markjgsmith.com).
 
