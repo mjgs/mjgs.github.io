@@ -9,7 +9,7 @@ tags:
 - tech
 - jobs
 - automation
-- workflow
+- workflows
 ---
 I’ve built and supported many workflows for visual effects productions on big blockbuster movies. 
 
