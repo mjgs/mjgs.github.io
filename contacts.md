@@ -8,5 +8,3 @@ permalink: "/contacts/"
 - [Twitter](https://twitter.com/markjgsmith): https://twitter.com/markjgsmith
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith): https://www.linkedin.com/in/markjgsmith
 - [Github](https://github.com/mjgs): https://github.com/mjgs
-
-**For enquiries about my consulting, development, training and writing [services]({{ site.baseurl }}/services), contact me directly [via email]({{ site.baseurl }}/contacts).**
