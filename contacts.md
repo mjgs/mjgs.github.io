@@ -9,4 +9,4 @@ permalink: "/contacts/"
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith): https://www.linkedin.com/in/markjgsmith
 - [Github](https://github.com/mjgs): https://github.com/mjgs
 
-*For [freelance services]({{site.baseurl}}/services) enquiries, contact me via email.*
+**For enquiries about my consulting, development, training and writing [services]({{ site.baseurl }}/services), contact me directly [via email]({{ site.baseurl }}/contacts).**
