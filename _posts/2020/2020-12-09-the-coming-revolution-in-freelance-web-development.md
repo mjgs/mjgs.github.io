@@ -11,7 +11,7 @@ tags:
 - promotion
 - services
 ---
-For most of the early web freelance web development has been the norm. If you needed a website you hired a Wordpress developer and they hand crafted a beautiful website that met your needs. These developers had some backend development skills, but their real strength was frontend development, wrangling the html, css and javascript necessary to manifest your soon to be online property. 
+For most of the early web, freelance web development has been the norm. If you needed a website you hired a Wordpress developer and they hand crafted a beautiful website that met your needs. These developers had some backend development skills, but their real strength was frontend development, wrangling the html, css and javascript necessary to manifest your soon to be online property. 
 
 The web has evolved, and the websites people are building are in some cases becoming more complex, they aren’t only concerned with a nice place to present things digitally, but in addition with backend systems to handle various tasks, either through integrations with 3rd party cloud web services or fully fledged SaaS web applications.
 
