@@ -3,10 +3,9 @@ title: About
 layout: page
 permalink: "/about/"
 ---
-
-Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Javascript Web Developer, Consultant and Automation Engineer. 
-
 **I am currently available for hire.**
+
+Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Javascript Web Developer, Consultant and Automation Engineer.
 
 I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software]({{site.baseurl}}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html) startup, and I've [built my own SaaS]({{site.baseurl}}/2020/11/26/looking-back-at-linkblogdotio.html).
 
