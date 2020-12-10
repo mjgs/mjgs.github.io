@@ -33,4 +33,4 @@ I offer a variety of [freelance services]({{site.baseurl}}/services) charged acc
 
 I'm also open to considering more permanent / full-time roles.
 
-**For hiring enquiries contact me anytime [via email]({{site.baseurl}}/contacts).**
+**For enquiries about my consulting, development, training and writing [services]({{ site.baseurl }}/services), contact me directly [via email]({{ site.baseurl }}/contacts).**
