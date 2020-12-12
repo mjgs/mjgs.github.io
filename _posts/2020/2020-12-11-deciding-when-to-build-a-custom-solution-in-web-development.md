@@ -24,4 +24,6 @@ Having a custom solution that is very focussed on solving exactly the problem yo
 
 If you are considering a custom solution, you might want to look at [NodeJS](https://nodejs.org/en). It’s designed specifically for network based applications, and it’s possible to build very focussed low code applications that are extremely performant and easy to maintain. I recently wrote about the [reasons for using NodeJS for building your backend systems](https://blog.markjgsmith.com/2020/12/04/reasons-to-use-nodejs-for-developing-your-backend-systems.html), you might find that interesting.
 
+The analogy in this post was inspired by a [recent Shop Talk episode](https://shoptalkshow.com/442). Great podcast that covers frontend and increasingly backend web development topics.
+
 Hopefully this gives you a bit of a better idea of the software development landscape, and a neat macro way to think about your web development projects.
