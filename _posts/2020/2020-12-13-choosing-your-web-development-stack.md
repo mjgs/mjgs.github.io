@@ -6,6 +6,7 @@ date: 2020-12-13 16:40:900:00 +0700
 tags:
 - web development
 - programming
+- nodejs
 ---
 This is a bit of an aggregation piece, pulling together several thematically related posts that I think work quite well together to inform on the topic of choosing your web development stack. I’m a NodeJS developer so that’s my focus, but even if you are using a different language, a lot of the information might be useful in terms of building a broader understanding of web development landscape.
 
