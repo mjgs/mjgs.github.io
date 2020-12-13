@@ -2,7 +2,7 @@
 title: Choosing your web development stack
 published: true
 layout: post
-date: 2020-12-13 16:40:900:00 +0700
+date: 2020-12-13 17:40:00:00 +0700
 tags:
 - web development
 - programming
