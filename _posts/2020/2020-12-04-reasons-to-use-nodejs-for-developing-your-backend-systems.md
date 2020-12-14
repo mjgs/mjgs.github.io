@@ -52,3 +52,5 @@ It’s also worth reading the [nodejs website about page](https://nodejs.org/en/
 Companies such as Netflix, PayPal, Trellio, LinkedIn, Uber, eBay, Groupon, NASA, Mozilla, Twitter and Walmart are examples of big tech organisations that run significant amounts of their infrastructure on NodeJS. More details [here](https://softwarebrothers.co/blog/companies-that-use-node-js) and [here](https://youteam.io/blog/top-companies-that-used-node-js-in-production).
 
 NodeJS makes it possible to build extremely robust network applications quickly and at low cost, that are then easier and cheaper to refactor, extend and maintain.
+
+*This post is part the [choosing your web development stack]({{ site.baseurl}}/2020/12/13/choosing-your-web-development-stack.html) series.*
