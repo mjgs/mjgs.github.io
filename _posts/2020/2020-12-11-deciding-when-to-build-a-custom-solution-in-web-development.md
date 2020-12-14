@@ -27,3 +27,5 @@ If you are considering a custom solution, you might want to look at [NodeJS](htt
 The analogy in this post was inspired by a [recent Shop Talk episode](https://shoptalkshow.com/442). Great podcast that covers frontend and increasingly backend web development topics.
 
 Hopefully this gives you a bit of a better idea of the software development landscape, and a neat macro way to think about your web development projects.
+
+*This post is part the [choosing your web development stack]({{ site.baseurl}}/2020/12/13/choosing-your-web-development-stack.html) series.*
