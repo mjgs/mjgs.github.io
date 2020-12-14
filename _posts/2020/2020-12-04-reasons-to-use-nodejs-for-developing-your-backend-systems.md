@@ -19,7 +19,7 @@ Javascript the programming language runs in two main environments:
 - The server which runs server-side javascript
 {: refdef}
 
-When programmers talk about server-side javascript they call it NodeJS, and when they write a NodeJS application they are actually writing javascript code. NodeJS is more than just the language though, it’s a whole environment  (called a runtime) that, among other things, can execute javascript code., but it also provides a way for the code to access hardware like the storage and the network adapters. 
+When programmers talk about server-side javascript they call it NodeJS, and when they write a NodeJS application they are actually writing javascript code. NodeJS is more than just the language though, it’s a whole environment (called a runtime) that, among other things, can execute javascript code, but it also provides a way for the code to access hardware like the storage and the network adapters. 
 
 The NodeJS runtime achieves this using an architecture that is optimised for creating network applications. This architecture is called the event loop. 
 
