@@ -144,3 +144,5 @@ The infrastructure side of running applications can get quite complex, but there
 {: refdef}
 
 It’s also worth experimenting with integrating [serverless](https://serverless.css-tricks.com/about/ ) technologies for aspects that are very high load, the low cost and high performance might be worth the portability trade-off, but be aware that a move might require rewriting parts of your application should you need to change providers.
+
+*This post is part the [choosing your web development stack]({{ site.baseurl}}/2020/12/13/choosing-your-web-development-stack.html) series.*
