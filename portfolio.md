@@ -10,6 +10,8 @@ permalink: "/portfolio/"
         height="500px">
 </iframe>
 
+<br>
+
 Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. Created the infrastructure, automated server provisioning, code build and deployment, development of website and REST API, fault tolerant backend with job processing done using a scheduler, message queues and webhooks. Robust unit and integration test suites.
 
 More information in these blog posts:
@@ -24,6 +26,8 @@ More information in these blog posts:
         width="100%"
         height="500px">
 </iframe>
+
+<br>
 
 I architected and/or built the following workflow solutions from the above portfolio document:
 
@@ -40,5 +44,7 @@ I architected and/or built the following workflow solutions from the above portf
         width="100%"
         height="500px">
 </iframe>
+
+<br>
 
 Optimisation of the render farm, operational logistics, liaising with producers, artists and software developers to troubleshoot problems and implement improvements in the render pipeline (RenderMan, Maya, Shake, Houdini).
