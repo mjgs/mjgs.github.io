@@ -65,15 +65,8 @@
     }
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-        display: block;        
-    }
-
-    @include media-query($on-palm) {
-        .page-link {
-            padding: 5px 10px;
-        }
+        display: block;     
+        padding: 5px 10px;
     }
 }
 
