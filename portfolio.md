@@ -67,6 +67,15 @@ These are minimal apps created for the purpose of learning a specific feature.
 
 ## Workflows and Automation
 
+I architected and/or built the following workflow solutions from the below workflow portfolio document:
+
+- ProsiebenSat – Ingest via Mx/Agent/Smartjog/Ftp, automated validation then manual validation, checking into MAM, export via Mx/Agent/Smartjog/Ftp
+- Canal Plus - Ingest via FTP Pull/MX, media check, Agility transcoding, import into Sonaps and Avid editors
+- Chellomedia - Ingest via Agent, movement of file bundles, Antivirus check, splitting of bundle on arrive in Lan, delivery of each piece to the right place
+- TPC – Swiss Television - Avid export, transcoding, Sound recording, manual steps offered via Mx GUI, delivery to Playout
+- Media City UK - Avid Gateway - easy ingest and outgest of avid projects
+- Discovery UK - VOD preparation with automatic adding of bumpers, logos and subtitles, and automated quality assurance check
+
 <iframe src="{{ site.baseurl }}/assets/images/Workflow Portfolio - 2011.pdf"
         width="100%"
         height="500px">
@@ -75,15 +84,6 @@ These are minimal apps created for the purpose of learning a specific feature.
 [Direct link to pdf file]({{ site.baseurl }}/assets/images/Workflow Portfolio - 2011.pdf)
 
 <br>
-
-I architected and/or built the following workflow solutions from the above portfolio document:
-
-- ProsiebenSat – Ingest via Mx/Agent/Smartjog/Ftp, automated validation then manual validation, checking into MAM, export via Mx/Agent/Smartjog/Ftp
-- Canal Plus - Ingest via FTP Pull/MX, media check, Agility transcoding, import into Sonaps and Avid editors
-- Chellomedia - Ingest via Agent, movement of file bundles, Antivirus check, splitting of bundle on arrive in Lan, delivery of each piece to the right place
-- TPC – Swiss Television - Avid export, transcoding, Sound recording, manual steps offered via Mx GUI, delivery to Playout
-- Media City UK - Avid Gateway - easy ingest and outgest of avid projects
-- Discovery UK - VOD preparation with automatic adding of bumpers, logos and subtitles, and automated quality assurance check
 
 ## Devops & Sysadmin
 
