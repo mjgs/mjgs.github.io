@@ -5,6 +5,8 @@ permalink: "/portfolio/"
 ---
 ## Web Development
 
+### Linkblog.io
+
 <iframe src="{{ site.baseurl }}/assets/images/Linkblog.io Portfolio - 2020-02-27.pdf"
         width="100%"
         height="500px">
@@ -21,6 +23,23 @@ More information in these blog posts:
 - [Robust NodeJS Deployment Architecture](https://blog.markjgsmith.com/2020/11/13/robust-nodejs-deployment-architecture.html) - A writeup of the tech stack
 - [Looking back at linkblog.io](https://blog.markjgsmith.com/2020/11/26/looking-back-at-linkblogdotio.html) - A look back at the project goals, application level features and automation systems
 - [Building the foundations for the future of linkblog](https://blog.markjgsmith.com/2019/12/06/building-the-foundations-for-the-future-of-linkblog.html) - Describes the redesigned billing system that I implemented
+
+### Minimals
+
+These are minimal apps created for the purpose of learning a specific feature.
+
+- [minimal-express-typescript](https://github.com/mjgs/minimal-express-typescript) - Minimal express app written in typescript with npm scripts to run the app in the vscode debugger
+- [ejs-layouts-using-includes](https://github.com/mjgs/ejs-layouts-using-includes) - Minimal express app implementing layouts using ejs includes
+- [nockback-test](https://github.com/mjgs/nockback-test) - Minimal test suite demonstrating nock's nockback feature that records 3rd party api test fixtures into separate files
+- [passport-tests](https://github.com/mjgs/passport-tests) - Minimal express app and api that implement website authentication
+- [vanilla-mvc](https://github.com/mjgs/vanilla-mvc) - Minimal examples of client-side mvc patterns using plain old boring vanilla javascript
+- [react-webpack-project-template](https://github.com/mjgs/react-webpack-project-template) - Boilerplate for React projects
+- [erm-flow](https://github.com/mjgs/erm-flow) - Minimal testify app using express-restify-mongoose module
+- [restify-tdd-template](https://github.com/mjgs/restify-tdd-template) - Template for building apis using restify and tdd
+- [react-tdd-project-template](https://github.com/mjgs/react-tdd-project-template) - Boilerplate/template for building React apps with TDD
+- [fluxxor-flux-comparison-app](https://github.com/mjgs/fluxxor-flux-comparison-app) - Working example of the Fluxxor flux-comparison app that uses webpack, webpack-dev-server and has a mocha test environment configured
+- [app-server-demo](https://github.com/mjgs/app-server-demo) - An express app for running express apps - drop express apps in the lib folder and start the server
+- [app-server](https://github.com/mjgs/app-server) - Node.js module for building servers that run express apps
 
 ## Workflows and Automation
 
