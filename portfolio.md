@@ -7,6 +7,8 @@ permalink: "/portfolio/"
 
 ### Linkblog.io
 
+Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. I created the infrastructure, the automated server provisioning system, the code build and deployment system, developed the website and REST API, and the fault tolerant backend that processed jobs using a scheduler, message queues and webhooks. There were robust unit and integration test suites for all the NodeJS code.
+
 <iframe src="{{ site.baseurl }}/assets/images/Linkblog.io Portfolio - 2020-02-27.pdf"
         width="100%"
         height="500px">
@@ -15,8 +17,6 @@ permalink: "/portfolio/"
 [Direct link to pdf file]({{ site.baseurl }}/assets/images/Linkblog.io Portfolio - 2020-02-27.pdf)
 
 <br>
-
-Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. I created the infrastructure, the automated server provisioning system, the code build and deployment system, developed the website and REST API, and the fault tolerant backend that processed jobs using a scheduler, message queues and webhooks. There were robust unit and integration test suites for all the NodeJS code.
 
 More information in these blog posts:
 
