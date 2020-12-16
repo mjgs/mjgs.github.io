@@ -5,6 +5,30 @@ permalink: "/portfolio/"
 ---
 ## Web Development
 
+### Eleventy Agile Blog
+
+[eleventy-agile-blog](https://github.com/mjgs/eleventy-agile-blog) - Blog template that implements a simple agile development workflow, so you can manage a backlog of stories, getting them done over the course of sprints
+
+### Serverless books API
+
+[serverless-books-api](https://github.com/mjgs/serverless-books-api) - Implements a Books API for a Library, intended to be run on AWS Lambda/DynamoDB using serverless
+
+- Functions run on AWS Lambda
+- Data is stored in AWS DynamoDB
+- Uses domain driven design techniques with handlers/utilities/adapters layers
+
+### Internet of Things App
+
+[internet-of-things-app](https://github.com/mjgs/internet-of-things-app) - System to collect and process realtime data of devices in an iot fleet
+
+This project is an MVP of an Internet of Things (IOT) application. The scenario is one where there are devices that are geographically distributed and are moving, so could be delivery or perhaps passenger vehicles. The application receives data updates from devices, proceses the data and then displays the data. In this specific example the device speed is calculated. Generally speaking it is a way to collect and process realtime data.
+
+### Freelancer
+
+[freelancer](https://github.com/mjgs/freelancer) - Website for freelancers with homepage and payments pages to securely receive payments for services
+
+Website for freelancers that runs sites. Each site can be static and/or dynamic, you can easily associate domain names to each site and adding a site is as simple as creating an express app and adding it to the apps folder. Payments are handled by Stripe and email notifications are via Mailgun
+
 ### Linkblog.io
 
 Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. I created the infrastructure, the automated server provisioning system, the code build and deployment system, developed the website and REST API, and the fault tolerant backend that processed jobs using a scheduler, message queues and webhooks. There were robust unit and integration test suites for all the NodeJS code.
