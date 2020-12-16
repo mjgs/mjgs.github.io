@@ -5,6 +5,15 @@ permalink: "/portfolio/"
 ---
 ## Web Development
 
+### Jamstack Atchitecture Content Sites
+
+I built a NodeJS static site generator for
+
+- My [linkblog website](https://links.markjgsmith.com)
+- My [podcasts website](https://podcasts.markjgsmith.com)
+
+Contributions can be easily created using a browser bookmarklet. New content gets added to a Github repo feature branch. Backend processing is done using Serverless functions. The feature branch is merged into the main branch on a schedule and the site is automatically rebuilt and deployed. 
+
 ### Eleventy Agile Blog
 
 [eleventy-agile-blog](https://github.com/mjgs/eleventy-agile-blog) - Blog template that implements a simple agile development workflow, so you can manage a backlog of stories, getting them done over the course of sprints
