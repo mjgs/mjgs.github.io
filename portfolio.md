@@ -16,7 +16,7 @@ permalink: "/portfolio/"
 
 <br>
 
-Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. Created the infrastructure, automated server provisioning, code build and deployment, development of website and REST API, fault tolerant backend with job processing done using a scheduler, message queues and webhooks. Robust unit and integration test suites.
+Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. I created the infrastructure, the automated server provisioning system, the code build and deployment system, developed the website and REST API, and the fault tolerant backend that processed jobs using a scheduler, message queues and webhooks. There were robust unit and integration test suites for all the NodeJS code.
 
 More information in these blog posts:
 
