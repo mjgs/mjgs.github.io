@@ -85,7 +85,17 @@ I architected and/or built the following workflow solutions from the above portf
 - Media City UK - Avid Gateway - easy ingest and outgest of avid projects
 - Discovery UK - VOD preparation with automatic adding of bumpers, logos and subtitles, and automated quality assurance check
 
-## Devops
+## Devops & Sysadmin
+
+### Digital Intermediate
+
+- Development of Arriscanner automated ingest pipeline for scanning reels of motion picture film, scan tracking, automated digital IR map dust bust and scratch removal using Pixel Farm’s PFClean
+- D-Cinema KDM generation
+- File ingest and processing solutions using Shake, edit decision lists (EDLs), FTP, Linux, for films including Children of Men, Happy Feet, Charlie and the Chocolate Factory, The Golden Compass
+
+### Render farm optimisation
+
+Optimisation of a render farm, operational logistics, liaising with producers, artists and software developers to troubleshoot problems and implement improvements in the render pipeline (RenderMan, Maya, Shake, Houdini).
 
 <iframe src="{{ site.baseurl }}/assets/images/Render Farm Portfolio - 2005.pdf"
         width="100%"
@@ -93,7 +103,3 @@ I architected and/or built the following workflow solutions from the above portf
 </iframe>
 
 [Direct link to pdf file]({{ site.baseurl }}/assets/images/Render Farm Portfolio - 2005.pdf)
-
-<br>
-
-Optimisation of the render farm, operational logistics, liaising with producers, artists and software developers to troubleshoot problems and implement improvements in the render pipeline (RenderMan, Maya, Shake, Houdini).
