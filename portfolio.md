@@ -10,6 +10,8 @@ permalink: "/portfolio/"
         height="500px">
 </iframe>
 
+[Direct link to pdf file]({{ site.baseurl }}/assets/images/Linkblog.io Portfolio - 2020-02-27.pdf)
+
 <br>
 
 Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web application for managing your daily links. Created the infrastructure, automated server provisioning, code build and deployment, development of website and REST API, fault tolerant backend with job processing done using a scheduler, message queues and webhooks. Robust unit and integration test suites.
@@ -26,6 +28,8 @@ More information in these blog posts:
         width="100%"
         height="500px">
 </iframe>
+
+[Direct link to pdf file]({{ site.baseurl }}/assets/images/Workflow Portfolio - 2011.pdf)
 
 <br>
 
@@ -44,6 +48,8 @@ I architected and/or built the following workflow solutions from the above portf
         width="100%"
         height="500px">
 </iframe>
+
+[Direct link to pdf file]({{ site.baseurl }}/assets/images/Render Farm Portfolio - 2005.pdf)
 
 <br>
 
