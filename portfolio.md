@@ -58,7 +58,7 @@ These are minimal apps created for the purpose of learning a specific feature.
 - [passport-tests](https://github.com/mjgs/passport-tests) - Minimal express app and api that implement website authentication
 - [vanilla-mvc](https://github.com/mjgs/vanilla-mvc) - Minimal examples of client-side mvc patterns using plain old boring vanilla javascript
 - [react-webpack-project-template](https://github.com/mjgs/react-webpack-project-template) - Boilerplate for React projects
-- [erm-flow](https://github.com/mjgs/erm-flow) - Minimal testify app using express-restify-mongoose module
+- [erm-flow](https://github.com/mjgs/erm-flow) - Minimal restify app using express-restify-mongoose module
 - [restify-tdd-template](https://github.com/mjgs/restify-tdd-template) - Template for building apis using restify and tdd
 - [react-tdd-project-template](https://github.com/mjgs/react-tdd-project-template) - Boilerplate/template for building React apps with TDD
 - [fluxxor-flux-comparison-app](https://github.com/mjgs/fluxxor-flux-comparison-app) - Working example of the Fluxxor flux-comparison app that uses webpack, webpack-dev-server and has a mocha test environment configured
