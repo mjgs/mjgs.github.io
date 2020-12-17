@@ -19,6 +19,8 @@ My specialities include:
 - Creating environments for digital collaboration
 {: refdef}
 
+Check out my [portfolio]({{ site.baseurl }}/portfolio) for a selection of past projects.
+
 More details about me:
 
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
@@ -29,6 +31,6 @@ I write longform on the [Blog](https://blog.markjgsmith.com) and shortform on th
 
 I publish a [newsletter](https://markjgsmith.substack.com) where I roundup the best links I’ve posted to the linkblog over the week.
 
-I offer a variety of [freelance services]({{site.baseurl}}/services) charged according to the [price list]({{ site.baseurl }}/pricing).
+I offer a variety of [freelance services]({{ site.baseurl }}/services) charged according to the [price list]({{ site.baseurl }}/pricing).
 
 I'm also open to considering more permanent / full-time roles.
