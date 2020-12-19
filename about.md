@@ -9,7 +9,7 @@ Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Ja
 
 I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software]({{site.baseurl}}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html) startup, and I've [built my own SaaS]({{site.baseurl}}/2020/11/26/looking-back-at-linkblogdotio.html).
 
-My specialities include:
+## Specialities
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - NodeJS web server and backend website development
@@ -21,7 +21,11 @@ My specialities include:
 
 Check out my [portfolio]({{ site.baseurl }}/portfolio) for a selection of past projects.
 
-More details about me:
+## Technologies: 
+
+NodeJS, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, Git, Bash, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
+
+## More details about me:
 
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
 - [Github](https://github.com/mjgs)
