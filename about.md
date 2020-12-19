@@ -23,11 +23,11 @@ I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11
 
 Check out my [portfolio]({{ site.baseurl }}/portfolio) for a selection of past projects.
 
-## Technologies: 
+## Technologies
 
 NodeJS, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, Git, Bash, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
 
-## More details about me:
+## More details
 
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
 - [Github](https://github.com/mjgs)
@@ -36,6 +36,8 @@ NodeJS, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQ
 I write longform on the [Blog](https://blog.markjgsmith.com) and shortform on the [Linkblog](https://links.markjgsmith.com) and [Twitter](https://twitter.com/markjgsmith).
 
 I publish a [newsletter](https://markjgsmith.substack.com) where I roundup the best links I’ve posted to the linkblog over the week.
+
+## Freelance Services
 
 I offer a variety of [freelance services]({{ site.baseurl }}/services) charged according to the [price list]({{ site.baseurl }}/pricing).
 
