@@ -39,6 +39,4 @@ I publish a [newsletter](https://markjgsmith.substack.com) where I roundup the b
 
 ## Freelance Services
 
-I offer a variety of [freelance services]({{ site.baseurl }}/services) charged according to the [price list]({{ site.baseurl }}/pricing).
-
 I'm also open to considering more permanent / full-time roles.
