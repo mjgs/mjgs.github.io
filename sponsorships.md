@@ -1,18 +1,9 @@
 ---
-title: How to become an official sponsor of the linkblog
-published: true
-layout: post
-date: 2020-12-04 01:22:00:00 +0700
-tags:
-- linkblogging
-- javascript
-- web development
-- promotion
-- sponsorship
+title: How to become a sponsor
+layout: page
+permalink: "/sponsorships/"
 ---
-UPDATE (2020-12-20) - This blog post has been turned into a separate page, check out the [sponsorships]({{ site.baseurl }}/sponsorships) page for the latest.
-
-It’s now possible to become an official sponsor of the linkblog!
+It’s now possible to become a sponsor!
 
 I’ve spent time working for [feature film visual effects companies]({{ site.baseurl }}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html) and an [enterprise software startup]({{ site.baseurl }}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html), and I’ve been running the linkblog for [close to 10 years](https://links.markjgsmith.com/archives/html). It's one of the longest running personal linkblogs on the internet.
 
@@ -33,3 +24,5 @@ It will appear on the main linkblog page which displays the most recent 50 days.
 Here’s an example of what it would look like for the [month](https://links.markjgsmith.com/archives/html/2020/12) and [day](https://links.markjgsmith.com/archives/html/2020/12/03) archive pages. It will look very similar on the [main linkblog page](https://links.markjgsmith.com)
 
 If you’d like to become a sponsor then get in touch with me [via email](mailto:markjgsmith@gmail.com).
+
+*This page is based on the [original blog post]({{ site.baseurl }}/2020/12/04/how-to-become-an-official-sponsor-of-the-linkblog.html) that covered the subject.*
