@@ -5,6 +5,8 @@ permalink: "/sponsorships/"
 ---
 It’s now possible to become a sponsor!
 
+It's your chance to get featured on the [blog](https://blog.markjgsmith.com), the [daily linkblog](https://links.markjgsmith.com) and the [weekly newsletter](https://markjgsmith.substack.com).
+
 I’ve spent time working for [feature film visual effects companies]({{ site.baseurl }}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html) and an [enterprise software startup]({{ site.baseurl }}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html), and I’ve been running the linkblog for [close to 10 years](https://links.markjgsmith.com/archives/html). It's one of the longest running personal linkblogs on the internet.
 
 The readership is very tech and developer focussed, lots of smart people working for big tech related companies. 
