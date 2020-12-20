@@ -38,4 +38,15 @@ NodeJS, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQ
 
 ## Freelance Services
 
+I offer a variety of professional services:
+
+- Consultancy
+- Infrastructure
+- Maintenance
+- Development
+- Custom Training
+- Writing
+
+More details in the [services]({{ site.baseurl }}/services) and [price list]({{ site.baseurl }}/pricing) pages.
+
 I'm also open to considering more permanent / full-time roles.
