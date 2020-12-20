@@ -9,6 +9,8 @@ permalink: "/about/"
 
 Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Javascript Web Developer, Consultant and Automation Engineer.
 
+I publish a [blog](https://blog.markjgsmith.com), a daily [linkblog](https://links.markjgsmith.com) and a weekly [newsletter](https://markjgsmith.substack.com).
+
 I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software]({{site.baseurl}}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html) startup, and I've [built my own SaaS]({{site.baseurl}}/2020/11/26/looking-back-at-linkblogdotio.html).
 
 ## Specialities
@@ -29,13 +31,10 @@ NodeJS, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQ
 
 ## More details
 
+- [Twitter](https://twitter.com/markjgsmith)
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
 - [Github](https://github.com/mjgs)
 - [Homepage](https://markjgsmith.com).
-
-I write longform on the [Blog](https://blog.markjgsmith.com) and shortform on the [Linkblog](https://links.markjgsmith.com) and [Twitter](https://twitter.com/markjgsmith).
-
-I publish a [newsletter](https://markjgsmith.substack.com) where I roundup the best links I’ve posted to the linkblog over the week.
 
 ## Freelance Services
 
