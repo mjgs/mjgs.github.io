@@ -23,7 +23,7 @@ The logo is right under all the links for the day, grouped with the patreon butt
 
 It will appear on the main linkblog page which displays the most recent 50 days. It will also live on in the day and month archive pages.
 
-Here’s an example of what it would look like for the [month](https://links.markjgsmith.com/archives/html/2020/12) and [day](https://links.markjgsmith.com/archives/html/2020/12/03) archive pages. It will look very similar on the [main linkblog page](https://links.markjgsmith.com)
+Here’s an example of what it would look like for the [month](https://links.markjgsmith.com/archives/html/2020/12#3December2020) and [day](https://links.markjgsmith.com/archives/html/2020/12/03) archive pages. It will look very similar on the [main linkblog page](https://links.markjgsmith.com)
 
 If you’d like to become a sponsor then get in touch with me [via email](mailto:markjgsmith@gmail.com).
 
