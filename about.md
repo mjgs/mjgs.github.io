@@ -7,7 +7,7 @@ permalink: "/about/"
 
 ## Overview
 
-Hi I'm Mark, a Freelance [Node.js](https://en.wikipedia.org/wiki/Node.js) and Javascript Web Developer, Consultant and Automation Engineer.
+Hi I'm Mark, a Freelance Web Developer, Consultant and Automation Engineer.
 
 I publish a [blog](https://blog.markjgsmith.com), a daily [linkblog](https://links.markjgsmith.com) and a weekly [newsletter](https://markjgsmith.substack.com).
 
