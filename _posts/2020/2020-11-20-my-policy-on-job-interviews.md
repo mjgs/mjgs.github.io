@@ -8,8 +8,9 @@ tags:
 - web development
 - programming
 - services
----
-UPDATE - This blog post has been turned into a separate page, check out the [job interviews policy]({{ site.baseurl }}/job-interview-policy) page for the latest policy.
+--- 
+
+UPDATE (2020-12-20) - This blog post has been turned into a separate page, check out the [job interviews policy]({{ site.baseurl }}/job-interview-policy) page for the latest policy.
 
 I wanted to describe my policy on job interviews so that I have something to refer to in the future.
 
