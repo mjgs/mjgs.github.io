@@ -1,5 +1,5 @@
 ---
-title: Job Interview Policy
+title: My policy on job interview
 layout: page
 permalink: "/job-interview-policy/"
 ---
