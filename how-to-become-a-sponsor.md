@@ -1,7 +1,7 @@
 ---
 title: How to become a sponsor
 layout: page
-permalink: "/how-to-become-a-sponsor/"
+permalink: "/sponsorships/"
 ---
 It’s now possible to become a sponsor!
 
