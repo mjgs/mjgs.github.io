@@ -9,6 +9,8 @@ tags:
 - programming
 - services
 ---
+UPDATE - This blog post has been turned into a separate page, check out the [job interviews policy]({{ site.baseurl }}/job-interview-policy) page for the latest policy.
+
 I wanted to describe my policy on job interviews so that I have something to refer to in the future.
 
 Over the years I’ve interacted with many prospects discovered online and done quite a few of these and I have had a number of bad experiences, which ultimately end up wasting my time and money. 
