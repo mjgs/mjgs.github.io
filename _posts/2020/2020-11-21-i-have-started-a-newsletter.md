@@ -1,5 +1,6 @@
 ---
 title: I've started a Newsletter!
+description: Announcing my adventure into newsletter publication, with the start of my weekly newsletter covering javascript, tech and web development 
 published: true
 layout: post
 date: 2020-11-21 10:59:00:00 +0700
