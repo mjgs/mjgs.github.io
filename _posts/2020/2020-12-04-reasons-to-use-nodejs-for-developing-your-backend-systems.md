@@ -1,5 +1,6 @@
 ---
 title: Reasons to use NodeJS for developing your backend systems
+descriptions: A look at the main NodeJS architectural advantage and a summary of the reasons why NodeJS is a great choice for developing your backend systems
 published: true
 layout: post
 date: 2020-12-04 21:00:00:00 +0700

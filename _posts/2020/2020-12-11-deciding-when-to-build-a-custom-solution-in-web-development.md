@@ -1,5 +1,6 @@
 ---
 title: Deciding when to build a custom solution in web development
+description: A high level way to think about web development that should make it easier to decide when to build and when to buy
 published: true
 layout: post
 date: 2020-12-11 13:53:00:00 +0700

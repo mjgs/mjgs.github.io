@@ -1,5 +1,6 @@
 ---
 title: Self-hosted web based tool to get tasks done efficiently
+description: An blog template built using the Eleventy static site generator that implements an agile workflow with a backlog of stories that you complete over the course of sprints 
 published: true
 layout: post
 date: 2020-11-02 15:40:00:00 +0700

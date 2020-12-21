@@ -1,5 +1,6 @@
 ---
 title: Announcing my new Custom Training Service
+description: A look at my previous experience building custom training programs, and at the latest addition to my collection of freelance services
 published: true
 layout: post
 date: 2020-11-27 11:44:00:00 +0700

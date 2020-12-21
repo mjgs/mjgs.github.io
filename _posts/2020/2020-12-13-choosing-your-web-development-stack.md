@@ -1,5 +1,6 @@
 ---
 title: Choosing your web development stack
+description: Things to consider when choosing your development stack from personal websites to more advanced architectures, and custom solutions vs off-the-shelf products
 published: true
 layout: post
 date: 2020-12-13 17:40:00:00 +0700

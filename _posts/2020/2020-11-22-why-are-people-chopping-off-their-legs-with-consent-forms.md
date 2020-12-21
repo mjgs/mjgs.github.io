@@ -1,5 +1,6 @@
 ---
 title: Why are people chopping off their legs with consent forms?
+description: The world wide web has come a long way since it's invention, but the recent trend of consent forms plastered everywhere, brought on by new government regulations, is destroying the web experience
 published: true
 layout: post
 date: 2020-11-22 11:51:00:00 +0700
@@ -8,7 +9,7 @@ tags:
 - programming
 - tech
 ---
-A recent HN thread was discussing  [Why Japanese web design is so different](https://news.ycombinator.com/item?id=25148942). It’s based around an article written in 2013 but both the article and the thread discussion are an interesting read. 
+A recent HN thread was discussing [Why Japanese web design is so different](https://news.ycombinator.com/item?id=25148942). It’s based around an article written in 2013 but both the article and the thread discussion are an interesting read. 
 
 I believe that consent forms pose one of the worst usability problems the internet has ever seen, with big companies that have alternative news reading experiences benefitting immensely from the situation. Their products are slick and unbelievably lovely to use in comparison, but fundamentally non-weblike, featuring only big media brands and with no ability to link to articles.
 

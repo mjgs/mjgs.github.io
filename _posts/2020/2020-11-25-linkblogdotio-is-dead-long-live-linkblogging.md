@@ -1,5 +1,6 @@
 ---
 title: Linkblog.io is dead, long live linkblogging
+description: It's never easy announcing the end of a project, especially one you've spent a considerable amount of time working on. That's what this post is about, but it's also about a new beginning with some exciting new announcements 
 published: true
 layout: post
 date: 2020-11-25 14:55:00:00 +0700

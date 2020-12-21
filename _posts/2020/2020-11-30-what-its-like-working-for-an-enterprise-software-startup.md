@@ -1,5 +1,6 @@
 ---
 title: What it’s like working for an enterprise software startup
+description: I look back at some of my experiences working for an enterprise software startup, both in the global operations team working in technical roles alongside sales executives, and as a developer in the an agile software engineering team building an enterprise grade SaaS
 published: true
 layout: post
 date: 2020-11-30 08:00:00:00 +0700

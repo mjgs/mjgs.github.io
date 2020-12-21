@@ -1,5 +1,6 @@
 ---
 title: How to become an official sponsor of the linkblog
+description: How sponsorships work on markjgsmith.com, what you get as a sponsor, with some example posts and logos
 published: true
 layout: post
 date: 2020-12-04 01:22:00:00 +0700
