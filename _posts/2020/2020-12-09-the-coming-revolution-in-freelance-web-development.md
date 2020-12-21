@@ -1,5 +1,6 @@
 ---
 title: The coming revolution in freelance web development
+description: A look at past, present and future of freelance web development
 published: true
 layout: post
 date: 2020-12-09 15:41:00:00 +0700
