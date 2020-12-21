@@ -1,5 +1,6 @@
 ---
 title: GitHub Actions for custom content workflows
+description: A look at the new frontier in web development, where combining Jamstack architectures with Github Actions is opening up new possibilities for collaborating on content based websites
 published: true
 layout: post
 date: 2020-10-30 19:24:00:00 +0700
