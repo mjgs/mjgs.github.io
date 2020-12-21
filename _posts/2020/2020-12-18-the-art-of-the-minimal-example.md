@@ -1,5 +1,6 @@
 ---
 title: The art of the minimal example
+description: A look at the web development technique of creating minimal examples, why it's an essential skill, and how you can collect and use your minimal examples to further your career
 published: true
 layout: post
 date: 2020-12-18 15:00:00:00 +0700
