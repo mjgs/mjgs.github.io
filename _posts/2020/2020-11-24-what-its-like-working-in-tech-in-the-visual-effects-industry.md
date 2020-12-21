@@ -1,5 +1,6 @@
 ---
 title: What it’s like working in tech in the visual effects industry
+description: A trip down memory lane, looking at what it was like to work in the visual effects industry as a techy right in the middle of the analogue to digital conversion
 published: true
 layout: post
 date: 2020-11-24 16:25:00:00 +0700
