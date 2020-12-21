@@ -1,5 +1,6 @@
 ---
 title: Robust NodeJS Deployment Architecture
+description: A writeup of the architecture I have used for NodeJS SaaS projects, looking at the system features, infrastructure, application components, technologies, aswell as aspects to consider when it comes to deployment, security and backups
 published: true
 layout: post
 date: 2020-11-13 19:17:00:00 +0700
