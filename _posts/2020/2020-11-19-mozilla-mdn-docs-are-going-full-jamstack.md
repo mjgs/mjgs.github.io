@@ -1,5 +1,6 @@
 ---
 title: Mozilla MDN Docs are going full Jamstack
+description: These are exciting times for web development, new architectures are being developed to foster collaboration on content sites. This article discusses the recent announcement that MDN Docs, the biggest and most popular documentation site for web development is being updated to have a modern Jamstack architecture
 published: true
 layout: post
 date: 2020-11-19 18:24:00:00 +0700
