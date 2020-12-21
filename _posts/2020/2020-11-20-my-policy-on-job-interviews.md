@@ -1,5 +1,6 @@
 ---
 title: My policy on job interviews
+description: A short piece describing my policy on job interviews so that I have something to refer to in the future
 published: true
 layout: post
 date: 2020-11-20 12:54:00:00 +0700
