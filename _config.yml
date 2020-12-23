@@ -16,6 +16,14 @@ author: Mark Smith
 twitter:
   username: markjgsmith
   card: summary
+social:
+  name: Mark Smith
+  links:
+    - https://twitter.com/markjgsmith
+    - https://www.linkedin.com/in/markjgsmith
+    - https://github.com/mjgs
+    - https://dev.to/mjgs
+    - https://www.indiehackers.com/mjgs
 
 # Build settings
 markdown: kramdown
