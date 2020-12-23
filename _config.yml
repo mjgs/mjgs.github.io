@@ -16,6 +16,7 @@ timezone: Asia/Bangkok
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 minima:
   date_format: "%B %-d, %Y"
