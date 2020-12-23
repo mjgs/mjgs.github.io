@@ -1,6 +1,6 @@
 ---
 title: Looking back at linkblog.io
-description: Outlibes the high level technical goals, deployment architecture and interesting application level features of linkblog.io, the minimalist link curation tool, a SaaS product I built as a solo-developer
+description: Outlines the high level technical goals, deployment architecture and interesting application level features of linkblog.io, the minimalist link curation tool, a SaaS product I built as a solo-developer
 published: true
 layout: post
 date: 2020-11-26 13:30:00:00 +0700
