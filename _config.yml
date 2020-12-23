@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog written and published by Mark Smith, Freelance Web Developer, Consultant and Automation Engineer.
   Focusses on javascript, technology and web development with some other bits and pieces mixed in. 
   There is also a daily linkblog, a weekly newsletter and an experimental podcast.
+  For freelance and sponsorship enquiries contact via email. See website for details.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.markjgsmith.com" # the base hostname & protocol for your site
 twitter_username: markjgsmith
