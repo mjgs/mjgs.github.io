@@ -37,6 +37,7 @@ Anyway I’m going to keep an updated list here of such sites that I really enjo
 - [Drew DeVault's blog](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
 - [Samizdat](https://samizdat.dev/getting-lucky-with-posting-on-hacker-news/)
 - [Web History by Jay Hoffmann](https://css-tricks.com/chapter-5-publishing)
+- [Silicon Angle](https://siliconangle.com/2020/12/23/zoom-reportedly-developing-email-calendar-services)
 {: refdef}
 
 Sexy design is great, but I find purely text sites refreshing these days.
