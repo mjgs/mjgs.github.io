@@ -11,7 +11,7 @@ tags:
 - content
 - writing
 ---
-I love text focussed website. There are no annoying consent forms, paywalls or popups. The reading experience is the best. If there is an add it’s usually relevant and unobtrusive. They load extremely fast, and are great for technical content.
+I love text focussed website. There are no annoying consent forms, paywalls or popups. The reading experience is the best. If there is an ad it’s usually relevant and unobtrusive. They load extremely fast, and are great for technical content.
 
 The best ones:
 
