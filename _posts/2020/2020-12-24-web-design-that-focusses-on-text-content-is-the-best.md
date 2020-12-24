@@ -18,14 +18,14 @@ The best ones:
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Load extremely fast, and are readable immediately
 - Have a font that is well balanced and easy to read
-- Have spacing between paragraphs, images and lists looks nice
+- Have spacing between paragraphs, images and lists that looks nice
 - Don’t re-render several times as javascript loads and fonts get swapped out
 - Render really well on mobile devices without needing to zoom or pan the screen
 - Render on mobile devices in such a way that the text takes up the entire screen with just a small margin at the edges
 - Have the right font size that is easy to read
 - Content layout that resizes correctly if you do need to zoom
-- Have regular text is visibly distinct from hyperlinked text
-- Tag or category pages making it easy to find other content
+- Have regular text that is visibly distinct from hyperlinked text
+- Have tag or category pages making it easy to find other content
 - Have easily findable links to information about the author
 {: refdef}
 
