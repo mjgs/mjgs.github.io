@@ -3,7 +3,7 @@ title: Portfolio
 layout: page
 permalink: "/portfolio/"
 ---
-## Web Development
+## Website Development
 
 ### Jamstack Atchitecture Content Sites
 
@@ -74,7 +74,9 @@ These are minimal apps created for the purpose of learning a specific feature.
 - [app-server-demo](https://github.com/mjgs/app-server-demo) - An express app for running express apps - drop express apps in the lib folder and start the server
 - [app-server](https://github.com/mjgs/app-server) - Node.js module for building servers that run express apps
 
-## Workflows and Automation
+## Workflow Development
+
+### Broadcast
 
 I architected and/or built the following workflow solutions from the below workflow portfolio document:
 
@@ -93,8 +95,6 @@ I architected and/or built the following workflow solutions from the below workf
 [Direct link to pdf file]({{ site.baseurl }}/assets/images/Workflow Portfolio - 2011.pdf)
 
 <br>
-
-## Devops & Sysadmin
 
 ### Digital Intermediate
 
