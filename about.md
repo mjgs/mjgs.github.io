@@ -7,11 +7,11 @@ permalink: "/about/"
 
 ## Overview
 
-Hi I'm Mark, a Freelance Web Developer, Consultant and Automation Engineer.
+Hi I'm Mark, a Freelance Web Developer, Consultant and Automation Engineer. [I build websites and workflows]({{ site.baseurl }}/2020/12/29/building-websites-and-workflows.html).
 
 I publish a [blog](https://blog.markjgsmith.com), a daily [linkblog](https://links.markjgsmith.com), a weekly [newsletter](https://markjgsmith.substack.com), and an experimental [podcast](https://podcasts.markjgsmith.com).
 
-I've worked for [feature film visual effects companies]({{site.baseurl}}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software]({{site.baseurl}}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html) startup, and I've [built my own SaaS]({{site.baseurl}}/2020/11/26/looking-back-at-linkblogdotio.html).
+I've worked for [feature film visual effects companies]({{ site.baseurl }}/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html), an [enterprise software]({{site.baseurl}}/2020/11/30/what-its-like-working-for-an-enterprise-software-startup.html) startup, and I've [built my own SaaS]({{site.baseurl}}/2020/11/26/looking-back-at-linkblogdotio.html).
 
 ## Specialities
 
