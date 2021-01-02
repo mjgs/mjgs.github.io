@@ -53,8 +53,8 @@ Linkblog.io was the minimalist link curation tool, a cloud/SAAS NodeJS web appli
 
 More information in these blog posts:
 
-- [Robust NodeJS Deployment Architecture](https://blog.markjgsmith.com/2020/11/13/robust-nodejs-deployment-architecture.html) - A writeup of the tech stack
 - [Looking back at linkblog.io](https://blog.markjgsmith.com/2020/11/26/looking-back-at-linkblogdotio.html) - A look back at the project goals, application level features and automation systems
+- [Robust NodeJS Deployment Architecture](https://blog.markjgsmith.com/2020/11/13/robust-nodejs-deployment-architecture.html) - A writeup of the tech stack
 - [Building the foundations for the future of linkblog](https://blog.markjgsmith.com/2019/12/06/building-the-foundations-for-the-future-of-linkblog.html) - Describes the redesigned billing system that I implemented
 
 ### Minimals
