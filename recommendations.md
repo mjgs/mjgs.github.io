@@ -27,8 +27,8 @@ Ian has subsequently held a variety of consultancy and strategic advisory roles 
 
 Dave subsequently has held Cloud Architect and Director of Technical Operations roles at [Rewind](https://rewind.io)
 
-[Roberto Milev](https://www.linkedin.com/mwlite/in/robertomilev) - I worked with Roberto while at Signiant where he was Software Architect
+[Roberto Milev](https://www.linkedin.com/mwlite/in/robertomilev) - I worked with Roberto while at [Signiant](https://www.signiant.com) where he was Software Architect
 
-> I worked with Mark during my time at [Signiant](https://www.signiant.com). He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
+> I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
 Roberto subsequently held several Senior Architect and Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
