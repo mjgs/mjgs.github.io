@@ -3,7 +3,7 @@ title: Recommendations
 layout: page
 permalink: "/recommendations/"
 ---
-[Tim Baxter](https://www.linkedin.com/mwlite/in/tim-baxter-film-tv-vfx) - I worked with Tim at Capital FX and Deluxe Digital Entertainment where he was the Film Scanning & Recording Manager
+[Tim Baxter](https://www.linkedin.com/mwlite/in/tim-baxter-film-tv-vfx) - I worked with Tim at Capital FX and [Deluxe Digital Entertainment](https://en.m.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group) where he was the Film Scanning & Recording Manager
 
 > Having worked with Mark on VFX & editorial workflows for the film industry there is no other specialist that I would rather have in the team. His talent, knowledge and dedication created solutions to complex problems and helped deliver Hollywood blockbusters on time.
 >
