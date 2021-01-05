@@ -18,3 +18,11 @@ Tim has subsequently been Director/Co-founder, and held managerial Client Relati
 > Mark would be a great asset in any organisation and I would highly recommend him.
 
 Ian has subsequently held a variety of consultancy and strategic advisory roles for companies such as [Motion Picture Solutions (MPG)](https://www.motionpicturesolutions.com)
+
+[Dave North](https://www.linkedin.com/mwlite/in/dnorth98) - I worked with Dave at Signiant where he was DevOps Manager and Director of DevOps
+
+> I worked with Mark at Signiant both remotely and in person. As a solutions architect, Mark frequently came up with innovative solutions using the Signiant workfliow engine to solve complex customer problems. I was always impressed at how Mark could take the complex customer requirements and translate them into workflows that could easily be followed.
+>
+> I then worked with Mark when he transistioned to a developer working on Media Shuttle. Mark picked up the concepts quickly and helped to turn Media Shuttle into the world class product it is today.
+
+Dave subsequently has held Cloud Architect and Director of Technical Operations roles at [Rewind](https://rewind.io)
