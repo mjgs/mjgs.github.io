@@ -11,7 +11,7 @@ permalink: "/recommendations/"
 
 Tim has subsequently been Director/Co-founder, and held managerial Client Relations and Business Development roles at several renouned VFX facilities including [Fugitive Studios](http://www.wearefugitives.com), [Soho Digital Cinema](https://www.broadcastnow.co.uk/tech/visual-data-media-services-acquires-soho-digital-cinema/5138899.article) (acquired by [Visual Data](https://www.visualdatamedia.com/distribution/dcinema-mastering-and-distribution/ )) and [Eclair](https://eclair.digital/en?action)
 
-[Ian Buckton](https://www.linkedin.com/mwlite/in/ian-buckton-9b550150) - I worked with Ian at Capital FX where he was MD / Co-owner, and later at Deluxe Digital Entertainment](https://en.m.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group) where he was a consultant.
+[Ian Buckton](https://www.linkedin.com/mwlite/in/ian-buckton-9b550150) - I worked with Ian at Capital FX where he was MD / Co-owner, and later at [Deluxe Digital Entertainment](https://en.m.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group) where he was a consultant.
 
 > Mark is a true team player and helped CFX/Deluxe digital cinema become a world leader. He can think out of the box, take on any challenges and deliver a great end result. 
 >
