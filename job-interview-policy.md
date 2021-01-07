@@ -21,6 +21,6 @@ What I suggest to clients that want to work with me live is to start with a 1-3 
 
 I am open to long term arrangements and would be happy to transition to a more permanent role, but I could also continue on as a freelancer, whichever suits your needs best.
 
-Check out the [service package descriptions]({{ site.baseurl }}/services.html) and [price list]({{ site.baseurl }}/pricing) for more details.
+Check out the [services page]({{ site.baseurl }}/services) and [price list page]({{ site.baseurl }}/pricing) for more details.
 
 *This page is based on the [original blog post]({{ site.baseurl }}/2020/11/20/my-policy-on-job-interviews.html) that covered the subject.*
