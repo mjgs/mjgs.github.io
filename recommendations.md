@@ -25,13 +25,13 @@ Ian has subsequently held a variety of consultancy and strategic advisory roles 
 >
 > I then worked with Mark when he transistioned to a developer working on Media Shuttle. Mark picked up the concepts quickly and helped to turn Media Shuttle into the world class product it is today.
 
-Dave subsequently has held Cloud Architect and Director of Technical Operations roles at [Rewind](https://rewind.io)
+Dave has subsequently held Cloud Architect and Director of Technical Operations roles at [Rewind](https://rewind.io)
 
 [Roberto Milev](https://www.linkedin.com/mwlite/in/robertomilev) - I worked with Roberto while at [Signiant](https://www.signiant.com) where he was Software Architect
 
 > I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
-Roberto subsequently held several Senior Architect and Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
+Roberto has subsequently held several Senior Architect and Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
 
 [Darren Breeze](https://www.linkedin.com/mwlite/in/darrenbreeze) - I worked with Darren while he was Director of Technology Development and Architecture at [Discovery Networks Europe](https://corporate.discovery.com), who were clients of the company I worked for [Signiant](https://www.signiant.com)
 
@@ -41,16 +41,16 @@ Roberto subsequently held several Senior Architect and Developer roles at compan
 >
 > A definite asset to have on our workflow project.
 
-Darren subsequently has held Director / Co-owner, CTO and CEO positions at companies including DAO Media Systems (UK), Yapku (HK), KSN Systems (HK & NZ) and KidsSafetyNet (HK)
+Darren has subsequently held Director / Co-owner, CTO and CEO positions at companies including DAO Media Systems (UK), Yapku (HK), KSN Systems (HK & NZ) and KidsSafetyNet (HK)
 
 [Matt Rountree](https://www.linkedin.com/mwlite/in/matt-rowntree-0110412) - I worked with Matt at [Signiant](https://www.signiant.com) where he was Senior Solutions Architect
 
 > I worked on the same team as Mark while at Signiant and mentored him on some of his early projects. I found him inquisitive, innovative, intelligent and diligent. It was pleasure to work with him.
 
-Matt subsequently was an Independant Consultant / Media Workflow Architect, and then held Senior Software Engineer roles at companies including the [National Football League (NFL)](https://en.m.wikipedia.org/wiki/National_Football_League) and [Zixi](https://zixi.com)
+Matt has subsequently been an Independant Consultant / Media Workflow Architect, and held Senior Software Engineer roles at companies including the [National Football League (NFL)](https://en.m.wikipedia.org/wiki/National_Football_League) and [Zixi](https://zixi.com)
 
 [Henry van der Beek](https://www.linkedin.com/mwlite/in/ninhenzo64) - I worked with Henry at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was System Administrator
 
 > I worked with Mark at Jim Henson's Creature Shop where we were both on the sys admin team, running the helpdesk. It was a pretty hectic atmosphere, a lot of production pressure and tight deadlines but Mark was great at keeping it all together, working with the team and the artists - he was very dedicated to getting the job done. There was a lot of liaising with different departments: software/developers, production, 2d/3d artists - he's great at keeping everyone together and on the same page. Our work involved a lot of bash and python, managing a lot of workstations and render farm nodes, and making sure the farm was always fully optimised. We worked on some great projects, some crazy creatures with some cool artwork and I would thoroughly recommend him as a colleague and friend.
 
-Henry subsequently held Technical Director and Senior Technical Director roles at several renouned feature film VFX facilities including [Framestore (UK)](https://en.m.wikipedia.org/wiki/Framestore), [Method Studios (US)](https://en.m.wikipedia.org/wiki/Method_Studios) and animation production studio [Psyop (US)](https://en.m.wikipedia.org/wiki/Psyop_(company))
+Henry has subsequently held Technical Director and Senior Technical Director roles at several renouned feature film VFX facilities including [Framestore (UK)](https://en.m.wikipedia.org/wiki/Framestore), [Method Studios (US)](https://en.m.wikipedia.org/wiki/Method_Studios) and animation production studio [Psyop (US)](https://en.m.wikipedia.org/wiki/Psyop_(company))
