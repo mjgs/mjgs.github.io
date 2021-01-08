@@ -31,7 +31,7 @@ Dave has subsequently held Cloud Architect and Director of Technical Operations 
 
 > I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
-Roberto has subsequently held several Senior Architect and Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
+Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
 
 [Darren Breeze](https://www.linkedin.com/mwlite/in/darrenbreeze) - I worked with Darren while he was Director of Technology Development and Architecture at [Discovery Networks Europe](https://corporate.discovery.com), who were clients of the company I worked for [Signiant](https://www.signiant.com)
 
