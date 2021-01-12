@@ -1,5 +1,5 @@
 ---
-title: Cloud Native web application development: What's it all about?
+title: "Cloud Native web application development: What's it all about?"
 description: A look at Cloud Native web application development, what it is exactly and why it's likely to play a big part in the future of web development.
 published: true
 layout: post
