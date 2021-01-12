@@ -101,7 +101,7 @@ From my linkblog [13/12/2020](https://links.markjgsmith.com/archives/html/2020/1
 
 As is always the case with the tech industry, there will be mergers and acquisitions, that is a certainty. When that happens there are large shifts in power dynamics throughout the industry. The next 10 years are going to see some big changes throughout the stack with activity already happening right at the hardware level with a move from x86 to ARM chip architectures, most notably with the recent announcement of Apple’s M1 chips.
 
-Extracted from my linkblog [21/12/2020](https://erik-engheim.medium.com/apple-m1-foreshadows-risc-v-dd63a62b2562):
+From my linkblog [21/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#21December2020):
 
 > Apple M1 foreshadows Rise of RISC-V - Another piece about the future of chip architectures, it appears like a general move towards ARM cpus surrounded by specialised corprocessors running RISC-V with special extensions to the base instruction set, also discusses the possibility of using RISC-V for the cpu [medium.com](https://erik-engheim.medium.com/apple-m1-foreshadows-risc-v-dd63a62b2562)
 
