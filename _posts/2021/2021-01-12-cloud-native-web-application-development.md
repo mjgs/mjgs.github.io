@@ -57,7 +57,7 @@ The technologies improved, and in recent years there has been broad adoption of 
 
 Cloud Native is the logical conclusion of this gradual move, with applications being designed and implemented to run completely on cloud services. 
 
-Extracted from my linkblog [31/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#31December2020):
+From my linkblog [31/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#31December2020):
 
 > Software Engineering Podcast - Cloud-Native Applications with Cornelia Davis (Repeat) - Looks at applications architected and built to run exclusively in cloud environments, covers event driven architectures, functional programming, infrastructure as code, Kubernetes, immutability and workloads, cloud failure domains, statelessness, microservices vs monoliths, and the new cloud abstractions such as Lambda and Big Query [softwareengineeringdaily.com](https://softwareengineeringdaily.com/2020/12/30/cloud-native-applications-with-cornelia-davis-repeat/?utm_source=rss&utm_medium=rss&utm_campaign=cloud-native-applications-with-cornelia-davis-repeat)
 
@@ -95,7 +95,7 @@ Another area to consider is long term costs. So far we have seen costs mostly ge
 
 Also it’s worth noting that the pricing structure can have a direct effect on your business that isn’t always obvious. Engineers might start to carry out their duties in a different, non-expected, non-optimal way in order to avoid hitting different pricing tiers. These effects can be difficult to uncover.
 
-Extracted from my linkblog [13/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#13December2020):
+From my linkblog [13/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#13December2020):
 
 > The author explores the landscape of buy vs build in detail, lots of food for thought, the arguments for building are generally much stronger when it’s a solution that solves something that is core to the business - I’m linking to the HN thread because there are some interesting comments about how vendor pricing models can effect growth in ways that aren’t immediately obvious [ycombinator.com](https://news.ycombinator.com/item?id=25399250).
 
@@ -107,7 +107,7 @@ Extracted from my linkblog [21/12/2020](https://erik-engheim.medium.com/apple-m1
 
 That’s a massive change, and it’s not just for consumer hardware either. There are plans to have M1 chips running in data centres to take advantage of their much lower power to watt ratio, and their new architecture that is very well suited to AI compute tasks. Shifts such as [Nvidia attempting to buy Arm](https://www.ft.com/content/223b9b1c-5c99-4c39-bb80-54111f55e30e) are going to continue and their effect will be felt throughout the industry.
 
-Extracted from my linkblog [02/12/2920](https://links.markjgsmith.com/archives/html/2020/12#2December2020):
+From my linkblog [02/12/2920](https://links.markjgsmith.com/archives/html/2020/12#2December2020):
 
 > Amazon unveils 5 new EC2 instance types, the most interesting being the Amazon-made Graviton2 powered instances for compute heavy applications which uses the ARM chip architecture, can deliver a whopping 100 Gbps network speeds at 40% price performance over existing Intel x86 chip architectures - Lots of movement in the chip architecture space at the minute [zdnet.com](https://www.zdnet.com/article/aws-unveils-new-compute-instances-including-compute-heavy-c6gn-powered-by-graviton2).
 
@@ -161,7 +161,7 @@ Everyone’s situation is different though, and your circumstances  might be suc
 
 Although it’s early days for cloud computing, even large companies such as the British Broadcasting Company (BBC) in the UK are building huge cloud native infrastructures. It’s interesting to read their high level goals and see how cloud technologies align very well with their mission. 
 
-Extracted from my linkblog [03/01/2021](https://links.markjgsmith.com/archives/html/2021/01/#3January2021):
+From my linkblog [03/01/2021](https://links.markjgsmith.com/archives/html/2021/01/#3January2021):
 
 > Moving BBC Online to the cloud - The engineering team writeup of their recent move from on-premises infrastructure to mostly cloud based where they are using serverless technologies extensively - Very clear articulation of the project high level goals, a description of the layered approach that enables code re-use but also keeps the flexibility to create custom specialised solutions, the re-organisation into teams focussed on page types and common concerns such as development methodology and hosting, interspersed with lots of development principles and guidelines - I have worked on several big projects at the BBC, it’s a staggeringly large organisation, so I am aware of how massive an undertaking this re-architecting of their infrastructure must have been, kudos to all the teams that made it happen [medium.com](https://medium.com/bbc-design-engineering/moving-bbc-online-to-the-cloud-afdfb7c072ff)
 
