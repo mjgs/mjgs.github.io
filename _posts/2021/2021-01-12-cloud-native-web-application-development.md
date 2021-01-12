@@ -31,6 +31,14 @@ Here’s the general approach I'm going to take in this blog post:
 - Wrapping up
 {: refdef}
 
+I'll also be adding in relevant posts from my linkblog. That's where I've been gathering links. There will be a link to that place in the linkblog so you can see the context around that link, in case you are interested, and also a link to the linked article. Those bits will appear as quotes and look like this:
+
+From my linkblog [12-01-2920](https://links.markjgsmith.com/archives/html/2021/01/#11January2021):
+
+> Lenovo unveils ThinkReality A3 smartglasses with Snapdragon XR1 - This makes me wonder is VFX artists are going to be really into AR tech, especially all the 3D folks [neowin.net](https://www.neowin.net/news/lenovo-unveils-thinkreality-a3-smartglasses-with-snapdragon-xr1?scrolla=5eb6d68b7fedc32c19ef33b4)
+
+That's the very latest link on my linkblog as I write this, it doesn't have anything todo with this article, it's just an example to show you what those bits will look like.
+
 Hopefully by the end you’ll have a better sense of where this trend is heading and thus a better idea of what the future of web applications could look like.
 
 ## The Cloud Native trend
