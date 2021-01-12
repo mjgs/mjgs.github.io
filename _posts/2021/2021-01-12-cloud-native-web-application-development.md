@@ -20,22 +20,16 @@ A lot of these technologies and paradigms are still somewhat in flux, but I thin
  
 Here’s the general approach I'm going to take in this blog post:
 
-The Cloud Native trend
-
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- History
-- Benefits
-- Challenges
+- The Cloud Native trend
+  - History
+  - Benefits
+  - Challenges
+- Alternatives
+  - Infrastructure
+  - Software Architectures
+- Wrapping up
 {: refdef}
-
-Alternatives
-
-{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- Infrastructure
-- Software Architectures
-{: refdef}
-
-Wrapping up
 
 Hopefully by the end you’ll have a better sense of where this trend is heading and thus a better idea of what the future of web applications could look like.
 
