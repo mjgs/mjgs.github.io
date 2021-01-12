@@ -21,14 +21,14 @@ A lot of these technologies and paradigms are still somewhat in flux, but I thin
 Here’s the general approach I'm going to take in this blog post:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- The Cloud Native trend
-  - History
-  - Benefits
-  - Challenges
-- Alternatives
-  - Infrastructure
-  - Software Architectures
-- Wrapping up
+- [The Cloud Native trend]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#the-cloud-native-trend)
+  - [History]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#history)
+  - [Benefits]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#benefits)
+  - [Challenges]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#challenges)
+- [Alternatives]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#alternatives)
+  - [Infrastructure]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#infrastructure)
+  - [Software Architectures]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#software-architectures)
+- [Wrapping up]({{ site.baseurl }}/2021/01/12/cloud-native-web-application-development.html#wrapping-up)
 {: refdef}
 
 I'll also be adding in relevant posts from my [linkblog](https://links.markjgsmith.com). That's where I've been gathering links. There will be a link to that place in the linkblog so you can see the context around that link, in case you are interested, and also a link to the linked article. Those bits will appear as quotes and look like this:
