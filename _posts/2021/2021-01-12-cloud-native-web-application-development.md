@@ -33,7 +33,7 @@ Here’s the general approach I'm going to take in this blog post:
 
 I'll also be adding in relevant posts from my linkblog. That's where I've been gathering links. There will be a link to that place in the linkblog so you can see the context around that link, in case you are interested, and also a link to the linked article. Those bits will appear as quotes and look like this:
 
-From my linkblog [12-01-2920](https://links.markjgsmith.com/archives/html/2021/01/#11January2021):
+From my linkblog [12-01-2021](https://links.markjgsmith.com/archives/html/2021/01/#11January2021):
 
 > Lenovo unveils ThinkReality A3 smartglasses with Snapdragon XR1 - This makes me wonder is VFX artists are going to be really into AR tech, especially all the 3D folks [neowin.net](https://www.neowin.net/news/lenovo-unveils-thinkreality-a3-smartglasses-with-snapdragon-xr1?scrolla=5eb6d68b7fedc32c19ef33b4)
 
