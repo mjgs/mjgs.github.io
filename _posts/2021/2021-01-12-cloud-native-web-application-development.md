@@ -133,7 +133,7 @@ A popular way to do just that is to use [Domain Driven Design](https://en.m.wiki
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/clean-architecture-pattern.JPG)
 {: refdef}
 
-I have had good results using some of these techniques in my [Serverless Books API](https://github.com/mjgs/serverless-books-api) application. In my case the layers are named slightly differently, with handlers, utilities and adapter layers, but the idea is the same. Each layer encapsulates some bits of information so that the handler functions don’t need to know about the exact implementation underneath. 
+I have had good results using some of these techniques in my [Serverless Books API](https://github.com/mjgs/serverless-books-api) application. In my case the layers are named slightly differently, with handlers, utilities and adapter layers, but the idea is the same. Each layer encapsulates some bits of information so that the core handler functions don’t need to know exactly how the storage has been implemented. 
 
 The core layer handler functions use the addBook, getBook, getAllBooks, updateBook and deleteBook utility functions, passing in the query data, but don’t know any details about how and where the data is stored. 
 
