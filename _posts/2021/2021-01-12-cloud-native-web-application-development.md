@@ -129,7 +129,7 @@ Once you start integrating a few cloud services though, and especially if you wa
 
 A popular way to do just that is to use [Domain Driven Design](https://en.m.wikipedia.org/wiki/Domain-driven_design) techniques, an example of this is  [Microservices Clean Architecture Patterns](https://m.youtube.com/watch?v=CnailTcJV_U&t=960s). This approach uses entities, controllers, adapters and frameworks/devices layers, resulting in an architecture where changing the elements in the outer layers is much easier because you mostly just need to create new adapters, while much of the core business logic will remain unchanged.
 
-{:refdef: style="text-align:center;margin-top:50px;"}
+{:refdef: style="margin-top:50px;"}
 ![Node.js web development technologies]({{site.baseurl}}/assets/images/clean-architecture-pattern.JPG)
 {: refdef}
 
