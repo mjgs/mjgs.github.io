@@ -85,8 +85,6 @@ Some libraries and frameworks I’ve found useful for serverless development:
 
 Another area to consider is long term costs. So far we have seen costs mostly getting cheaper, but that might not always be the case, it’s still relatively early days for the cloud industry as a whole. One example where costs suddenly went the other way is Google Maps. Back in 2018 [they raised prices by ~1,400% overnight](https://www.geoawesomeness.com/developers-up-in-arms-over-google-maps-api-insane-price-hike/). Application developers were not happy, but it still happened. Price hikes have happened in the past and will likely happen again somewhere in the future.
 
-Incidentally, if you are at all interested in the Online Maps space, these two articles are a must read: [Google Map’s Moat](https://www.justinobeirne.com/google-maps-moat) and [Google Map’s Moat is Evapourating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating).
-
 Also it’s worth noting that the pricing structure can have a direct effect on your business that isn’t always obvious. Engineers might start to carry out their duties in a different, non-expected, non-optimal way in order to avoid hitting different pricing tiers. These effects can be difficult to uncover.
 
 Extracted from my linkblog [13/12/2020](https://links.markjgsmith.com/archives/html/2020/12/#13December2020):
