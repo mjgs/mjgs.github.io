@@ -31,7 +31,7 @@ Here’s the general approach I'm going to take in this blog post:
 - Wrapping up
 {: refdef}
 
-I'll also be adding in relevant posts from my linkblog. That's where I've been gathering links. There will be a link to that place in the linkblog so you can see the context around that link, in case you are interested, and also a link to the linked article. Those bits will appear as quotes and look like this:
+I'll also be adding in relevant posts from my [linkblog](https://links.markjgsmith.com). That's where I've been gathering links. There will be a link to that place in the linkblog so you can see the context around that link, in case you are interested, and also a link to the linked article. Those bits will appear as quotes and look like this:
 
 From my linkblog [12-01-2021](https://links.markjgsmith.com/archives/html/2021/01/#11January2021):
 
