@@ -70,6 +70,15 @@ jobs:
           url=$domain_to_save/portfolio
           echo saving: $url
           curl -X GET $web_archive_url/$url
+  save-sponsorships-page:
+    name: Save sponsorships page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save sponsorships page
+        run: |
+          url=$domain_to_save/sponsorships
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
   save-pricing-page:
     name: Save pricing page
     runs-on: ubuntu-latest
