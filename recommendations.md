@@ -17,7 +17,7 @@ Tim has subsequently been Director/Co-founder, and held managerial Client Relati
 >
 > Mark would be a great asset in any organisation and I would highly recommend him.
 
-Ian has subsequently held a variety of consultancy and strategic advisory roles for companies such as [Motion Picture Solutions (MPG)](https://www.motionpicturesolutions.com)
+Ian has subsequently held a variety of consultancy and strategic advisory roles for companies such as [Motion Picture Solutions (MPS)](https://www.motionpicturesolutions.com)
 
 [Dave North](https://www.linkedin.com/mwlite/in/dnorth98) - I worked with Dave at [Signiant](https://www.signiant.com) where he was DevOps Manager and Director of DevOps
 
