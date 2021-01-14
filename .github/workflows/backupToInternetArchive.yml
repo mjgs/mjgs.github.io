@@ -1,8 +1,8 @@
 name: Backup to Internet Archive
 on:
   schedule:
-    # Run at 1700 daily
-    - cron: '30 17 * * *'
+    # Run at 0530,1130,1730,2330 daily (GMT)
+    - cron: '30 5,11,17,23 * * *'
   workflow_dispatch:
 env:
   web_archive_url: https://web.archive.org/save
