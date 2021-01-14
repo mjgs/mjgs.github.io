@@ -54,3 +54,11 @@ Henry has subsequently held Technical Director and Senior Technical Director rol
 > I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
 Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
+
+[Emmanuel Proulx](https://www.linkedin.com/mwlite/in/eproulx) - I worked with Emmanuel at [Signiant](https://www.signiant.com) on the [Media Shuttle](https://www.signiant.com/products/media-shuttle/?cc=homepage) Web Team where he was Lead Developer
+
+> I am writing this to recommend Mark. I worked with him at Signiant in 2013 for a few months. We were using Scrum, including daily stand-up, sprint planning, and retrospective meetings.
+>
+> During that time, I enjoyed working with Mark. He demonstrated an eagerness to learn, and he was hard-working. He's also easygoing and caring.
+
+Emmanuel has subsequently held Lead Developer and Full-Stack Software Developer roles at companies including [BackOffice Associates](https://www.syniti.com), [Dialogic](http://www.dialogic.com) and [High Tech Genesis](http://www.hightechgenesis.com)
