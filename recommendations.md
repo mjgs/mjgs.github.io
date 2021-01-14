@@ -54,3 +54,9 @@ Henry has subsequently held Technical Director and Senior Technical Director rol
 > I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
 Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
+
+[Eliot Hobdell](https://www.linkedin.com/mwlite/in/eliot-hobdell-50b33710) - I worked with Eliot at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was Render Wrangler
+
+> I previously worked with Mark at Jim Henson's Creature Shop in London and found him to be a diligent member of the team and great person to work with. He is highly experienced, dedicated and knowledgeable as well as extremely hardworking - I can't recommend him highly enough!
+
+Eliot has subsequently held Senior Motion Graphics Designer and Motion Graphics Supervisor roles for renouned feature film VFX facilities including [The Moving Picture Company (MPC)](https://en.m.wikipedia.org/wiki/Moving_Picture_Company) and [DNEG](https://en.m.wikipedia.org/wiki/DNEG)
