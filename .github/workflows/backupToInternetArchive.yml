@@ -25,6 +25,15 @@ jobs:
           url=$domain_to_save/about
           echo saving: $url
           curl -X GET $web_archive_url/$url
+  save-contacts-page:
+    name: Save contacts page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save contacts page
+        run: |
+          url=$domain_to_save/contacts
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
   save-archives-page:
     name: Save archives page
     runs-on: ubuntu-latest
@@ -50,6 +59,24 @@ jobs:
       - name: Save services page
         run: |
           url=$domain_to_save/services
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-portfolio-page:
+    name: Save portfolio page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save portfolio page
+        run: |
+          url=$domain_to_save/portfolio
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
+  save-sponsorships-page:
+    name: Save sponsorships page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save sponsorships page
+        run: |
+          url=$domain_to_save/sponsorships
           echo saving: $url
           curl -X GET $web_archive_url/$url
   save-pricing-page:
