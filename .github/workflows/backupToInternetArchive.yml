@@ -61,6 +61,15 @@ jobs:
           url=$domain_to_save/services
           echo saving: $url
           curl -X GET $web_archive_url/$url
+  save-portfolio-page:
+    name: Save portfolio page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save portfolio page
+        run: |
+          url=$domain_to_save/portfolio
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
   save-pricing-page:
     name: Save pricing page
     runs-on: ubuntu-latest
