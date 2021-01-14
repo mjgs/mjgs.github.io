@@ -25,6 +25,15 @@ jobs:
           url=$domain_to_save/about
           echo saving: $url
           curl -X GET $web_archive_url/$url
+  save-contacts-page:
+    name: Save contacts page
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save contacts page
+        run: |
+          url=$domain_to_save/contacts
+          echo saving: $url
+          curl -X GET $web_archive_url/$url
   save-archives-page:
     name: Save archives page
     runs-on: ubuntu-latest
