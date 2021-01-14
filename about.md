@@ -7,7 +7,7 @@ permalink: "/about/"
 
 ## Overview
 
-Hi I'm Mark, a Freelance Web Developer, Consultant and Automation Engineer. [I build websites and workflows]({{ site.baseurl }}/2020/12/29/building-websites-and-workflows.html).
+Hi I'm Mark, a Freelance Web Developer, Consultant and Automation Engineer. [I build websites, APIs, workflows & automations]({{ site.baseurl }}/2020/12/29/building-websites-and-workflows.html).
 
 I publish a [blog](https://blog.markjgsmith.com), a daily [linkblog](https://links.markjgsmith.com), a weekly [newsletter](https://markjgsmith.substack.com), and an experimental [podcast](https://podcasts.markjgsmith.com).
 
