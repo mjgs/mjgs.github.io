@@ -54,3 +54,21 @@ Henry has subsequently held Technical Director and Senior Technical Director rol
 > I worked with Mark during my time at Signiant. He pioneered the customer adoption of the (then new) workflow engine and the Media Exchange workflow integrations. Mark is a seasoned solutions engineer and was instrumental in driving innovation and applying integration architecture patterns to deliver successful solutions to our customers in the field. He lead the technical implementation of many Signiant based solutions for big customers such as Canal+, Chellomedia, Swiss Television, Discovery Channel and Prosiebensat. Highly recommended!
 
 Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
+
+[Bruce Ross](https://www.linkedin.com/mwlite/in/bruce-ross-83043) - I worked with Bruce while at [Signiant](https://www.signiant.com) where he was Technical Delivery Manager
+
+>I had the pleasure of working with Mark when I was a Technical Delivery Manager for Signiant. Mark’s role as a Solutions Architect was to build and integrate Signiant workflows into customers’ infrastructure.
+ >
+>Signiant software played a pivotal role in a large digital transformation project for ProSiebenSat1 (P7S1), one Germany’s largest private broadcasters. Our main contacts included the PMO, senior broadcast technology and IT management and business management.
+>
+>P7S1 implemented an enterprise-wide digital asset management (DAM) system that managed their video production, content creation, video encoding, editing, program scheduling and content distribution among several physical locations around Germany and the EU. Signiant managed distribution of very large mezzanine files across their enterprise. The project spanned about 12 months between planning, implementation, test and turnover.
+>
+>Mark carried out a requirements gathering phase uncovering a number of complex workflows. He architected a custom solution incorporating Signiant software with their DAM resulting in a workflow supporting ingest, transcode and delivery with editorial review and approval as well as metadata and media verification.
+>
+>Mark was the primary, on-site Signiant representative to the customer, so his combination of strong customer facing skills and deep technical acumen established Mark as the customer’s advocate. The customer could always rely on Mark to execute on time and in a professional manner, and as such, established trust with the customer.
+>
+>Since then Mark has become a freelance web developer, consultant and automation engineer. He also publishes a technical blog and a newsletter. 
+>
+>I would highly recommend Mark to anyone who needs the skills of a strong builder and customer-facing technical resource.
+
+Bruce has subsequently held several Media Technology Workflow Consultant, Senior Solutions Architect and Senior Solutions Engineer roles at companies including [Verizon Media](https://en.m.wikipedia.org/wiki/Verizon_Media), [IBM Watson Media](https://www.ibm.com/watson/media), [Comcast](http://www.comcasttechnologysolutions.com) and [Amazon Web Services](http://aws.amazon.com)
