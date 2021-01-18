@@ -55,6 +55,14 @@ Henry has subsequently held Technical Director and Senior Technical Director rol
 
 Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
 
+[Emmanuel Proulx](https://www.linkedin.com/mwlite/in/eproulx) - I worked with Emmanuel at [Signiant](https://www.signiant.com) on the [Media Shuttle](https://www.signiant.com/products/media-shuttle/?cc=homepage) Web Team where he was Lead Developer
+
+> I am writing this to recommend Mark. I worked with him at Signiant in 2013 for a few months. We were using Scrum, including daily stand-up, sprint planning, and retrospective meetings.
+>
+> During that time, I enjoyed working with Mark. He demonstrated an eagerness to learn, and he was hard-working. He's also easygoing and caring.
+
+Emmanuel has subsequently held Lead Developer and Full-Stack Software Developer roles at companies including [BackOffice Associates](https://www.syniti.com), [Dialogic](http://www.dialogic.com) and [High Tech Genesis](http://www.hightechgenesis.com)
+
 [Eliot Hobdell](https://www.linkedin.com/mwlite/in/eliot-hobdell-50b33710) - I worked with Eliot at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was Render Wrangler
 
 > I previously worked with Mark at Jim Henson's Creature Shop in London and found him to be a diligent member of the team and great person to work with. He is highly experienced, dedicated and knowledgeable as well as extremely hardworking - I can't recommend him highly enough!
