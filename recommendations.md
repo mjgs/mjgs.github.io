@@ -62,3 +62,9 @@ Roberto has subsequently held several Senior Architect and Senior Developer role
 > During that time, I enjoyed working with Mark. He demonstrated an eagerness to learn, and he was hard-working. He's also easygoing and caring.
 
 Emmanuel has subsequently held Lead Developer and Full-Stack Software Developer roles at companies including [BackOffice Associates](https://www.syniti.com), [Dialogic](http://www.dialogic.com) and [High Tech Genesis](http://www.hightechgenesis.com)
+
+[Eliot Hobdell](https://www.linkedin.com/mwlite/in/eliot-hobdell-50b33710) - I worked with Eliot at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was Render Wrangler
+
+> I previously worked with Mark at Jim Henson's Creature Shop in London and found him to be a diligent member of the team and great person to work with. He is highly experienced, dedicated and knowledgeable as well as extremely hardworking - I can't recommend him highly enough!
+
+Eliot has subsequently held Senior Motion Graphics Designer and Motion Graphics Supervisor roles for renouned feature film VFX facilities including [The Moving Picture Company (MPC)](https://en.m.wikipedia.org/wiki/Moving_Picture_Company) and [DNEG](https://en.m.wikipedia.org/wiki/DNEG)
