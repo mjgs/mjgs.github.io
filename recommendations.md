@@ -68,3 +68,21 @@ Emmanuel has subsequently held Lead Developer and Full-Stack Software Developer 
 > I previously worked with Mark at Jim Henson's Creature Shop in London and found him to be a diligent member of the team and great person to work with. He is highly experienced, dedicated and knowledgeable as well as extremely hardworking - I can't recommend him highly enough!
 
 Eliot has subsequently held Senior Motion Graphics Designer and Motion Graphics Supervisor roles for renouned feature film VFX facilities including [The Moving Picture Company (MPC)](https://en.m.wikipedia.org/wiki/Moving_Picture_Company) and [DNEG](https://en.m.wikipedia.org/wiki/DNEG)
+
+[Bruce Ross](https://www.linkedin.com/mwlite/in/bruce-ross-83043) - I worked with Bruce while at [Signiant](https://www.signiant.com) where he was Technical Delivery Manager
+
+>I had the pleasure of working with Mark when I was a Technical Delivery Manager for Signiant. Mark’s role as a Solutions Architect was to build and integrate Signiant workflows into customers’ infrastructure.
+ >
+>Signiant software played a pivotal role in a large digital transformation project for ProSiebenSat1 (P7S1), one Germany’s largest private broadcasters. Our main contacts included the PMO, senior broadcast technology and IT management and business management.
+>
+>P7S1 implemented an enterprise-wide digital asset management (DAM) system that managed their video production, content creation, video encoding, editing, program scheduling and content distribution among several physical locations around Germany and the EU. Signiant managed distribution of very large mezzanine files across their enterprise. The project spanned about 12 months between planning, implementation, test and turnover.
+>
+>Mark carried out a requirements gathering phase uncovering a number of complex workflows. He architected a custom solution incorporating Signiant software with their DAM resulting in a workflow supporting ingest, transcode and delivery with editorial review and approval as well as metadata and media verification.
+>
+>Mark was the primary, on-site Signiant representative to the customer, so his combination of strong customer facing skills and deep technical acumen established Mark as the customer’s advocate. The customer could always rely on Mark to execute on time and in a professional manner, and as such, established trust with the customer.
+>
+>Since then Mark has become a freelance web developer, consultant and automation engineer. He also publishes a technical blog and a newsletter. 
+>
+>I would highly recommend Mark to anyone who needs the skills of a strong builder and customer-facing technical resource.
+
+Bruce has subsequently held several Media Technology Workflow Consultant, Senior Solutions Architect and Senior Solutions Engineer roles at companies including [Verizon Media](https://en.m.wikipedia.org/wiki/Verizon_Media), [IBM Watson Media](https://www.ibm.com/watson/media), [Comcast](http://www.comcasttechnologysolutions.com) and [Amazon Web Services](http://aws.amazon.com)
