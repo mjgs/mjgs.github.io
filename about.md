@@ -34,7 +34,7 @@ NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javasc
 - [Twitter](https://twitter.com/markjgsmith)
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
 - [Github](https://github.com/mjgs)
-- [Homepage](https://markjgsmith.com).
+- [Homepage](https://markjgsmith.com)
 
 ## Freelance Services
 
