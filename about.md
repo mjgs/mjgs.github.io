@@ -27,7 +27,7 @@ Check out my [portfolio]({{ site.baseurl }}/portfolio) for a selection of past p
 
 ## Technologies
 
-NodeJS, Bash, Perl, Git, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
+NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
 
 ## More details
 
