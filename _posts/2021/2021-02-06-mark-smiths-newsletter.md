@@ -1,5 +1,5 @@
 ---
-title: "This week’s newsletter is out! (Sat 6th Feb 2021)"
+title: "My javascript / tech / web development newsletter for 2021-02-06 is out!"
 description: AWS SSG, Netlify edge handlers, 11ty, FB newsletters, DoctorowOnIP, system design, GCP, Bash, app architecture, estimating projects, Bezos transition, Apple Car/VR/AR, RSS, WebRTC, OSS, cool podcasts...
 published: true
 layout: post
