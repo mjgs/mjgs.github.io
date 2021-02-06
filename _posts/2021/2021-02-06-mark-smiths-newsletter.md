@@ -7,7 +7,7 @@ date: 2021-02-06 14:45:00:00 +0700
 tags:
 - Mark Smith’s Newsletter
 ---
-This week’s newsletter is out! (Sat 6th Feb 2021)
+In this week’s edition:
 
 AWS SSG, Netlify edge handlers, 11ty, FB newsletters, DoctorowOnIP, system design, GCP, Bash, app architecture, estimating projects, Bezos transition, Apple Car/VR/AR, RSS, WebRTC, OSS, cool podcasts...
 
