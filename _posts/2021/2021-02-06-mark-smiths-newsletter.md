@@ -9,6 +9,6 @@ tags:
 ---
 In this week’s edition:
 
-AWS SSG, Netlify edge handlers, 11ty, FB newsletters, DoctorowOnIP, system design, GCP, Bash, app architecture, estimating projects, Bezos transition, Apple Car/VR/AR, RSS, WebRTC, OSS, cool podcasts...
+[AWS SSG, Netlify edge handlers, 11ty, FB newsletters, DoctorowOnIP, system design, GCP, Bash, app architecture, estimating projects, Bezos transition, Apple Car/VR/AR, RSS, WebRTC, OSS, cool podcasts...](https://markjgsmith.substack.com/p/mark-smiths-newsletter-06-02-2021)
 
 https://markjgsmith.substack.com/p/mark-smiths-newsletter-06-02-2021
