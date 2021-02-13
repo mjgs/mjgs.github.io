@@ -1,5 +1,5 @@
 ---
-title: "My javascript / tech / web development newsletter for 2021-02-06 is out!"
+title: "My javascript / tech / web development newsletter for 2021-02-13 is out!"
 description: Governments, DevOps CI/CD, GameStop, SSH Tunnels, Jobs’ keynotes, OSS, audioOnUnix, Jack Dorsey, blogging, NFTs, CAPEX, Apple, Disney, Jamstack, websockets, k8s, Kafka, Lambda, Tesla, cool podcasts...
 published: true
 layout: post
