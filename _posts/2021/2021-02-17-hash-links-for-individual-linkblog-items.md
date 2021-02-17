@@ -13,7 +13,7 @@ If you read the [linkblog](https://links.markjgsmith.com) you might have noticed
 
 The [linkblog](https://links.markjgsmith.com), by the way is where I share links I find online, it’s published every day at midnight. 
 
-Sometimes I add a bit of commentary, other times it’s just the link and page title. It’s mostly links to javascript, technology and web development content, but there’s often other stuff in there too. There’s an RSS feed. 
+Sometimes I add a bit of commentary, other times it’s just the link and page title. It’s mostly links to javascript, technology and web development content, but there’s often other stuff in there too. [There’s an RSS feed](https://links.markjgsmith.com/feeds/daily/rss). 
 
 At the end of the week I do a roundup of the best links and send it out in the [newsletter](https://markjgsmith.substack.com).
 
