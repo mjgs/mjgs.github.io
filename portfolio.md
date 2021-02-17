@@ -5,7 +5,7 @@ permalink: "/portfolio/"
 ---
 ## Website Development
 
-### Jamstack Atchitecture Content Sites
+### Jamstack Architecture Content Sites
 
 I built a NodeJS static site generator for
 
