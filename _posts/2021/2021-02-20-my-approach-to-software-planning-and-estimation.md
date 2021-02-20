@@ -9,9 +9,18 @@ tags:
 - services
 - programming
 ---
-## Introduction
-
 While there isn’t a single approach that works for all projects, doing some planning and estimation goes a long way to increasing the chances of a successful project. I wanted to give my general approach and share some useful resources on the subject.
+
+Here’s the general approach I'm going to take in this blog post:
+
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- [Why planning and estimation]({{ site.baseurl }}/2021/02/20/my-approach-to-software-planning-and-estimation.html#why-planning-and-estimation)
+- [Create a high level system design]({{ site.baseurl }}/2021/02/20/my-approach-to-software-planning-and-estimation.html#create-a-high-level-system-design)
+- [Create a sprint plan]({{ site.baseurl }}/2021/02/20/my-approach-to-software-planning-and-estimation.html#create-a-sprint-plan)
+- [Useful tools]({{ site.baseurl }}/2021/02/20/my-approach-to-software-planning-and-estimation.html#useful-tools)
+{: refdef}
+
+## Why planning and estimation
 
 For smaller projects, a high level overview and a few diagrams might suffice, but for longer projects with more unknowns, it’s important to take more time, filling out a more detailed plan before commencing. At the same time you want to avoid getting stuck in endless details or a plan that isn’t flexible to changing conditions.
 
