@@ -9,6 +9,6 @@ tags:
 ---
 In this week’s edition:
 
-AWS, Dorsey&JayZ, Arm, Kafka, podcast moderation, WebRTC, Facebook, regulations, Trello, Clubhouse Musk&Putin, Paul Graham, Ryan Dahl, OSS licenses...
+[AWS, Dorsey&JayZ, Arm, Kafka, podcast moderation, WebRTC, Facebook, regulations, Trello, Clubhouse Musk&Putin, Paul Graham, Ryan Dahl, OSS licenses...](https://markjgsmith.substack.com/p/mark-smiths-newsletter-20-02-2021)
 
 https://markjgsmith.substack.com/p/mark-smiths-newsletter-20-02-2021
