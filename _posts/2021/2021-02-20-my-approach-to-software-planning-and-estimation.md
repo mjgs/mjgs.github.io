@@ -3,7 +3,7 @@ title: "My approach to software planning and estimation"
 description: A brief description of how I approach project planning and estimation, with some useful articles and resources.
 published: true
 layout: post
-date: 2021-02-29 12:22:00:00 +0700
+date: 2021-02-20 12:22:00:00 +0700
 tags:
 - web development
 - services
