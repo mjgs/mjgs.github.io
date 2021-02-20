@@ -63,4 +63,4 @@ Planning is such an important aspect of web development that I have build an agi
 
 It’s open source, uses text files as storage, very unlikely to break, and will enable you to manage a backlog of tasks.
 
-http://blog.markjgsmith.com/portfolio/#eleventy-agile-blog
+[Eleventy Agile Blog](http://blog.markjgsmith.com/portfolio/#eleventy-agile-blog)
