@@ -8,6 +8,7 @@ tags:
 - web development
 - services
 - programming
+- freelance
 ---
 While there isn’t a single approach that works for all projects, doing some planning and estimation goes a long way to increasing the chances of a successful project. I wanted to give my general approach and share some useful resources on the subject.
 
