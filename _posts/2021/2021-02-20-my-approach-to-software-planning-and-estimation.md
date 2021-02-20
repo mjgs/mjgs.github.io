@@ -28,16 +28,19 @@ Identifying problematic areas, and finding an appropriate balance between planni
 
 ## Create a high level system design
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Overview
 - Project parts
 - Architecture
 - Issues / items that need to be discussed and solved
+{: refdef}
 
 See the Facebook architecture planning videos for some good examples of high level system design:
 
-[Top Facebook System Design Interview Questions (Part 1)](https://hackernoon.com/a-look-at-the-top-questions-for-a-system-design-interview-at-facebook-va15311j)
-
-[Top Facebook System Design Interview Questions (Part 2)](https://www.indiehackers.com/post/top-facebook-system-design-interview-questions-part-2-3409d78139)
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- [Top Facebook System Design Interview Questions (Part 1)](https://hackernoon.com/a-look-at-the-top-questions-for-a-system-design-interview-at-facebook-va15311j)
+- [Top Facebook System Design Interview Questions (Part 2)](https://www.indiehackers.com/post/top-facebook-system-design-interview-questions-part-2-3409d78139)
+{: refdef}
 
 ## Create a sprint plan 
 
@@ -45,11 +48,14 @@ General approach is agile scrum methodology. Break down the project parts into s
 
 During sprint planning assign stories to be completed in each sprint:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - high level sprint planning for several months at a time, and
 - more detailed sprint plan each week for the next sprint
+{: refdef}
 
 Take each project part
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Create stories
 - Add story estimates
     - amount
@@ -59,10 +65,13 @@ Take each project part
 - Add stories to backlog
 - Total all the estimate amounts
 - Update measured & accuracy throughout project
+{: refdef}
 
 Project planning article goes into a lot of depth in this subject.
 
-[Definite guide to estimating software projects](https://maximzubarev.com/estimating-software-definite-guide)
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- [Definite guide to estimating software projects](https://maximzubarev.com/estimating-software-definite-guide)
+{: refdef}
 
 ## Useful tools
 
@@ -72,4 +81,6 @@ Planning is such an important aspect of web development that I have build an agi
 
 It’s open source, uses text files as storage, very unlikely to break, and will enable you to manage a backlog of tasks.
 
-[Eleventy Agile Blog](http://blog.markjgsmith.com/portfolio/#eleventy-agile-blog)
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
+- [Eleventy Agile Blog](http://blog.markjgsmith.com/portfolio/#eleventy-agile-blog)
+{: refdef}
