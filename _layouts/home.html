@@ -14,7 +14,10 @@ layout: default
   <br>
 
   {%- if site.posts.size > 0 -%}
+    
     <ul class="post-list">
+
+    {%- unless post.redirect_to -%}
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -34,6 +37,8 @@ layout: default
         <p>{{ post.content }}</p>
       </li>
       {%- endfor -%}
+    {%- endif -%}
+
     </ul>
 
     {% include enquiry.html %}
