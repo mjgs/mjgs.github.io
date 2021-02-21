@@ -86,3 +86,11 @@ Eliot has subsequently held Senior Motion Graphics Designer and Motion Graphics 
 >I would highly recommend Mark to anyone who needs the skills of a strong builder and customer-facing technical resource.
 
 Bruce has subsequently held several Media Technology Workflow Consultant, Senior Solutions Architect and Senior Solutions Engineer roles at companies including [Verizon Media](https://en.m.wikipedia.org/wiki/Verizon_Media), [IBM Watson Media](https://www.ibm.com/watson/media), [Comcast](http://www.comcasttechnologysolutions.com) and [Amazon Web Services](http://aws.amazon.com)
+
+[Tony Vasile](https://www.linkedin.com/mwlite/in/tony-vasile-21250a) - I worked with Tony while at [Signiant](https://www.signiant.com) where he was Cloud Solutions Architect, Software Development Manager
+
+> I worked with Mark primarily in a sales engineer role. I recall his first company experience was at the IBC trade show, he was sent without really knowing the product or current customers. Mark dove in to the deep end and gave customer demos, immersed himself in the company culture, and was a pro by the end of the trade show. That first impression was indicative of Marks dedication and work ethic, and he went on to architect and build many custom workflow solutions for Signiant clients in the EMEA region.
+>
+> Later Mark joined the Web development team, where he became part of the SCRUM team and delivered high quality software.
+
+Tony has subsequently held Chief Software Architect and Technical Product Owner roles at companies including [Signiant](https://www.signiant.com) and [Cisco](https://en.m.wikipedia.org/wiki/Cisco_Systems)
