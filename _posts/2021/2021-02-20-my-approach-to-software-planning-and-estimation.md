@@ -70,7 +70,7 @@ Take each project part
 - Update measured & accuracy throughout project
 ```
 
-Project planning article goes into a lot of depth in this subject.
+The following project planning article goes into a lot more depth on the subject:
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - [Definite guide to estimating software projects](https://maximzubarev.com/estimating-software-definite-guide)
