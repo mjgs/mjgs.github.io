@@ -3,7 +3,7 @@ title: Recommendations
 layout: page
 permalink: "/recommendations/"
 ---
-## [Tim Baxter](https://www.linkedin.com/mwlite/in/tim-baxter-film-tv-vfx) [#]({{ site.baseurl }}/recommendations#tim-baxter)
+## [Tim Baxter](https://www.linkedin.com/mwlite/in/tim-baxter-film-tv-vfx)
 
 I worked with Tim at Capital FX and later at [Deluxe Digital Entertainment](https://en.m.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group) where he was the Film Scanning & Recording Manager
 
@@ -13,7 +13,7 @@ I worked with Tim at Capital FX and later at [Deluxe Digital Entertainment](http
 
 Tim has subsequently been Director/Co-founder, and held managerial Client Relations and Business Development roles at several renouned VFX facilities including [Fugitive Studios](http://www.wearefugitives.com), [Soho Digital Cinema](https://www.broadcastnow.co.uk/tech/visual-data-media-services-acquires-soho-digital-cinema/5138899.article) (acquired by [Visual Data](https://www.visualdatamedia.com/distribution/dcinema-mastering-and-distribution/ )) and [Eclair](https://eclair.digital/en?action)
 
-## [Ian Buckton](https://www.linkedin.com/mwlite/in/ian-buckton-9b550150) [#]({{ site.baseurl }}/recommendations#ian-buckton)
+## [Ian Buckton](https://www.linkedin.com/mwlite/in/ian-buckton-9b550150)
 
 I worked with Ian at Capital FX where he was MD / Co-owner, and later at [Deluxe Digital Entertainment](https://en.m.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group) where he was a consultant.
 
@@ -23,7 +23,7 @@ I worked with Ian at Capital FX where he was MD / Co-owner, and later at [Deluxe
 
 Ian has subsequently held a variety of consultancy and strategic advisory roles for companies such as [Motion Picture Solutions (MPS)](https://www.motionpicturesolutions.com)
 
-## [Dave North](https://www.linkedin.com/mwlite/in/dnorth98) [#]({{ site.baseurl }}/recommendations#dave-north)
+## [Dave North](https://www.linkedin.com/mwlite/in/dnorth98)
 
 I worked with Dave at [Signiant](https://www.signiant.com) where he was DevOps Manager and Director of DevOps
 
@@ -33,7 +33,7 @@ I worked with Dave at [Signiant](https://www.signiant.com) where he was DevOps M
 
 Dave has subsequently held Cloud Architect and Director of Technical Operations roles at [Rewind](https://rewind.io)
 
-## [Darren Breeze](https://www.linkedin.com/mwlite/in/darrenbreeze) [#]({{ site.baseurl }}/recommendations#daren-breeze)
+## [Darren Breeze](https://www.linkedin.com/mwlite/in/darrenbreeze)
 
 I worked with Darren while he was Director of Technology Development and Architecture at [Discovery Networks Europe](https://corporate.discovery.com), who were clients of the company I worked for [Signiant](https://www.signiant.com)
 
@@ -45,7 +45,7 @@ I worked with Darren while he was Director of Technology Development and Archite
 
 Darren has subsequently held Director / Co-owner, CTO and CEO positions at companies including DAO Media Systems (UK), Yapku (HK), KSN Systems (HK & NZ) and KidsSafetyNet (HK)
 
-## [Matt Rountree](https://www.linkedin.com/mwlite/in/matt-rowntree-0110412) [#]({{ site.baseurl }}/recommendations#matt-rountree)
+## [Matt Rountree](https://www.linkedin.com/mwlite/in/matt-rowntree-0110412)
 
 I worked with Matt at [Signiant](https://www.signiant.com) where he was Senior Solutions Architect
 
@@ -53,7 +53,7 @@ I worked with Matt at [Signiant](https://www.signiant.com) where he was Senior S
 
 Matt has subsequently been an Independant Consultant / Media Workflow Architect, and held Senior Software Engineer roles at companies including the [National Football League (NFL)](https://en.m.wikipedia.org/wiki/National_Football_League) and [Zixi](https://zixi.com)
 
-## [Henry van der Beek](https://www.linkedin.com/mwlite/in/ninhenzo64) [#]({{ site.baseurl }}/recommendations#henry-van-der-beek)
+## [Henry van der Beek](https://www.linkedin.com/mwlite/in/ninhenzo64)
 
 I worked with Henry at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was System Administrator
 
@@ -61,7 +61,7 @@ I worked with Henry at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.
 
 Henry has subsequently held Technical Director and Senior Technical Director roles at several renouned feature film VFX facilities including [Framestore (UK)](https://en.m.wikipedia.org/wiki/Framestore), [Method Studios (US)](https://en.m.wikipedia.org/wiki/Method_Studios) and animation production studio [Psyop (US)](https://en.m.wikipedia.org/wiki/Psyop_(company))
 
-## [Roberto Milev](https://www.linkedin.com/mwlite/in/robertomilev) [#]({{ site.baseurl }}/recommendations#roberto-milev)
+## [Roberto Milev](https://www.linkedin.com/mwlite/in/robertomilev)
 
 I worked with Roberto while at [Signiant](https://www.signiant.com) where he was Software Architect
 
@@ -69,7 +69,7 @@ I worked with Roberto while at [Signiant](https://www.signiant.com) where he was
 
 Roberto has subsequently held several Senior Architect and Senior Developer roles at companies including [TELUS Health Solutions](https://www.telus.com), [GE Digital](https://www.ge.com/digital) and [Anaplan](https://www.anaplan.com)
 
-## [Emmanuel Proulx](https://www.linkedin.com/mwlite/in/eproulx) [#]({{ site.baseurl }}/recommendations#emmanuel-proulx)
+## [Emmanuel Proulx](https://www.linkedin.com/mwlite/in/eproulx)
 
 I worked with Emmanuel at [Signiant](https://www.signiant.com) on the [Media Shuttle](https://www.signiant.com/products/media-shuttle/?cc=homepage) Web Team where he was Lead Developer
 
@@ -79,7 +79,7 @@ I worked with Emmanuel at [Signiant](https://www.signiant.com) on the [Media Shu
 
 Emmanuel has subsequently held Lead Developer and Full-Stack Software Developer roles at companies including [BackOffice Associates](https://www.syniti.com), [Dialogic](http://www.dialogic.com) and [High Tech Genesis](http://www.hightechgenesis.com)
 
-## [Eliot Hobdell](https://www.linkedin.com/mwlite/in/eliot-hobdell-50b33710) [#]({{ site.baseurl }}/recommendations#eliot-hobdell)
+## [Eliot Hobdell](https://www.linkedin.com/mwlite/in/eliot-hobdell-50b33710)
 
 I worked with Eliot at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.org/wiki/Jim_Henson%27s_Creature_Shop), which was part of the [Jim Henson Company](https://en.m.wikipedia.org/wiki/The_Jim_Henson_Company), where he was Render Wrangler
 
@@ -87,7 +87,7 @@ I worked with Eliot at [Jim Henson's Creature Shop (UK)](https://en.m.wikipedia.
 
 Eliot has subsequently held Senior Motion Graphics Designer and Motion Graphics Supervisor roles for renouned feature film VFX facilities including [The Moving Picture Company (MPC)](https://en.m.wikipedia.org/wiki/Moving_Picture_Company) and [DNEG](https://en.m.wikipedia.org/wiki/DNEG)
 
-## [Bruce Ross](https://www.linkedin.com/mwlite/in/bruce-ross-83043) [#]({{ site.baseurl }}/recommendations#bruce-ross)
+## [Bruce Ross](https://www.linkedin.com/mwlite/in/bruce-ross-83043)
 
 I worked with Bruce while at [Signiant](https://www.signiant.com) where he was Technical Delivery Manager
 
@@ -107,7 +107,7 @@ I worked with Bruce while at [Signiant](https://www.signiant.com) where he was T
 
 Bruce has subsequently held several Media Technology Workflow Consultant, Senior Solutions Architect and Senior Solutions Engineer roles at companies including [Verizon Media](https://en.m.wikipedia.org/wiki/Verizon_Media), [IBM Watson Media](https://www.ibm.com/watson/media), [Comcast](http://www.comcasttechnologysolutions.com) and [Amazon Web Services](http://aws.amazon.com)
 
-## [Tony Vasile](https://www.linkedin.com/mwlite/in/tony-vasile-21250a) [#]({{ site.baseurl }}/recommendations#tony-vasile)
+## [Tony Vasile](https://www.linkedin.com/mwlite/in/tony-vasile-21250a)
 
 I worked with Tony while at [Signiant](https://www.signiant.com) where he was Cloud Solutions Architect, Software Development Manager
 
