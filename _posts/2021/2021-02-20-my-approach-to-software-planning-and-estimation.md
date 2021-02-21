@@ -54,9 +54,11 @@ During sprint planning assign stories to be completed in each sprint:
 - more detailed sprint plan each week for the next sprint
 {: refdef}
 
+In pseudocode:
+
+```
 Take each project part
 
-{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Create stories
 - Add story estimates
     - amount
@@ -66,7 +68,7 @@ Take each project part
 - Add stories to backlog
 - Total all the estimate amounts
 - Update measured & accuracy throughout project
-{: refdef}
+```
 
 Project planning article goes into a lot of depth in this subject.
 
