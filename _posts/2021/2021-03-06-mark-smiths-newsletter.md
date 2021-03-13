@@ -2,6 +2,7 @@
 title: "My javascript / tech / web development newsletter for 2021-03-06 is out!"
 description: NFTs, NFTs, NFTs, SuperTwitter, Rapers, VIM, Jobs Clubhouse, MarsCopter, Curators, Tracking Pixels, GDPR Cookies, VR, Spotify, AB Testing, Figma, Soundcloud, TimeCrystals, MoonTrip, Brave, AWS, GCP
 published: true
+newsletter: true
 layout: post
 date: 2021-03-06 15:05:00:00 +0700]
 tags:
