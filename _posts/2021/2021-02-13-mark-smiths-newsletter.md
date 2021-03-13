@@ -2,6 +2,7 @@
 title: "My javascript / tech / web development newsletter for 2021-02-13 is out!"
 description: Governments, DevOps CI/CD, GameStop, SSH Tunnels, Jobs’ keynotes, OSS, audioOnUnix, Jack Dorsey, blogging, NFTs, CAPEX, Apple, Disney, Jamstack, websockets, k8s, Kafka, Lambda, Tesla, cool podcasts...
 published: true
+newsletter: true
 layout: post
 date: 2021-02-13 20:05:00:00 +0700
 tags:
