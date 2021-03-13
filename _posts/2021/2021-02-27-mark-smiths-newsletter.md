@@ -2,6 +2,7 @@
 title: "My javascript / tech / web development newsletter for 2021-02-27 is out! Javascript Core Special Edition! 💯"
 description: "Javascript Core Special, Aussie News, Peter Jackson’s LOTR, nerdy essays, NFTs, cool history, Spotify, EtheriumFunOver, Android, Firefox, companiesBuyBitcoin, great docs, Indie Web, Twitter features..."
 published: true
+newsletter: true
 layout: post
 date: 2021-02-27 14:31:00:00 +0700]
 tags:
