@@ -22,9 +22,9 @@ layout: default
   <article class="post-content">
     {{ content }}
 
-    {% if post.newsletter == true %}
+    {%- if post.newsletter == true -%}
     {% include newsletter-signup.html %}
-    {% endif %}
+    {%- endif -%}
 
     {% include announce.html %}
     {% include enquiry.html %}
