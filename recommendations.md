@@ -133,6 +133,6 @@ Mike has subsequently held Director of Product Managenent and Cloud Technology C
 
 I worked with Ian while at Signiant where he is Chief Technical Officer.
 
-> I worked with Mark from 2007 to 2013 at Signiant.  Mark was originally a member of our Professional Services team in EMEA and later moved into our software development team in Ottawa.   Mark spent the majority of his time at Signiant in customer facing technical roles.  Mark was well liked by customers and gained their trust by showing a genuine interest in solving their problems with practical solutions.  Mark is detail oriented, has great follow-up and is always open to exploring new opportunities and technologies.  Mark was a pleasure to work with.
+> I worked with Mark from 2007 to 2013 at [Signiant](https://www.signiant.com).  Mark was originally a member of our Professional Services team in EMEA and later moved into our software development team in Ottawa.   Mark spent the majority of his time at Signiant in customer facing technical roles.  Mark was well liked by customers and gained their trust by showing a genuine interest in solving their problems with practical solutions.  Mark is detail oriented, has great follow-up and is always open to exploring new opportunities and technologies.  Mark was a pleasure to work with.
 
-As a founding member of Signiant, Ian leads the development of innovative software solutions.
+As a founding member of [Signiant](https://www.signiant.com), Ian leads the development of innovative software solutions.
