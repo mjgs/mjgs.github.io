@@ -32,7 +32,7 @@ At some stage I found another Reddit page where you can request that your banned
 
 I emailed support yet again and this time got a human reply. A few emails later they informed me that my account had been caught in a spam filter, and that the issue had been fixed. I never received any notice from them that this had happened. The account finally started working many months after the issue first appeared.
 
-Shortly after I posted to a jobs subreddit, my post was immediately removed and I was given conflicting information. Basically one message said ask the mods, and another said that if I asked the mods I could be banned. I opted to just not use Reddit for job search, and I’ve mostly stopped posting to other subreddits.
+Shortly after I posted to a jobs subreddit, my post was immediately removed and I was given conflicting information. I [posted again on Indie Hackers to ask for advice](https://www.indiehackers.com/post/reddit-admins-finally-fixed-my-broken-account-now-they-are-giving-me-conflicting-info-could-result-in-a-ban-what-should-i-do-fefee78481). Basically one message said ask the mods, and another said that if I asked the mods I could be banned. I opted to just not use Reddit for job search, and I’ve mostly stopped posting to other subreddits.
 
 It was a really horrible and drawn out situation that affected my life in many ways, where I was tried, judged, convicted and hung out to dry by the community, where there was no recourse, no procedures to restore my account. It’s really tarnished how I view community and the web. I’ve since had account issues with several other sites, including Freelancer.com, Coinbase.com, big named sites where you would expect account issues not to happen.
 
