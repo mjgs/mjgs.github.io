@@ -9,6 +9,6 @@ tags:
 ---
 In this week’s edition:
 
-[Spotify, Puppeteer, M1, k8s, inline modules, Linux, PRs are bad, ffmpeg, container queries, ad tracking, video encoding workflows, marscopter, HTML, Facebook, NFTs for devs, stocks, FSF, Epic, SSGs...](https://markjgsmith.)
+[Spotify, Puppeteer, M1, k8s, inline modules, Linux, PRs are bad, ffmpeg, container queries, ad tracking, video encoding workflows, marscopter, HTML, Facebook, NFTs for devs, stocks, FSF, Epic, SSGs...](https://markjgsmith.substack.com/p/mark-smiths-newsletter-01-05-2021)
 
 https://markjgsmith.substack.com/p/mark-smiths-newsletter-01-05-2021
