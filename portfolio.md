@@ -5,6 +5,10 @@ permalink: "/portfolio/"
 ---
 ## Website Development
 
+### Making a Squarespace website dynamic with a serverless API, frontend page hydration and search
+
+I built some serverless API endpoints that pulled data from Monday.com, and a javascript frontend that inserts the API data into the page and also provides search functionality with filtering and date sorting of results. [Deep Tech Jobs](https://deeptechjobs.com) is due to launch soon.
+
 ### Jamstack Architecture Content Sites
 
 I built a NodeJS static site generator for
