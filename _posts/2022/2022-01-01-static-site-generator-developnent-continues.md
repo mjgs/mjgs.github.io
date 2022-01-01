@@ -13,7 +13,7 @@ tags:
 Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/01/hi-its-me-im-still-alive.html). You’ll get some idea of what I’ve been up to in my personal development projects, even if it’s not a nicely crafted piece, I’ve made some progress on my static site generator, and I wanted to blog about it. Still blogging... :)
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
-- Initial version which I wrote as a sort of life raft when the [linkblog.io ship was sinking]({{ site.baseurl }}/2020/11/25/2020-11-25-linkblogdotio-is-dead-long-live-linkblogging.html)
+- Initial version which I wrote as a sort of life raft when the [linkblog.io ship was sinking]({{ site.baseurl }}/2020/11/25/linkblogdotio-is-dead-long-live-linkblogging.html)
 - Jamstack, serverless, Netlify, Github Actions, CI/CD, and git repo powered development were all becoming super popular
 - It’s running my current linkblog, it works, it’s all running in the cloud, quite awesome 
 - But...the code is kind of fragile
