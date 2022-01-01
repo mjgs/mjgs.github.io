@@ -31,7 +31,7 @@ Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/
 - The main ideas were
   - Just render templates, stick to EJS and Markdown, keep it simple
   - Path base page routing
-  - Maybe rendering websites using templates could be similarish to how a render farm operates, something I have a lot of experience from my time in the VFX industry
+  - Maybe rendering websites using templates could be similarish to how a render farm operates, something I have a lot of experience from [my time in the featute film visual effects (VFX) industry](({{ site.baseurl }}/2020/11/24/2020-11-24-what-its-like-working-in-tech-in-the-visual-effects-industry)
   - I had been reading a lot about various more formal data structures, and it was clear to me that a queue would be beneficial to handle all the template rendering 
   - Just get something working that runs locally, but maybe if the architecture was done right it would be easy to get things working in a serverless environment later
   - Initial specific requirements for phase 1 - Implemented these crucial examples very early, and so can easily check that structural changes don’t break these
@@ -49,7 +49,7 @@ Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/
   - Jekyll - the ssg I currently use for my blog
   - Eleventy - awesome ssg that uses classes in a really nice way, great community
   - Pixar’s Renderman - the standard for running large scale render farms in the VFX industry
-  - Render farms - memories I have of my time working with render farms, mostly sysadmin/devops stuff, but also a bit of software development
+  - Render farms - [memories I have of my time working with VFX render farms, mostly sysadmin/devops stuff, but also some of software development
   - Serverless and Jamstack the shiney future at the end of the tunnel
   - Wordpress, & open source
 - Open source
