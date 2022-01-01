@@ -16,7 +16,7 @@ Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/
 - Initial version which I wrote as a sort of life raft when the [linkblog.io ship was sinking]({{ site.baseurl }}/2020/11/25/2020-11-25-linkblogdotio-is-dead-long-live-linkblogging)
 - Jamstack, serverless, Netlify, Github Actions, CI/CD, and git repo powered development were all becoming super popular
 - It’s running my current linkblog, it works, it’s all running in the cloud, quite awesome 
-- But...the code it kind of fragile
+- But...the code is kind of fragile
   - quite a lot of duck tape
   - the structure of the code is convoluted in places
   - lots of callback hell
