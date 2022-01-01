@@ -22,7 +22,7 @@ Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/
   - lots of callback hell
   - hey async/await was new when I wrote it and I hadn’t gotten comfortable with it yet
 - It uses plain javascript objects rather than classes, which is mostly fine, but I’ve seen quite a few implementations of tools that use classes
-  - it’s much clearer to me now how to think about and mentally manipulate such concepts, 
+  - it’s much clearer to me now how to think about and mentally manipulate such concepts
   - there’s a lot of flexibility and structural benefits when you have the right abstractions, 
   - you can more easily get out of the weeds in some places
   - You can more easily build something that can be refactored to suit your current needs
