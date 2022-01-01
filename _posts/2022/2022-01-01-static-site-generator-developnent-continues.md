@@ -10,7 +10,6 @@ tags:
 - linkblogging
 - programming
 ---
-
 Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/01/2022-01-01-static-site-generator-developnent-continues). You’ll get some idea of what I’ve been up to in my personal development projects, even if it’s not a nicely crafted piece, I’ve made some progress on my static site generator, and I wanted to blog about it. Still blogging… :)
 
 {:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
