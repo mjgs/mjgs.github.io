@@ -38,9 +38,7 @@ class Dispatcher {
     this.renderersByExt = this.getRenderersByExt();
     
     for (var i = 0; i < templatePaths.length; i++) {
-    
       // ... do some rendering ...
-    
     }
   }
   
@@ -54,7 +52,6 @@ class Dispatcher {
   }
   
   // ...
-  
 }
 {% endhighlight %}
 
