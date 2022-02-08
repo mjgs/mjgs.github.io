@@ -65,15 +65,15 @@ This past week, I’ve been looking at these frameworks more closely, trying to 
 With old school templating rendered server-side, though there are lots of peripheral features, it essentially boils down to passing a template string together with an object containing data to the templating library. The library takes the data and the template string and gives you back an HTML string, a.k.a the rendered page. You write that to a file. Rinse and repeat, upload all the files to your CDN / hosting provider, and that’s your site live.
 
 {% highlight javascript %}
-  debug('Renderer fn - ejs: rendering template');
+debug('Renderer fn - ejs: rendering template');
   
-  const renderedContent = ejs.render(
-    templateBody,
-    context,
-    options
-  );
+const renderedContent = ejs.render(
+  templateBody,
+  context,
+  options
+);
     
-  return renderedContent;
+return renderedContent;
 {% endhighlight %}
 
 The template libraries have lots of neat features to make it easier to create your pages. One such feature is the ability to include templates inside templates. You create templates for small pieces that you can reuse across all your pages. On my Jekyll based blog for example, I have among others, includes for the Google analytics snippet, as well as messages [promoting my development services]({{ site.baseurl }}/2022/01/01/hi-its-me-im-still-alive.html) that appear on each page. I can update the included templates and the messages update across all the pages that use those templates. The feature is sometimes called partials, it’s been a standard feature of ssg’s for many years. Each library has a syntax for describing the include that you insert directly into the template HTML, and you often additionally pass the include a data object which is used by the library to render the included template. 
