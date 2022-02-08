@@ -33,7 +33,7 @@ It’s pretty clear to me that if you can write your template alongside the func
 
 Anyway, guess what, it worked!
 
-It seems sort of obvious now, but sometimes when you are in the fog of technology, mental models, implementations, buzzwords, build tools, peoples opinions, and just the complexities, mutilations, humiliations, thirsts, hungers, dirtyness, pain and madness of life, it totally doesn’t seem obvious!
+It seems sort of obvious now, but sometimes when you are in the fog of technology, mental models, implementations, buzzwords, build tools, peoples opinions, and just the complexities, mutilations, humiliations, thirsts, hungers, dirtyness, impossible situations, contradictions, blocking, pain and madness of life, it totally doesn’t seem obvious!
 
 In the end I added about 10 lines of code, and a very simple Component class, and it worked, the component I included in my template rendered! And since my ssg has a way to define custom renderers, most libraries that support partials/includes should now be able to render components. It's early days and I havent done much testing, but it seems as though it is possible.
 
