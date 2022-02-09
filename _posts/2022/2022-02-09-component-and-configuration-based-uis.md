@@ -3,7 +3,7 @@ title: "Component and configuration based UIs"
 description: How I modified my static site generator to start rendering component based websites
 published: true
 layout: post
-date: 2022-02-09 09:00:00:00 +0700
+date: 2022-02-09 08:26:00:00 +0700
 tags:
 - blogging
 - web development
