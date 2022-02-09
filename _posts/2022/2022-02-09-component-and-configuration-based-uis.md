@@ -44,3 +44,5 @@ Regular template rendering still works as before, and for templates that don’t
 The only current limitation is that your top level can’t be a component, it has to be a template. The ssg renders components inside templates. There might be a way to have top level components in the future, I haven’t figured out an easy way to do that yet.
 
 One other thing, not related, but related, if there is one thing I have learnt here in Vietnam, it's that the people are cruel, and their cruelty will only increase over time. This is my opinion that has been formed after living here several years. They aren't all cruel, but when all is said snd done the net cruelty only increases. I really feel I have to say that now, while I still am able.
+
+They should consider renaming it the People's Cruelty of Vietnam. It would be a much more accurate description of the place.
