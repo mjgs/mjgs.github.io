@@ -45,7 +45,7 @@ getComponentFns(component) {
 }
 {% endhighlight %}
 
-In the javascript community such implementations are often referred to as syntactic sugar. Might be the same in other language communities, I don’t know (update - turns out [it is the sane in other programming languages](https://en.m.wikipedia.org/wiki/Syntactic_sugar)). Essentially the underlying process remains the same, but a new structure is available which is useful in many situations. Examples of this approach are Classes, syntactic sugar on top of prototype based inheritance, and Async/Await which still uses traditional callbacks underneath, but via promises.
+In the javascript community such implementations are often referred to as syntactic sugar. Might be the same in other language communities, I don’t know (update - turns out [it is the same in other programming languages](https://en.m.wikipedia.org/wiki/Syntactic_sugar)). Essentially the underlying process remains the same, but a new structure is available which is useful in many situations. Examples of this approach are Classes, syntactic sugar on top of prototype based inheritance, and Async/Await which still uses traditional callbacks underneath, but via promises.
 
 It’s pretty clear to me that if you can write your template alongside the functions it uses, and be sure that at render time, all the functions will be available, then that’s a net positive. And it might very well be that there are other, more frontend centric reasons to use components.
 
