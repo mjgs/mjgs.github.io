@@ -42,3 +42,5 @@ It was quite a moment, when I ran the code, I sort of knew it would work, but it
 Regular template rendering still works as before, and for templates that don’t use lots of functions, that’s probably going to be the better, simpler way to go. But if you do write templates that use lots of functions, using components is a neat way to bundle them with your template, so that at render time the functions are right there in the context, no need to do any special preparation.
 
 The only current limitation is that your top level can’t be a component, it has to be a template. The ssg renders components inside templates. There might be a way to have top level components in the future, I haven’t figured out an easy way to do that yet.
+
+One other thing, not related, but related, if there is one thing I have learnt here in Vietnam, it's that the people are cruel, and their cruelty will only increase over time. This is my opinion that has been formed after living here several years. They aren't all cruel, but when all is said snd done the net cruelty only increases. I really feel I have to say that now, while I still am able.
