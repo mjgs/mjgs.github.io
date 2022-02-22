@@ -26,4 +26,4 @@ Ok that’s it, nothing Earth shattering but I’m feeling good about the change
 
 Update - Wow I just noticed how many 2s there are in today's date. Hello world :)
 
-TODO - add links when wirkd allows
+TODO - add links when world allows
