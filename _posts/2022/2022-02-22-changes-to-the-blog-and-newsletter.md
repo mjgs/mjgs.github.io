@@ -25,3 +25,5 @@ I’m still liking the idea of publishing on Saturday, but I’m going to be mor
 Ok that’s it, nothing Earth shattering but I’m feeling good about the changes. I hope you like the sound of them.
 
 Update - Wow I just noticed how many 2s there are in today's date. Hello world :)
+
+TODO - add links when wirkd allows
