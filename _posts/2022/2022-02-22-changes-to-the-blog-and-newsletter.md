@@ -12,7 +12,7 @@ tags:
 - javascript
 - newsletter
 ---
-Towards the end of last year, I stopped posting to the linkblog. It wasn’t by choice, I still enjoy reading and curating content, but life configured itself for me in such a way that it was basically impossible to do in any meaningful way. I had just reached the 10 year anniversary. I’m glad I made it that far, but the world said no, loud and clear.
+Towards the end of last year, [I stopped posting to the linkblog]({{ site.baseurl }}/2022/01/01/hi-its-me-im-still-alive.html). It wasn’t by choice, I still enjoy reading and curating content, but life configured itself for me in such a way that it was basically impossible to do in any meaningful way. I had just reached the 10 year anniversary. I’m glad I made it that far, but the world said no, loud and clear.
 
 I have no way to post privately using the linkblog tool. I never had the chance to build that feature. It was on the roadmap, but there were always more important features that popped up, and I had made the decision to implement that feature later to try to make things a bit easier. There was already so much to worry about, and it seemed to me that storing less private data would eliminate a whole class of security concerns for my little sass web application.
 
