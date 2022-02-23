@@ -6,6 +6,7 @@ layout: post
 date: 2022-02-23 10:45:00:00 +0700
 tags:
 - blogging
+- writing
 - web development
 - programming
 - javascript
