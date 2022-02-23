@@ -35,14 +35,18 @@ It’s a topic that I’m watching closely because it will have a big effect on 
 
 Markdown Pros:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Portability
 - Collaboration
 - Git friendly
 - Compatibility
 - Huge ecosystem of tools
 - Being able to stick it in a PR, then stick it into a workflow
+{: refdef}
 
 Markdown Cons:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Not the best writing experience
-- Lousy editing experience 
+- Lousy editing experience
+{: refdef}
