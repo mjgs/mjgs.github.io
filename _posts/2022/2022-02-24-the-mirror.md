@@ -10,19 +10,32 @@ tags:
 - poetry
 --- 
 They: Be the mirror!
+
 I: I won’t be the mirror!
+
 They: we hate that you won’t do what we say, so we hate you!
+
 [some time passes]
+
 [everybody is a bit sad]
+
 They: what do we do?
+
 I: I don’t know
 
+
 They: Be the mirror!
+
 I: I’m the mirror!
+
 They: we hate the mirror, so we hate you!
+
 [some time passes]
+
 [everybody is a bit sad]
+
 They: what do we do?
+
 I: I don’t know
 
 [some more time passes]
