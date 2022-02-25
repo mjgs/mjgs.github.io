@@ -1,6 +1,6 @@
 ---
 title: "The Mirror"
-description: A story about life
+description: A story about life, and perhaps priorities
 published: true
 layout: post
 date: 2022-02-24 20:15:00:00 +0700
