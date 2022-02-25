@@ -23,6 +23,11 @@ They: what do we do?
 
 I: I don’t know
 
+...
+
+[some time passes]
+
+...
 
 They: Be the mirror!
 
@@ -38,6 +43,10 @@ They: what do we do?
 
 I: I don’t know
 
+...
+
 [some more time passes]
+
+...
 
 I: I guess I’ll go then, again. Maybe some others have food that I can eat and water that I can drink, so that I don’t die
