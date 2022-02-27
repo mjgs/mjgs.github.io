@@ -54,3 +54,5 @@ I: I guess I’ll go then, again. Maybe some others have food that I can eat and
 ###
 
 Update: This poem will be the last that I ever write so as to try to avoid even more abuse than is currentky beibg inflicted upon me. Cruelty should not be encouraged. Cruelty in the world is very real,  I am absokutely certain if that now.
+
+Update: Lots of very unnusual internet connectivity issues today
