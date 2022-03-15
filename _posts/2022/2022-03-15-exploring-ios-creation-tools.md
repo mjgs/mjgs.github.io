@@ -15,10 +15,12 @@ However functionality is not obvious straight away. I find that most of these ap
 
 Having said that it looks like the following things might be possible with standard Apple apps:
 
+{:refdef: style=“list-style-type:disc; margin-bottom: 14px;”}
 - Publishing ebooks ([Pages](https://www.apple.com/pages/))
 - Recording and editing audio ([GarageBand](https://www.apple.com/uk/ios/garageband/), Voice Memos)
 - Recording and editing video ([iMovie](https://www.apple.com/imovie))
 - Some basic automation ([Shortcuts](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios))
+{: refdef}
 
 Being able to do all these things from a mobile device would be awesome.
 
