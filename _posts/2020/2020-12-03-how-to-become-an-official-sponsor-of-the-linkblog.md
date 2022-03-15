@@ -5,10 +5,9 @@ published: true
 layout: post
 date: 2020-12-04 01:22:00:00 +0700
 tags:
-- linkblogging
+- linkblog
 - javascript
 - web development
-- promotion
 - sponsorship
 ---
 UPDATE (2020-12-20) - This blog post has been turned into a separate page, check out the [sponsorships]({{ site.baseurl }}/sponsorships) page for the latest.

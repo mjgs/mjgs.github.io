@@ -8,11 +8,8 @@ tags:
 - linkblog
 - programming
 - web development
-- feature
 - newsletter
 - jamstack
-- launch
-- promotion
 ---
 Linkblog.io the minimalist link curation tool, the Saas I spent 3 years building, is no longer live. All active users have been contacted and I’ve decommissioned the site.
 

@@ -5,7 +5,6 @@ layout: post
 date: '2019-12-08 16:32:00'
 tags:
 - linkblog
-- feature
 ---
 
 A big part of linkblog is the ability to see the context around a link, to see the other links that were posted on that day. It’s been possible to link directly to a day in your linkblog since the beginning. But until now, it hasn’t been possible to link directly to a specific message in a day.

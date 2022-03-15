@@ -5,11 +5,9 @@ published: true
 layout: post
 date: 2020-11-02 15:40:00:00 +0700
 tags:
-- github
 - productivity
 - agile
 - nodejs
-- tools
 - programming
 ---
 A short while ago I was wanting to have a self-hosted tool to manage sets of tasks in an efficient way, so that tasks actually get done. I wanted it to be simple enough not to require much maintenance, with minimal chances of something breaking because of software upgrades. 

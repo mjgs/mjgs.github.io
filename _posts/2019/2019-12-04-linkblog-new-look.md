@@ -5,7 +5,7 @@ layout: post
 date: '2019-12-04 20:00:00 +0700'
 tags:
 - linkblog
-- redesign
+- design
 ---
 
 Linkblog has had a site redesign!

@@ -5,7 +5,7 @@ published: true
 layout: post
 date: 2021-06-19 XX:XX:XX:XX +0700
 tags:
-- mark smith’s newsletter
+- newsletter
 ---
 In this week’s edition:
 

@@ -6,7 +6,6 @@ date: '2018-07-04 23:18:00 +0700'
 tags:
 - freelance
 - nodejs
-- services
 - web development
 - automation
 - workflows

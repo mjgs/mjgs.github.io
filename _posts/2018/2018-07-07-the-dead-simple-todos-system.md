@@ -7,7 +7,6 @@ tags:
 - productivity
 - programming
 - bash
-- tools
 - linux
 ---
 

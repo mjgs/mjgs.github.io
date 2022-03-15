@@ -5,7 +5,6 @@ published: true
 layout: post
 date: 2020-11-20 12:54:00:00 +0700
 tags:
-- jobs
 - web development
 - programming
 - services

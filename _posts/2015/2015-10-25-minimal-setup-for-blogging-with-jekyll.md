@@ -5,7 +5,8 @@ layout: post
 date: '2015-10-25 18:40:00 +0700'
 tags:
 - blogging
-- jekyll
+- jamstack
+- static site generators
 ---
 
 This initial post is to document how to configure the base [Jekyll](http://jekyllrb.com/) installation so that it's ready for blogging, with posts displaying on the main page, an archives page that lists all the posts, an about page for a personal description and social media info in the footer.
