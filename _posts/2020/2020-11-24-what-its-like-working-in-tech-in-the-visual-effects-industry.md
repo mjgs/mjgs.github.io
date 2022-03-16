@@ -6,7 +6,7 @@ layout: post
 date: 2020-11-24 16:25:00:00 +0700
 tags:
 - vfx
-- programminy
+- programming
 - automation
 - workflows
 ---
