@@ -8,8 +8,6 @@ tags:
 - web development
 - programming
 - freelance
-- jobs
-- promotion
 - services
 ---
 For most of the early web, freelance web development has been the norm. If you needed a website you hired a Wordpress developer and they hand crafted a beautiful website that met your needs. These developers had some backend development skills, but their real strength was frontend development, wrangling the html, css and javascript necessary to manifest your soon to be online property. 

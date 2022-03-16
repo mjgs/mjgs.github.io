@@ -7,7 +7,7 @@ date: 2022-01-01 13:20:00:00 +0700
 tags:
 - blogging
 - web development
-- linkblogging
+- linkblog
 - programming
 ---
 I just wanted to say hi and wish a happy new year to all. 

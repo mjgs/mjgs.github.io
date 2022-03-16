@@ -5,7 +5,7 @@ published: true
 layout: post
 date:  2021-04-17 12:55:00:00 +0700]
 tags:
-- mark smith’s newsletter
+- newsletter
 ---
 In this week’s edition:
 

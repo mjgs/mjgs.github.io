@@ -6,7 +6,6 @@ layout: post
 date: 2021-04-09 15:39:00:00 +0700
 tags:
 - javascript
-- technology
 - web development
 - linkblog
 - programming

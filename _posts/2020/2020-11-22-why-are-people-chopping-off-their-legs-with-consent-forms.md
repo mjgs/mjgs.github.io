@@ -7,7 +7,6 @@ date: 2020-11-22 11:51:00:00 +0700
 tags:
 - web development
 - programming
-- tech
 ---
 A recent HN thread was discussing [Why Japanese web design is so different](https://news.ycombinator.com/item?id=25148942). It’s based around an article written in 2013 but both the article and the thread discussion are an interesting read. 
 

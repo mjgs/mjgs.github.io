@@ -7,7 +7,7 @@ date: 2022-01-01 14:00:00:00 +0700
 tags:
 - blogging
 - web development
-- linkblogging
+- linkblog
 - programming
 ---
 Here are the notes I [mentioned in my previous post]({{ site.baseurl }}/2022/01/01/hi-its-me-im-still-alive.html). You’ll get some idea of what I’ve been up to in my personal development projects, even if it’s not a nicely crafted piece, I’ve made some progress on my static site generator, and I wanted to blog about it. Still blogging... :)

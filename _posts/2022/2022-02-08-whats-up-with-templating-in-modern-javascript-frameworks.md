@@ -7,7 +7,7 @@ date: 2022-02-08 13:30:00:00 +0700
 tags:
 - blogging
 - web development
-- linkblogging
+- linkblog
 - programming
 - javascript
 ---

@@ -7,11 +7,9 @@ date: 2020-11-30 08:00:00:00 +0700
 tags:
 - web development
 - programming
-- training
 - automation
 - workflows
 - services
-- jobs
 - travel
 ---
 I wrote recently about my time [working in the VFX industry](https://blog.markjgsmith.com/2020/11/24/what-its-like-working-in-tech-in-the-visual-effects-industry.html ) during the height of the analogue to digital transition. I wanted to write another similar piece remembering my time working for an enterprise software startup in the file delivery space, so that I have something to refer to in future, but also because it might be useful to others to get a picture of what it’s like working in an enterprise software company startup.

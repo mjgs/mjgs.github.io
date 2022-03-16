@@ -5,7 +5,6 @@ published: true
 layout: post
 date: 2020-11-27 11:44:00:00 +0700
 tags:
-- training
 - nodejs
 - web development
 - automation

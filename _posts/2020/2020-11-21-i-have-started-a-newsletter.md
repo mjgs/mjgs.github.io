@@ -5,11 +5,9 @@ published: true
 layout: post
 date: 2020-11-21 10:59:00:00 +0700
 tags:
-- jobs
 - web development
 - programming
 - javascript
-- tech
 - newsletter
 ---
 Earlier in the week I met-up with James Clark from [Nomadic Notes](https://www.nomadicnotes.com) for coffee. He’s a long time travel blogger and digital nomad known for his excellent [city travel guides](https://www.nomadicnotes.com/travel-guides). Really interesting guy with lots of insight into the travel blogging scene. It was great to meet him.

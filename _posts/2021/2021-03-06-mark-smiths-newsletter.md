@@ -6,7 +6,7 @@ newsletter: true
 layout: post
 date: 2021-03-06 15:05:00:00 +0700]
 tags:
-- mark smith’s newsletter
+- newsletter
 ---
 In this week’s edition:
 

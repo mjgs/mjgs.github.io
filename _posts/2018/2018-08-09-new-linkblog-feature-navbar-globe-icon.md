@@ -5,7 +5,6 @@ layout: post
 date: '2018-08-09 14:11:17'
 tags:
 - linkblog
-- feature
 ---
 
 The navbar globe icon feature adds a way to link to your other online sites.  To set it up, simply update the url form field on your user profile page. Then a globe icon will render in your public linkblog's navbar that loads that url when clicked. 

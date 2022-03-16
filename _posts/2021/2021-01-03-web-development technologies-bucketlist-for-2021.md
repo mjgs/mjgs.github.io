@@ -7,7 +7,7 @@ date: 2021-01-03 15:10:00:00 +0700
 tags:
 - web development
 - programming
-- web design
+- design
 ---
 It’s the start of the year, so what better way to start the year than to make a list of technologies I’d like to learn and get experience with over the next 12 months:
 

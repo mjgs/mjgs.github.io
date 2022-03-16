@@ -5,8 +5,6 @@ layout: post
 date: '2018-08-14 12:38:20'
 tags:
 - linkblog
-- feature
-- promotion
 ---
 
 Linkblog is featured today on [10words.io](https://10words.io), currently on the homepage and will also go out via their newsletter and twitter!

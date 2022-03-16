@@ -3,7 +3,8 @@ title: Welcome to Jekyll!
 layout: post
 date: '2015-10-23 20:05:48 +0700'
 tags:
-- jekyll
+- jamstack
+- static site generators
 - blogging
 ---
 

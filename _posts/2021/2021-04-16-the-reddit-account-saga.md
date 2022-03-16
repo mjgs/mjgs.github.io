@@ -6,7 +6,6 @@ layout: post
 date: 2021-04-16 19:30:00:00 +0700
 tags:
 - social media
-- community
 ---
 I have been a reader of Reddit for many years but hadn’t until late last year posted anything. 
 

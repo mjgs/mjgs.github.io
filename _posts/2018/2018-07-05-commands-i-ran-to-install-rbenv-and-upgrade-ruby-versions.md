@@ -4,8 +4,7 @@ published: true
 layout: post
 date: '2018-07-05 18:03:58 +0700'
 tags:
-- ruby 
-- tools
+- ruby
 - programming
 ---
 

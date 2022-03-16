@@ -6,7 +6,7 @@ layout: post
 date: 2020-12-24 08:58:00:00 +0700
 tags:
 - web development
-- web design
+- design
 - programming
 - content
 - writing
