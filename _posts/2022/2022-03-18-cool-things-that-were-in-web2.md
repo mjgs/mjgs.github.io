@@ -11,7 +11,7 @@ tags:
 --- 
 Last week I listened to a [John Gruber interview with Tom Watson and Daniel Agee](https://daringfireball.net/thetalkshow/2022/03/09/ep-340), the founders of the photo sharing app [Glass](https://glass.photo). They talked a lot about what it was like during web2.0, including some of the cool things that got developed in that period. 
 
-I enjoyed the brief trip down memory lane, an oasis of calm amongst the current madness all around. I spent a few minutes making a list of sim of the things I remember, and enjoyed wondering how some of these types of technologies and trends could blend with things in web3.0.
+I enjoyed the brief trip down memory lane, an oasis of calm amongst the current madness all around. I spent a few minutes making a list of some of the things I remember, and enjoyed wondering how some of these types of technologies and trends could blend with things in web3.0.
 
 Here’s that list:
 
