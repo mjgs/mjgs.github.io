@@ -19,3 +19,7 @@ Crypto, blockchains, memecoins, DAOs, cosplay, algorithms, Anon, AI, brain-compu
 War and peace…AT THE SAME TIME!
 
 Some of you are gonna love it! At least some of the time.
+
+What could possibly go wrong? 
+
+With our patented starvation&thirst algorithm, nothing!
