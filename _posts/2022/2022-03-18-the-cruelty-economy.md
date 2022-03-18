@@ -14,7 +14,7 @@ So many things to watch and listen to. But that’s nothing compared to what’s
 
 Creative Economy + Web3
  
-Crypto, blockchains, memecoins, DAOs, cosplay, algorithms, Anon, AI, WOW.
+Crypto, blockchains, memecoins, DAOs, cosplay, algorithms, Anon, AI, brain-computer-interfaces, WOW.
 
 War and peace…AT THE SAME TIME!
 
