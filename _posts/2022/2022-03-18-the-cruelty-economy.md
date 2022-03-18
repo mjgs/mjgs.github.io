@@ -18,4 +18,4 @@ Crypto, blockchains, memecoins, DAOs, cosplay, algorithms, Anon, AI, WOW.
 
 War and peace…AT THE SAME TIME!
 
-Some of you are gonna love it!
+Some of you are gonna love it! At least some of the time.
