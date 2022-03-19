@@ -25,6 +25,7 @@ Here’s that list:
 - 3D printing
 - Photo sharing
 - Video streaming
+- Online maps and navigation
 - Blogging and RSS
 - Live photo feeds from events with photos displaying on your desktop as they are taken
 - Journalism integrated with data analysis tools
