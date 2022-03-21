@@ -1,6 +1,6 @@
 ---
 title: "Creative Economy vs the Cruelty Economy"
-description: "Exploring the concepts if creator and cruelty economies"
+description: "Exploring the concepts of creator and cruelty economies"
 published: true
 layout: post
 date: 2022-03-21 08:55:00:00 +0700
