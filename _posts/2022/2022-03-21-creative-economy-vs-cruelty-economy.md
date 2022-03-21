@@ -11,7 +11,7 @@ tags:
 ---
 Some thoughts on these two concepts, don’t take these as fact, just some observations, might lead to something interesting, or maybe not.
 
-In the cruelty economy you are rewarded for receiving and disposing of cruelty. People optimise for not being hurt, not getting angry, for catching the purpotraiters of cruelty. Things tend towards a imprisonment.
+In the [cruelty economy]({{ site.baseurl }}/2022/03/18/cruelty-economy.html) you are rewarded for receiving and disposing of cruelty. People optimise for not being hurt, not getting angry, for catching the purpotraiters of cruelty. Things tend towards a imprisonment.
 
 In the creator economy you are rewarded for receiving creativity and releasing it. People optimise for maximising the creativity, even bad stuff can be good. Things tend towards anarchy.
 
