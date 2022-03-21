@@ -19,7 +19,7 @@ Things go bad when your capacity to process is exceeded. Creativity turns to cru
 
 Real true anger is a capacity problem, it’s the group mis-managing capacity.
 
-It’s a sort of symbiosis, perhaps similar in concept and behaviour to other natural phenomena like the El niño - El niña weather system. In the case of the creator-cruelty economy, ultimately it’s all based on chemical fluctuations in our brains.
+It’s a sort of symbiosis, perhaps similar in concept and behaviour to other natural phenomena like the [El niño - El niña]() weather system. In the case of the creator-cruelty economy, ultimately it’s all based on chemical fluctuations in our brains.
 
 It’s a really tough problem to think about, because we are all in the map so to speak, whatever actions we take, including thinking about the dynamic, affects the dynamic, and the balance.
 
