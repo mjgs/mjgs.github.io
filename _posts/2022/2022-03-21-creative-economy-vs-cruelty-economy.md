@@ -24,3 +24,5 @@ It’s a sort of symbiosis, perhaps similar in concept and behaviour to other na
 It’s a really tough problem to think about, because we are all in the map so to speak, whatever actions we take, including thinking about the dynamic, affects the dynamic, and the balance.
 
 A potential danger is that you get caught in one extreme or the other, without enough capacity to switch. And then you are probably in for a bad time. Smashed against the rocks, over and over again, in plain site.
+
+TODO - Add link to el niño el niña article
