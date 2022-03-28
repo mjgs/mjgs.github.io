@@ -18,7 +18,7 @@ I was still listening to podcasts, but not music. At some point I listened to a 
 
 I’ve since started listening to all sorts of music again, electronic and band / guitar based. Not loads, but some. I’m so glad that I remembered.
 
-I was listening to some great punk rock recently and was moved to try to put into words the way it makes me feel. The following are extracts of what I wrote.
+I was listening to some great [punk/hardcore/indie/metal](https://audioboom.com/posts/8051277-580-5-em-moore-tells-you-what-to-listen-to) recently and was moved to try to put into words the way it makes me feel. The following are extracts of what I wrote.
 
 That thing where you feel like you’ve just been plugged into the mains, and all you want to do is shout YES over and over and over again, really fucking loudly.
 
