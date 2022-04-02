@@ -65,6 +65,7 @@ More information in these blog posts:
 
 These are minimal apps created for the purpose of learning a specific feature.
 
+- [action-jobs-in-series](https://github.com/mjgs/action-jobs-in-series) - Minimal workflow demonstrating using artefacts to pass data between jobs in series
 - [minimal-express-typescript](https://github.com/mjgs/minimal-express-typescript) - Minimal express app written in typescript with npm scripts to run the app in the vscode debugger
 - [ejs-layouts-using-includes](https://github.com/mjgs/ejs-layouts-using-includes) - Minimal express app implementing layouts using ejs includes
 - [nockback-test](https://github.com/mjgs/nockback-test) - Minimal test suite demonstrating nock's nockback feature that records 3rd party api test fixtures into separate files
