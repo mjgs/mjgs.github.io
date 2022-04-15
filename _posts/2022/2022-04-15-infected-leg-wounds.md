@@ -29,3 +29,6 @@ Something similar happened to me in India a few years ago, I’ve got a small sc
 There’s been a lot of unpleasant reactions from people, from mild racism to people finding it hilarious seeing a foreigner in pain. 
 
 I know these are a small group overall, but as with trolls in online comments, they can make it seem like the whole world is against you. I’m both mentally and physically bruised at the minute.
+
+You might be wondering: Are you ok?
+My response: No not really.
