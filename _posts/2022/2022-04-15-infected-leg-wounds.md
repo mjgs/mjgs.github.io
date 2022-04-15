@@ -12,7 +12,7 @@ I’m still battling with infected leg wounds, but things are a bit better than 
 
 What happened? I don’t fully know. 
 
-A month ago, a stranger non-shalontly walked up to me in a park, touched my right knee, smiled and walked off. Very weird.
+A month ago, a stranger nonchalantly walked up to me in a park, touched my right knee, smiled and walked off. Very weird.
 
 A couple of days later that exact spot started feeling sore. I didn’t think much of it, but I ran out of disinfectant, and it rapidly turned into an absys.
 
