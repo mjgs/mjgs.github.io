@@ -3,16 +3,20 @@ title: "Npm installing multiple private Github repos using ssh aliases"
 description: "How to npm install multiple private Github repos from within a Github Action"
 published: true
 layout: post
-date: 2022-04-21 17:00:00:00 +0700
+date: 2022-04-21 17:10:00:00 +0700
 tags:
 - blogging
 - programming
 ---
-When you are developing in NodeJS it’s often useful to be able to install private modules. The main ways to do that are:
+When you are developing in NodeJS it’s often useful to be able to install private modules. 
 
+The main ways to do that are:
+
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 1. Github Packages using Personal Access Token (PAT)
 2. Private Github repo using Personal Access Token (PAT)
 3. Private Github repo using Deploy Keys
+{: refdef}
 
 Apparently (1) is the most popular among developers, however it requires setup and management of additional workflows to create the Github Package.
 
@@ -34,9 +38,11 @@ Read more details about how to do that in [the  Github docs](https://docs.github
 
 For example if you had 3 private repos:
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - username/repo1
 - username/repo2
 - username/repo3
+{: refdef}
 
 Where repo1 installs both repo2 and repo3, then add an ssh config ($HOME/.ssh/config) as follows:
 
