@@ -30,7 +30,7 @@ This article focuses on method (3).
 
 Github has an [example repo](https://github.com/jcansdale-test/consume-private-npm-package) that demonstrates how to install a private repo using deploy keys. It’s worth testing that out.
 
-If you try the same methodology for installing more than 1 private repo in the same workflow, you’ll run into an issue. The reason being that Github doesn’t allow you to re-use the same deploy key across repos, and by default npm will use the default ssh private key (~/.ssh/idrsa), of which there is only one.
+If you try the same methodology for installing more than 1 private repo in the same workflow, you’ll run into an issue. The reason being that Github doesn’t allow you to re-use the same deploy key across repos, and by default npm will use the default ssh private key (~/.ssh/id_rsa), of which there is only one.
 
 However if you configure ssh to use aliases, you can specify a different private key for each alias, and then use those aliases in your package.json to specify the private module dependency.
 
