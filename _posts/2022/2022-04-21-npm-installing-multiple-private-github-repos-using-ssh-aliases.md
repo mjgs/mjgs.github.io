@@ -62,8 +62,8 @@ Then specify the modules like so in repo1’s package.json:
 ```
 "dependencies": {
   …
-  "repo2": "git+ssh://git@github.com-repo2: username/repo2",
-  "repo3": "git+ssh://git@github.com-repo3: username/repo3",
+  "repo2": "git+ssh://git@github.com-repo2:username/repo2",
+  "repo3": "git+ssh://git@github.com-repo3:username/repo3",
   …
 }
 ```
