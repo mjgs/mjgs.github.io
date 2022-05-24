@@ -8,6 +8,6 @@ tags:
 - blogging
 - writing
 ---
-An additional thought to the [post from a few days ago]({{ site.baseurl }}/2022/05/21/dilema.html).
+An additional thought to the [post from a few days ago]({{ site.baseurl }}/2022/05/21/dilemma.html).
 
 The non-homeless man is possibly part of a [Capture Gang](https://markjgsmith.substack.com/p/mark-smiths-newsletter-07-05-2022?s=w) - See section about audience capture for details.
