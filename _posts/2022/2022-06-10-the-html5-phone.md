@@ -22,7 +22,7 @@ I think there are a lot of current trends that could make this crazy pipe-dream 
 - There are a lot of web developers out in the world at this stage
 {: refdef}
 
-Wouldn’t a [progressively enhanced OS]({{ site.baseurl }}/2022/06/10/os-progressive-enhancement.html) be cool? Always know, that the basic apps you need will always work, no matter what phone you have
+Wouldn’t a [progressively enhanced OS]({{ site.baseurl }}/2022/06/10/os-progressive-enhancement.html) be cool? Always know, that the basic apps you need will always work, no matter what phone you have.
 
 It might not even be that difficult to start. Initially just create a bare minimum suite of apps, progressive enhancement style, that just do the very basics of the following apps:
 
