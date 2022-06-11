@@ -10,7 +10,7 @@ tags:
 ---
 I’ve been having this re-occurring thought. I don’t know how feasible it is, but I wanted to write about it just in case. Wouldn’t it be awesome if there was an HTML5 phone?
 
-The HTML5 phone would have all it’s UI built from HTML, CSS & Javascript, would likely run on a minimal Linux distro. Native apps would run in a custom NodeJS runtime, perhaps using something like Electron. It would be great for web developers, with the possibility to develop for the phone, on the phone. It could also leverage the web platform via PWAs. There’s a lot of variation possible, but the focus would be on HTML5 everywhere.
+The [HTML5](https://en.m.wikipedia.org/wiki/HTML5) phone would have all it’s UI built from HTML, CSS & Javascript, would likely run on a minimal Linux distro. Native apps would run in a custom NodeJS runtime, perhaps using something like Electron. It would be great for web developers, with the possibility to develop for the phone, on the phone. It could also leverage the web platform via PWAs. There’s a lot of variation possible, but the focus would be on HTML5 everywhere.
 
 I think there are a lot of current trends that could make this crazy pipe-dream a reality that could gain traction:
 
