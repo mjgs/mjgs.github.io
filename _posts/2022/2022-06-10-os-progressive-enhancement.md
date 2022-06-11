@@ -10,7 +10,7 @@ tags:
 ---
 I’m trying to get back into the blogging flow after a period of not writing much, so the next few posts are likely going to be a bit light on well-thought-outness, which isn’t even a word, but whatever. The enemy for me right now is getting bogged down, just trying to keep moving…
 
-I really like the practice in web development to create websites using progressive enhancement. Essentially you first create a bare minimum app using mostly HTML, and platform features, make sure that works, even if it looks a bit weird. The key thing is that functionality-wise it’s operational.
+I really like the practice in web development to create websites using [progressive enhancement](https://vanillajspodcast.com/progressive-enhancement-the-new-hotness). Essentially you first create a bare minimum app using mostly HTML, and platform features, make sure that works, even if it looks a bit weird. The key thing is that functionality-wise it’s operational.
 
 Then you enhance that with styling using CSS, and improve the functionality using javascript. This ensures that in pretty much any situation, even if for some reason the CSS and Javascript fail to load or get blocked, you still have an operational website.
 
