@@ -10,9 +10,11 @@ tags:
 ---
 ## Sandwich
 
+{:refdef: style="list-style-type:disc; margin-bottom: 14px;"}
 - Tech
 - Culture
 - Religion & history
+{: refdef}
 
 ## Background
 
