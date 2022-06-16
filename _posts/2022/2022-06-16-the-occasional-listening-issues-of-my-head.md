@@ -20,4 +20,4 @@ At times it’s annoyingly small side thoughts that totally derail my listening,
 
 At times it gets so bad that the only way I can absorb anything at all is to write copious amounts of notes. I have to pause and rewind, continuously and write notes, so I understand what’s going on, but I loose the flow of the overall audio, and I suspect that it sort of spoils my long term memory of the piece, because a lot of the subtleties and nuance get clobbered.
 
-Taking a break helps a bit, and having food + something to drink.
+Taking a break helps a bit, and having food + something to drink. In case it wasn't already abundantly obvious starvation and thirst does not help one bit, something which I have been unfortunate enough to verify.
