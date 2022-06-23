@@ -58,7 +58,9 @@ I come rave
 
 I come from acid
 
-I come from reggae 
+I come from reggae
+
+I come from dub
 
 I come from dancehall
 
