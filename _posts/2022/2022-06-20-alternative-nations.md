@@ -3,7 +3,7 @@ title: "Alternative Nations"
 description: "Where do you come from?"
 published: true
 layout: post
-date: 2022-06-20 09:00:00:00 +0700
+date: 2022-06-24 12:30:00:00 +0700
 tags:
 - blogging
 - writing
@@ -251,6 +251,8 @@ I come from blocking
 I come from surveillance 
 
 I come from police (fake?) brutality
+
+I come from security guard / tuk tuk / taxi / delivery bike mafia intimidation
 
 I come from stalkers
 
