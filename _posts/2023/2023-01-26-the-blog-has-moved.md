@@ -8,6 +8,6 @@ tags:
 - blogging
 - writing
 ---
-I have had to migrate my main [homepage](https://markjgsmith.com) and as part of the move I decided to consolidate the [blog](https://markjgsmith.com/blog), [linkblog](https://markjgsmith.com/linkblog) and [podcast]((https://markjgsmith.com/podcast) sites into the new website.
+I have had to migrate my main [homepage](https://markjgsmith.com) and as part of the move I decided to consolidate the [blog](https://markjgsmith.com/blog), [linkblog](https://markjgsmith.com/linkblog) and [podcast](https://markjgsmith.com/podcast) sites into the new website.
 
 There is also a [latest page](https://markjgsmith.com/latest) where you can see the newest content from all 3.
